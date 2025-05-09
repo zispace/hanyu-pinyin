@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# tlmgr install ctex enumitem makecell xpinyin
+# tlmgr install ctex enumitem makecell xpinyin fancyhdr
 
-latexmk -xelatex pinyin.tex pinyin2.tex
+latexmk -xelatex pinyin.tex pinyin-full.tex pinyin-lite.tex
 latexmk -c

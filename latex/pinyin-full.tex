@@ -14,7 +14,10 @@
 \setCJKsansfont[Path=./fonts/, Extension=.ttf]{FZHei-B01}
 \newCJKfontfamily\kaishu[Path=./fonts/, Extension=.ttf]{FZKai-Z03}
 
-\pagestyle{plain}
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[C]{汉语拼音方案} 
+\fancyhead[R]{}
 \ctexset{
   punct=kaiming,
   section/number=\chinese{section},
@@ -36,18 +39,13 @@
 % ㄪ (BOPOMOFO LETTER V): U+312A
 % 万 (wan): U+4E07
 \def\bopomofov{\textit{\symbol{"4E07}}}
-\pagestyle{fancy}
 
 \begin{document}
-\fancyhead[L]{}
-\fancyhead[C]{汉语拼音方案} 
-\fancyhead[R]{}
 
 \hypersetup{
   bookmarksnumbered=true,
   pdftitle={汉语拼音方案}
 }
-
 
 \part*{\huge
 中华人民共和国\\
