@@ -1,0 +1,415 @@
+# 端木三（Duanmu, San）：拼音音节和音素转换表
+# 共408个音节
+# Pinyin syllable to phoneme mapping table, The phonology of Standard Chinese
+# https://lingua.mtsu.edu/chinese-computing/phonology/py2phoneme.php
+# https://public.websites.umich.edu/~duanmu/
+# Index	Pinyin	Phoneme	Phoneme list	Number of phonemes
+
+1	a	a	a	1
+2	ai	ai	a, i	2
+3	an	an	a, n	2
+4	ang	aN	a, N	2
+5	ao	au	a, u	2
+6	ba	pa	p, a	2
+7	bai	pai	p, a, i	3
+8	ban	pan	p, a, n	3
+9	bang	paN	p, a, N	3
+10	bao	pau	p, a, u	3
+11	bei	pi	p, , i	3
+12	ben	pn	p, , n	3
+13	beng	pN	p, , N	3
+14	bi	pi	p, i	2
+15	bian	pian	p, i, a, n	4
+16	biao	piau	p, i, a, u	4
+17	bie	pi	p, i, 	3
+18	bin	pin	p, i, n	3
+19	bing	piN	p, i, , N	4
+20	bo	p	p, 	2
+21	bu	pu	p, u	2
+22	ca	tsha	tsh, a	2
+23	cai	tshai	tsh, a, i	3
+24	can	tshan	tsh, a, n	3
+25	cang	tshaN	tsh, a, N	3
+26	cao	tshau	tsh, a, u	3
+27	ce	tsh	tsh, 	2
+28	cen	tshn	tsh, , n	3
+29	ceng	tshN	tsh, , N	3
+30	cha	ha	h, a	2
+31	chai	hai	h, a, i	3
+32	chan	han	h, a, n	3
+33	chang	haN	h, a, N	3
+34	chao	hau	h, a, u	3
+35	che	h	h, 	2
+36	chen	hn	h, , n	3
+37	cheng	hN	h, , N	3
+38	chi	h	h	1
+39	chong	huN	h, u, N	3
+40	chou	hu	h, , u	3
+41	chu	hu	h, u	2
+42	chua	hua	h, u, a	3
+43	chuai	huai	h, u, a, i	4
+44	chuan	huan	h, u, a, n	4
+45	chuang	huaN	h, u, a, N	4
+46	chui	hui	h, u, , i	4
+47	chun	hun	h, u, , n	4
+48	chuo	hu	h, u, 	3
+49	ci	tsh	tsh	1
+50	cong	tshuN	tsh, u, N	3
+51	cou	tshu	tsh, , u	3
+52	cu	tshu	tsh, u	2
+53	cuan	tshuan	tsh, u, a, n	4
+54	cui	tshui	tsh, u, , i	4
+55	cun	tshun	tsh, u, , n	4
+56	cuo	tshu	tsh, u, 	3
+57	da	ta	t, a	2
+58	dai	tai	t, a, i	3
+59	dan	tan	t, a, n	3
+60	dang	taN	t, a, N	3
+61	dao	tau	t, a, u	3
+62	de	t	t, 	2
+63	dei	ti	t, , i	3
+64	den	tn	t, , n	3
+65	deng	tN	t, , N	3
+66	di	ti	t, i	2
+67	dian	tian	t, i, a, n	4
+68	diao	tiau	t, i, a, u	4
+69	die	ti	t, i, 	3
+70	ding	tiN	t, i, , N	4
+71	diu	tiu	t, i, , u	4
+72	dong	tuN	t, u, N	3
+73	dou	tu	t, , u	3
+74	du	tu	t, u	2
+75	duan	tuan	t, u, a, n	4
+76	dui	tui	t, u, , i	4
+77	dun	tun	t, u, , n	4
+78	duo	tu	t, u, 	3
+79	e			1
+80	en	n	, n	2
+81	eng	N	, N	2
+82	er	r	, r	2
+83	fa	fa	f, a	2
+84	fan	fan	f, a, n	3
+85	fang	faN	f, a, N	3
+86	fei	fi	f, , i	3
+87	fen	fn	f, , n	3
+88	feng	fN	f, , N	3
+89	fo	f	f, 	2
+90	fou	fu	f, , u	3
+91	fu	fu	f, u	2
+92	ga	ka	k, a	2
+93	gai	kai	k, a, i	3
+94	gan	kan	k, a, n	3
+95	gang	kaN	k, a, N	3
+96	gao	kau	k, a, u	3
+97	ge	k	k, 	2
+98	gei	ki	k, , i	3
+99	gen	kn	k, , n	3
+100	geng	kN	k, , N	3
+101	gong	kuN	k, u, N	3
+102	gou	ku	k, , u	3
+103	gu	ku	k, u	2
+104	gua	kua	k, u, a	3
+105	guai	kuai	k, u, a, i	4
+106	guan	kuan	k, u, a, n	4
+107	guang	kuaN	k, u, a, N	4
+108	gui	kui	k, u, , i	4
+109	gun	kun	k, u, , n	4
+110	guo	ku	k, u, 	3
+111	ha	xa	x, a	2
+112	hai	xai	x, a, i	3
+113	han	xan	x, a, n	3
+114	hang	xaN	x, a, N	3
+115	hao	xau	x, a, u	3
+116	he	x	x, 	2
+117	hei	xi	x, , i	3
+118	hen	xn	x, , n	3
+119	heng	xN	x, , N	3
+120	hong	xuN	x, u, N	3
+121	hou	xu	x, , u	3
+122	hu	xu	x, u	2
+123	hua	xua	x, u, a	3
+124	huai	xuai	x, u, a, i	4
+125	huan	xuan	x, u, a, n	4
+126	huang	xuaN	x, u, a, N	4
+127	hui	xui	x, u, , i	4
+128	hun	xun	x, u, , n	4
+129	huo	xu	x, u, 	3
+130	ji	tsi	ts, i	2
+131	jia	tsia	ts, i, a	3
+132	jian	tsian	ts, i, a, n	4
+133	jiang	tsiaN	ts, i, a, N	4
+134	jiao	tsiau	ts, i, a, u	4
+135	jie	tsi	ts, i, 	3
+136	jin	tsin	ts, i, n	3
+137	jing	tsiN	ts, i, , N	4
+138	jiong	tsiuN	ts, i, u, N	4
+139	jiu	tsiu	ts, i, , u	4
+140	ju	tsy	ts, y	2
+141	juan	tsyan	ts, y, a, n	4
+142	jue	tsy	ts, y, 	3
+143	jun	tsuin	ts, u, i, n	4
+144	ka	kha	kh, a	2
+145	kai	khai	kh, a, i	3
+146	kan	khan	kh, a, n	3
+147	kang	khaN	kh, a, N	3
+148	kao	khau	kh, a, u	3
+149	ke	kh	kh, 	2
+150	kei	khi	kh, , i	3
+151	ken	khn	kh, , n	3
+152	keng	khN	kh, , N	3
+153	kong	khuN	kh, u, N	3
+154	kou	khu	kh, , u	3
+155	ku	khu	kh, u	2
+156	kua	khua	kh, u, a	3
+157	kuai	khuai	kh, u, a, i	4
+158	kuan	khuan	kh, u, a, n	4
+159	kuang	khuaN	kh, u, a, N	4
+160	kui	khui	kh, u, , i	4
+161	kun	khun	kh, u, , n	4
+162	kuo	khu	kh, u, 	3
+163	la	la	l, a	2
+164	lai	lai	l, a, i	3
+165	lan	lan	l, a, n	3
+166	lang	laN	l, a, N	3
+167	lao	lau	l, a, u	3
+168	le	l	l, 	2
+169	lei	li	l, , i	3
+170	leng	lN	l, , N	3
+171	li	li	l, i	2
+172	lia	lia	l, i, a	3
+173	lian	lian	l, i, a, n	4
+174	liang	liaN	l, i, a, N	4
+175	liao	liau	l, i, a, u	4
+176	lie	li	l, i, 	3
+177	lin	lin	l, i, n	3
+178	ling	liN	l, i, , N	4
+179	liu	liu	l, i, , u	4
+180	long	luN	l, u, N	3
+181	lou	lu	l, , u	3
+182	lu	lu	l, u	2
+183		ly	l, y	2
+184	luan	luan	l, u, a, n	4
+185		ly	l, y, 	3
+186	lun	lun	l, u, , n	4
+187	luo	lu	l, u, 	3
+188	ma	ma	m, a	2
+189	mai	mai	m, a, i	3
+190	man	man	m, a, n	3
+191	mang	maN	m, a, N	3
+192	mao	mau	m, a, u	3
+193	mei	mi	m, , i	3
+194	men	mn	m, , n	3
+195	meng	mN	m, , N	3
+196	mi	mi	m, i	2
+197	mian	mian	m, i, a, n	4
+198	miao	miau	m, i, a, u	4
+199	mie	mi	m, i, 	3
+200	min	min	m, i, n	3
+201	ming	miN	m, i, , N	4
+202	miu	miu	m, i, , u	4
+203	mo	m	m, 	2
+204	mou	mu	m, , u	3
+205	mu	mu	m, u	2
+206	na	na	n, a	2
+207	nai	nai	n, a, i	3
+208	nan	nan	n, a, n	3
+209	nang	naN	n, a, N	3
+210	nao	nau	n, a, u	3
+211	ne	n	n, 	2
+212	nei	ni	n, , i	3
+213	nen	mn	m, , n	3
+214	neng	nN	n, , N	3
+215	ni	ni	n, i	2
+216	nian	nian	n, i, a, n	4
+217	niang	niaN	n, i, a, N	4
+218	niao	niau	n, i, a, u	4
+219	nie	ni	n, i, 	3
+220	nin	nin	n, i, n	3
+221	ning	niN	n, i, , N	4
+222	niu	niu	n, i, , u	4
+223	nong	nuN	n, u, N	3
+224	nou	nu	n, , u	3
+225	nu	nu	n, u	2
+226		ny	n, y	2
+227	nuan	nuan	n, u, a, n	4
+228		ny	n, y, 	3
+229	nun	nun	n, u, , n	4
+230	nuo	nu	n, u, 	3
+231	ou	u	, u	2
+232	pa	pha	ph, a	2
+233	pai	phai	ph, a, i	3
+234	pan	phan	ph, a, n	3
+235	pang	phaN	ph, a, N	3
+236	pao	phau	ph, a, u	3
+237	pei	phi	ph, , i	3
+238	pen	phn	ph, , n	3
+239	peng	phN	ph, , N	3
+240	pi	phi	ph, i	2
+241	pian	phian	ph, i, a, n	4
+242	piao	phiau	ph, i, a, u	4
+243	pie	phi	ph, i, 	3
+244	pin	phin	ph, i, n	3
+245	ping	phiN	ph, i, , N	4
+246	po	ph	ph, 	2
+247	pou	phu	ph, , u	3
+248	pu	phu	ph, u	2
+249	qi	tshi	tsh, i	2
+250	qia	tshia	tsh, i, a	3
+251	qian	tshian	tsh, i, a, n	4
+252	qiang	tshiaN	tsh, i, a, N	4
+253	qiao	tshiau	tsh, i, a, u	4
+254	qie	tshi	tsh, i, 	3
+255	qin	tshin	tsh, i, n	3
+256	qing	tshiN	tsh, i, , N	4
+257	qiong	tshiuN	tsh, i, u, N	4
+258	qiu	tshiu	tsh, i, , u	4
+259	qu	tshy	tsh, y	2
+260	quan	tshyan	tsh, y, a, n	4
+261	que	tshy	tsh, y, 	3
+262	qun	tshuin	tsh, u, i, n	4
+263	ran	ran	r, a, n	3
+264	rang	raN	r, a, N	3
+265	rao	rau	r, a, u	3
+266	re	r	r, 	2
+267	ren	rn	r, , n	3
+268	reng	rN	r, , N	3
+269	ri	r	r	1
+270	rong	ruN	r, u, N	3
+271	rou	ru	r, , u	3
+272	ru	ru	r, u	2
+273	ruan	ruan	r, u, a, n	4
+274	rui	rui	r, u, , i	4
+275	run	run	r, u, , n	4
+276	ruo	ru	r, u, 	3
+277	sa	sa	s, a	2
+278	sai	sai	s, a, i	3
+279	san	san	s, a, n	3
+280	sang	saN	s, a, N	3
+281	sao	sau	s, a, u	3
+282	se	s	s, 	2
+283	sen	sn	s, , n	3
+284	seng	sN	s, , N	3
+285	sha	a	, a	2
+286	shai	ai	, a, i	3
+287	shan	an	, a, n	3
+288	shang	aN	, a, N	3
+289	shao	au	, a, u	3
+290	she		, 	2
+291	shei	i	, , i	3
+292	shen	n	, , n	3
+293	sheng	N	, , N	3
+294	shi			1
+295	shou	u	, , u	3
+296	shu	u	, u	2
+297	shua	ua	, u, a	3
+298	shuai	uai	, u, a, i	4
+299	shuan	uan	, u, a, n	4
+300	shuang	uaN	, u, a, N	4
+301	shui	ui	, u, , i	4
+302	shun	un	, u, , n	4
+303	shuo	u	, u, 	3
+304	si	s	s	1
+305	song	suN	s, u, N	3
+306	sou	su	s, , u	3
+307	su	su	s, u	2
+308	suan	suan	s, u, a, n	4
+309	sui	sui	s, u, , i	4
+310	sun	sun	s, u, , n	4
+311	suo	su	s, u, 	3
+312	ta	tha	th, a	2
+313	tai	thai	th, a, i	3
+314	tan	than	th, a, n	3
+315	tang	thaN	th, a, N	3
+316	tao	thau	th, a, u	3
+317	te	th	th, 	2
+318	tei	thi	th, , i	3
+319	teng	thN	th, , N	3
+320	ti	thi	th, i	2
+321	tian	thian	th, i, a, n	4
+322	tiao	thiau	th, i, a, u	4
+323	tie	thi	th, i, 	3
+324	ting	thiN	th, i, , N	4
+325	tong	thuN	th, u, N	3
+326	tou	thu	th, , u	3
+327	tu	thu	th, u	2
+328	tuan	thuan	th, u, a, n	4
+329	tui	thui	th, u, , i	4
+330	tun	thun	th, u, , n	4
+331	tuo	thu	th, u, 	3
+332	wa	ua	u, a	2
+333	wai	uai	u, a, i	3
+334	wan	uan	u, a, n	3
+335	wang	uaN	u, a, N	3
+336	wei	ui	u, , i	3
+337	wen	un	u, , n	3
+338	weng	uN	u, , N	3
+339	wo	u	u, 	2
+340	wu	u	u	1
+341	xi	si	s, i	2
+342	xia	sia	s, i, a	3
+343	xian	sian	s, i, a, n	4
+344	xiang	siaN	s, i, a, N	4
+345	xiao	siau	s, i, a, u	4
+346	xie	si	s, i, 	3
+347	xin	sin	s, i, n	3
+348	xing	siN	s, i, , N	4
+349	xiong	siuN	s, i, u, N	4
+350	xiu	siu	s, i, , u	4
+351	xu	sy	s, y	2
+352	xuan	syan	s, y, a, n	4
+353	xue	sy	s, y, 	3
+354	xun	suin	s, u, i, n	4
+355	ya	ia	i, a	2
+356	yan	ian	i, a, n	3
+357	yang	iaN	i, a, N	3
+358	yao	iau	i, a, u	3
+359	ye	i	i, 	2
+360	yi	i	i	1
+361	yin	in	i, n	2
+362	ying	iN	i, , N	3
+363	yong	iuN	i, u, N	3
+364	you	iu	i, , u	3
+365	yu	y	y	1
+366	yuan	yan	y, a, n	3
+367	yue	y	y, 	2
+368	yun	uin	u, i, n	3
+369	za	tsa	ts, a	2
+370	zai	tsai	ts, a, i	3
+371	zan	tsan	ts, a, n	3
+372	zang	tsaN	ts, a, N	3
+373	zao	tsau	ts, a, u	3
+374	ze	ts	ts, 	2
+375	zei	tsi	ts, , i	3
+376	zen	tsn	ts, , n	3
+377	zeng	tsN	ts, , N	3
+378	zha	a	, a	2
+379	zhai	ai	, a, i	3
+380	zhan	an	, a, n	3
+381	zhang	aN	, a, N	3
+382	zhao	au	, a, u	3
+383	zhe		, 	2
+384	zhei	i	, , i	3
+385	zhen	n	, , n	3
+386	zheng	N	, , N	3
+387	zhi			1
+388	zhong	uN	, u, N	3
+389	zhou	u	, , u	3
+390	zhu	u	, u	2
+391	zhua	ua	, u, a	3
+392	zhuai	uai	, u, a, i	4
+393	zhuan	uan	, u, a, n	4
+394	zhuang	uaN	, u, a, N	4
+395	zhui	ui	, u, , i	4
+396	zhun	un	, u, , n	4
+397	zhuo	u	, u, 	3
+398	zi	ts	ts	1
+399	zong	tsuN	ts, u, N	3
+400	zou	tsu	ts, , u	3
+401	zu	tsu	ts, u	2
+402	zuan	tsuan	ts, u, a, n	4
+403	zui	tsui	ts, u, , i	4
+404	zun	tsun	ts, u, , n	4
+405	zuo	tsu	ts, u, 	3
+406	dia	tia	t, i, a	3
+407	fiao	fiau	f, i, a, u	4
+408	rua	rua	r, u, a	3
