@@ -4,7 +4,7 @@
 # https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/mandarin_syllables.php
 # 备注：例字中“zhuan 賺”改成“zhuan 专”（“賺”多音字重复出现）
 #
-# pinyin	例字
+# 拼音	例字
 
 a	阿
 o	哦
