@@ -1,5 +1,7 @@
 # 端木三（Duanmu, San）：拼音音节和音素转换表
 # 共408个音节
+# 对lü, lüe, nü, nüe缺失字段进行补充。
+#
 # Pinyin syllable to phoneme mapping table, The phonology of Standard Chinese
 # https://lingua.mtsu.edu/chinese-computing/phonology/py2phoneme.php
 # https://public.websites.umich.edu/~duanmu/
@@ -187,9 +189,9 @@
 180	long	luN	l, u, N	3
 181	lou	lu	l, , u	3
 182	lu	lu	l, u	2
-183		ly	l, y	2
+183	lü	ly	l, y	2
 184	luan	luan	l, u, a, n	4
-185		ly	l, y, 	3
+185	lüe	ly	l, y, 	3
 186	lun	lun	l, u, , n	4
 187	luo	lu	l, u, 	3
 188	ma	ma	m, a	2
@@ -230,9 +232,9 @@
 223	nong	nuN	n, u, N	3
 224	nou	nu	n, , u	3
 225	nu	nu	n, u	2
-226		ny	n, y	2
+226	nü	ny	n, y	2
 227	nuan	nuan	n, u, a, n	4
-228		ny	n, y, 	3
+228	nüe	ny	n, y, 	3
 229	nun	nun	n, u, , n	4
 230	nuo	nu	n, u, 	3
 231	ou	u	, u	2

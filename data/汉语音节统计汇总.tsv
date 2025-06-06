@@ -1,0 +1,1521 @@
+# 现代汉语音节汇总（含声调）
+# 共有1503个音节。
+# 说明 
+#
+# 拼音来自本文件中其他文件统计汇总，但是：
+# - lün ㄌㄩㄣ，nia ㄋㄧㄚ，shong ㄕㄨㄥ，diang ㄉㄧㄤ等未出现在词典或编码规范中的，本文件不列入；
+# - gie，giao，duang等网络用语、缺少对应汉字的纯拟声词，本文件不列入。
+#
+# 字段备注：
+# 注音：一般，竖排中使用“ㄧ”，横排中使用“丨”。
+# 例字：优先选择常用字，其中部分为多音字。
+# 状态：※为两岸词典都收录此音（1276个）；‽为词典暂无此音，如biáng 𰻝、fiào 覅（106个）；其余为某一词典收录，如tēi 忒（121个）。
+# 字数统计，根据网络数据汇总得到，仅供参考；
+# - 字数1:《现代汉语词典》（第7版）；
+# - 字数2:《重編國語辭典》（修訂本）。
+# 	
+# 拼音声调	拼音数字	注音	注音（横排）	例字	字数1	字数2	状态
+
+ā	a1	ㄚ		阿	6	4	※
+á	a2	ㄚˊ		啊	3	1	※
+ǎ	a3	ㄚˇ		啊	2		
+à	a4	ㄚˋ		啊	2	1	※
+a	a5	˙ㄚ		啊	3	1	※
+āi	ai1	ㄞ		哀	9	6	※
+ái	ai2	ㄞˊ		癌	4	10	※
+ǎi	ai3	ㄞˇ		矮	6	7	※
+ài	ai4	ㄞˋ		爱	15	16	※
+ān	an1	ㄢ		安	15	14	※
+án	an2	ㄢˊ		啽		1	
+ǎn	an3	ㄢˇ		俺	7	6	※
+àn	an4	ㄢˋ		岸	7	13	※
+āng	ang1	ㄤ		肮	1	2	※
+áng	ang2	ㄤˊ		昂	2	2	※
+ǎng	ang3	ㄤˇ		𦫫			‽
+àng	ang4	ㄤˋ		盎	2	2	※
+āo	ao1	ㄠ		熬	3	4	※
+áo	ao2	ㄠˊ		熬	16	17	※
+ǎo	ao3	ㄠˇ		袄	4	5	※
+ào	ao4	ㄠˋ		傲	15	15	※
+bā	ba1	ㄅㄚ		八	17	13	※
+bá	ba2	ㄅㄚˊ		拔	7	9	※
+bǎ	ba3	ㄅㄚˇ		靶	4	3	※
+bà	ba4	ㄅㄚˋ		坝	12	10	※
+ba	ba5	˙ㄅㄚ		吧	2	4	※
+bāi	bai1	ㄅㄞ		掰	4	1	※
+bái	bai2	ㄅㄞˊ		白	2	1	※
+bǎi	bai3	ㄅㄞˇ		百	6	8	※
+bài	bai4	ㄅㄞˋ		败	5	5	※
+bai	bai5	˙ㄅㄞ		㗑	1		
+bān	ban1	ㄅㄢ		班	11	9	※
+bǎn	ban3	ㄅㄢˇ		板	8	10	※
+bàn	ban4	ㄅㄢˋ		办	11	9	※
+bāng	bang1	ㄅㄤ		帮	5	4	※
+bǎng	bang3	ㄅㄤˇ		绑	3	4	※
+bàng	bang4	ㄅㄤˋ		棒	16	13	※
+bāo	bao1	ㄅㄠ		包	10	12	※
+báo	bao2	ㄅㄠˊ		雹	3	2	※
+bǎo	bao3	ㄅㄠˇ		饱	7	8	※
+bào	bao4	ㄅㄠˋ		报	11	15	※
+bēi	bei1	ㄅㄟ		杯	10	18	※
+běi	bei3	ㄅㄟˇ		北	1	2	※
+bèi	bei4	ㄅㄟˋ		贝	25	34	※
+bei	bei5	˙ㄅㄟ		臂	2	1	※
+bēn	ben1	ㄅㄣ		奔	5	3	※
+běn	ben3	ㄅㄣˇ		本	3	3	※
+bèn	ben4	ㄅㄣˋ		笨	6	4	※
+bēng	beng1	ㄅㄥ		崩	5	5	※
+béng	beng2	ㄅㄥˊ		甭	1	1	※
+běng	beng3	ㄅㄥˇ		绷	5	3	※
+bèng	beng4	ㄅㄥˋ		泵	7	8	※
+bī	bi1	ㄅㄧ	ㄅ丨	逼	4	4	※
+bí	bi2	ㄅㄧˊ	ㄅ丨ˊ	鼻	2	2	※
+bǐ	bi3	ㄅㄧˇ	ㄅ丨ˇ	匕	14	11	※
+bì	bi4	ㄅㄧˋ	ㄅ丨ˋ	币	68	92	※
+biān	bian1	ㄅㄧㄢ	ㄅ丨ㄢ	边	10	10	※
+bián	bian2	ㄅㄧㄢˊ	ㄅ丨ㄢˊ				‽
+biǎn	bian3	ㄅㄧㄢˇ	ㄅ丨ㄢˇ	贬	10	10	※
+biàn	bian4	ㄅㄧㄢˋ	ㄅ丨ㄢˋ	变	16	18	※
+biáng	biang2	ㄅㄧㄤˊ	ㄅ丨ㄤˊ	𰻝			‽
+biāo	biao1	ㄅㄧㄠ	ㄅ丨ㄠ	标	20	23	※
+biǎo	biao3	ㄅㄧㄠˇ	ㄅ丨ㄠˇ	表	5	6	※
+biào	biao4	ㄅㄧㄠˋ	ㄅ丨ㄠˋ	俵	3	2	※
+biē	bie1	ㄅㄧㄝ	ㄅ丨ㄝ	憋	3	3	※
+bié	bie2	ㄅㄧㄝˊ	ㄅ丨ㄝˊ	别	3	6	※
+biě	bie3	ㄅㄧㄝˇ	ㄅ丨ㄝˇ	瘪	1	1	※
+biè	bie4	ㄅㄧㄝˋ	ㄅ丨ㄝˋ	别	1	1	※
+bīn	bin1	ㄅㄧㄣ	ㄅ丨ㄣ	宾	12	16	※
+bǐn	bin3	ㄅㄧㄣˇ	ㄅ丨ㄣˇ				‽
+bìn	bin4	ㄅㄧㄣˋ	ㄅ丨ㄣˋ	鬓	5	7	※
+bīng	bing1	ㄅㄧㄥ	ㄅ丨ㄥ	兵	6	8	※
+bǐng	bing3	ㄅㄧㄥˇ	ㄅ丨ㄥˇ	丙	11	13	※
+bìng	bing4	ㄅㄧㄥˋ	ㄅ丨ㄥˋ	病	3	8	※
+bō	bo1	ㄅㄛ		玻	16	17	※
+bó	bo2	ㄅㄛˊ		驳	34	60	※
+bǒ	bo3	ㄅㄛˇ		跛	3	2	※
+bò	bo4	ㄅㄛˋ		薄	5	10	※
+bo	bo5	˙ㄅㄛ		卜	2	2	※
+bū	bu1	ㄅㄨ		逋	4	3	※
+bú	bu2	ㄅㄨˊ		醭	1	2	※
+bǔ	bu3	ㄅㄨˇ		补	7	6	※
+bù	bu4	ㄅㄨˋ		不	16	14	※
+cā	ca1	ㄘㄚ		擦	3	2	※
+cǎ	ca3	ㄘㄚˇ		礤	1	1	※
+cà	ca4	ㄘㄚˋ		囃		1	
+cāi	cai1	ㄘㄞ		猜	2	1	※
+cái	cai2	ㄘㄞˊ		才	4	5	※
+cǎi	cai3	ㄘㄞˇ		彩	5	9	※
+cài	cai4	ㄘㄞˋ		菜	4	4	※
+cān	can1	ㄘㄢ		餐	4	3	※
+cán	can2	ㄘㄢˊ		残	3	4	※
+cǎn	can3	ㄘㄢˇ		惨	5	3	※
+càn	can4	ㄘㄢˋ		灿	5	5	※
+cāng	cang1	ㄘㄤ		仓	6	6	※
+cáng	cang2	ㄘㄤˊ		藏	1	1	※
+cǎng	cang3	ㄘㄤˇ		駔		1	
+càng	cang4	ㄘㄤˋ		䅮			‽
+cāo	cao1	ㄘㄠ		操	2	2	※
+cáo	cao2	ㄘㄠˊ		曹	7	5	※
+cǎo	cao3	ㄘㄠˇ		草	2	5	※
+cào	cao4	ㄘㄠˋ		肏	1	5	※
+cè	ce4	ㄘㄜˋ		策	7	9	※
+cèi	cei4	ㄘㄟˋ		𤭢	1		
+cēn	cen1	ㄘㄣ		参	1	3	※
+cén	cen2	ㄘㄣˊ		岑	2	2	※
+cēng	ceng1	ㄘㄥ		噌	1	1	※
+céng	ceng2	ㄘㄥˊ		层	3	4	※
+cěng	ceng3	ㄘㄥˇ		噌		1	
+cèng	ceng4	ㄘㄥˋ		蹭	1	1	※
+chā	cha1	ㄔㄚ		插	12	9	※
+chá	cha2	ㄔㄚˊ		茬	14	11	※
+chǎ	cha3	ㄔㄚˇ		叉	4	4	※
+chà	cha4	ㄔㄚˋ		岔	11	10	※
+chāi	chai1	ㄔㄞ		拆	3	3	※
+chái	chai2	ㄔㄞˊ		柴	3	6	※
+chǎi	chai3	ㄔㄞˇ		茝	2	2	※
+chài	chai4	ㄔㄞˋ		虿	3	3	※
+chān	chan1	ㄔㄢ		搀	7	5	※
+chán	chan2	ㄔㄢˊ		馋	20	28	※
+chǎn	chan3	ㄔㄢˇ		产	12	15	※
+chàn	chan4	ㄔㄢˋ		颤	5	8	※
+chāng	chang1	ㄔㄤ		昌	8	10	※
+cháng	chang2	ㄔㄤˊ		肠	12	13	※
+chǎng	chang3	ㄔㄤˇ		敞	7	7	※
+chàng	chang4	ㄔㄤˋ		畅	7	7	※
+chāo	chao1	ㄔㄠ		超	9	8	※
+cháo	chao2	ㄔㄠˊ		巢	5	9	※
+chǎo	chao3	ㄔㄠˇ		炒	3	3	※
+chào	chao4	ㄔㄠˋ		耖	1	3	※
+chē	che1	ㄔㄜ		车	4	4	※
+chě	che3	ㄔㄜˇ		扯	2	4	※
+chè	che4	ㄔㄜˋ		彻	6	9	※
+chēn	chen1	ㄔㄣ		抻	9	7	※
+chén	chen2	ㄔㄣˊ		尘	13	15	※
+chěn	chen3	ㄔㄣˇ		碜	4	4	※
+chèn	chen4	ㄔㄣˋ		衬	8	10	※
+chen	chen5	˙ㄔㄣ		伧	1		
+chēng	cheng1	ㄔㄥ		撑	12	14	※
+chéng	cheng2	ㄔㄥˊ		成	26	30	※
+chěng	cheng3	ㄔㄥˇ		逞	4	2	※
+chèng	cheng4	ㄔㄥˋ		秤	3	2	※
+chī	chi1	ㄔ		吃	17	20	※
+chí	chi2	ㄔˊ		池	12	20	※
+chǐ	chi3	ㄔˇ		齿	8	10	※
+chì	chi4	ㄔˋ		斥	17	19	※
+chōng	chong1	ㄔㄨㄥ		充	14	11	※
+chóng	chong2	ㄔㄨㄥˊ		虫	5	5	※
+chǒng	chong3	ㄔㄨㄥˇ		宠	1	1	※
+chòng	chong4	ㄔㄨㄥˋ		冲	3	3	※
+chōu	chou1	ㄔㄡ		抽	5	7	※
+chóu	chou2	ㄔㄡˊ		绸	14	21	※
+chǒu	chou3	ㄔㄡˇ		丑	5	5	※
+chòu	chou4	ㄔㄡˋ		臭	2	3	※
+chū	chu1	ㄔㄨ		初	6	4	※
+chú	chu2	ㄔㄨˊ		除	13	18	※
+chǔ	chu3	ㄔㄨˇ		础	9	8	※
+chù	chu4	ㄔㄨˋ		触	16	20	※
+chuā	chua1	ㄔㄨㄚ		欻	1	1	※
+chuǎ	chua3	ㄔㄨㄚˇ		抓		1	
+chuà	chua4	ㄔㄨㄚˋ		䫄		1	
+chuāi	chuai1	ㄔㄨㄞ		揣	2	1	※
+chuái	chuai2	ㄔㄨㄞˊ		膗	1	1	※
+chuǎi	chuai3	ㄔㄨㄞˇ		揣	1	1	※
+chuài	chuai4	ㄔㄨㄞˋ		揣	6	3	※
+chuān	chuan1	ㄔㄨㄢ		川	3	4	※
+chuán	chuan2	ㄔㄨㄢˊ		船	7	7	※
+chuǎn	chuan3	ㄔㄨㄢˇ		喘	4	4	※
+chuàn	chuan4	ㄔㄨㄢˋ		串	2	2	※
+chuāng	chuang1	ㄔㄨㄤ		窗	4	5	※
+chuáng	chuang2	ㄔㄨㄤˊ		床	3	6	※
+chuǎng	chuang3	ㄔㄨㄤˇ		闯	1	2	※
+chuàng	chuang4	ㄔㄨㄤˋ		创	3	5	※
+chuī	chui1	ㄔㄨㄟ		吹	2	2	※
+chuí	chui2	ㄔㄨㄟˊ		垂	9	14	※
+chuǐ	chui3	ㄔㄨㄟˇ					‽
+chuì	chui4	ㄔㄨㄟˋ		吹		2	
+chūn	chun1	ㄔㄨㄣ		春	7	4	※
+chún	chun2	ㄔㄨㄣˊ		纯	8	10	※
+chǔn	chun3	ㄔㄨㄣˇ		蠢	1	2	※
+chuō	chuo1	ㄔㄨㄛ		戳	3	1	※
+chuò	chuo4	ㄔㄨㄛˋ		绰	10	12	※
+cī	ci1	ㄘ		刺	8	8	※
+cí	ci2	ㄘˊ		词	13	13	※
+cǐ	ci3	ㄘˇ		此	5	5	※
+cì	ci4	ㄘˋ		次	6	9	※
+cōng	cong1	ㄘㄨㄥ		聪	11	13	※
+cóng	cong2	ㄘㄨㄥˊ		从	7	7	※
+cǒng	cong3	ㄘㄨㄥˇ		𧝮			‽
+còng	cong4	ㄘㄨㄥˋ		謥		1	
+cōu	cou1	ㄘㄡ		𢈾			‽
+cóu	cou2	ㄘㄡˊ		𧡣			‽
+cǒu	cou3	ㄘㄡˇ		㫶			‽
+còu	cou4	ㄘㄡˋ		凑	3	4	※
+cū	cu1	ㄘㄨ		粗	1	3	※
+cú	cu2	ㄘㄨˊ		徂	2	2	※
+cǔ	cu3	ㄘㄨˇ		𤛏			‽
+cù	cu4	ㄘㄨˋ		促	13	20	※
+cuān	cuan1	ㄘㄨㄢ		撺	4	4	※
+cuán	cuan2	ㄘㄨㄢˊ		攒	2	3	※
+cuǎn	cuan3	ㄘㄨㄢˇ					‽
+cuàn	cuan4	ㄘㄨㄢˋ		窜	3	4	※
+cuī	cui1	ㄘㄨㄟ		崔	7	9	※
+cuǐ	cui3	ㄘㄨㄟˇ		璀	3	5	※
+cuì	cui4	ㄘㄨㄟˋ		脆	12	16	※
+cūn	cun1	ㄘㄨㄣ		村	4	3	※
+cún	cun2	ㄘㄨㄣˊ		存	2	2	※
+cǔn	cun3	ㄘㄨㄣˇ		忖	2	2	※
+cùn	cun4	ㄘㄨㄣˋ		寸	2	2	※
+cuō	cuo1	ㄘㄨㄛ		搓	5	10	※
+cuó	cuo2	ㄘㄨㄛˊ		嵯	6	5	※
+cuǒ	cuo3	ㄘㄨㄛˇ		脞	1	2	※
+cuò	cuo4	ㄘㄨㄛˋ		挫	8	11	※
+dā	da1	ㄉㄚ		搭	9	7	※
+dá	da2	ㄉㄚˊ		达	15	13	※
+dǎ	da3	ㄉㄚˇ		打	1	1	※
+dà	da4	ㄉㄚˋ		大	2	1	※
+da	da5	˙ㄉㄚ		瘩	5	2	※
+dāi	dai1	ㄉㄞ		呆	3	3	※
+dǎi	dai3	ㄉㄞˇ		歹	3	4	※
+dài	dai4	ㄉㄞˋ		代	24	23	※
+dān	dan1	ㄉㄢ		丹	13	16	※
+dǎn	dan3	ㄉㄢˇ		胆	9	8	※
+dàn	dan4	ㄉㄢˋ		旦	23	27	※
+dāng	dang1	ㄉㄤ		当	6	6	※
+dǎng	dang3	ㄉㄤˇ		党	5	8	※
+dàng	dang4	ㄉㄤˋ		荡	11	9	※
+dāo	dao1	ㄉㄠ		刀	7	5	※
+dáo	dao2	ㄉㄠˊ		叨	2	1	※
+dǎo	dao3	ㄉㄠˇ		导	6	6	※
+dào	dao4	ㄉㄠˋ		到	9	13	※
+dē	de1	ㄉㄜ		嘚	1	1	※
+dé	de2	ㄉㄜˊ		德	3	2	※
+dè	de4	ㄉㄜˋ		嘚	1		
+de	de5	˙ㄉㄜ		得	5	4	※
+dēi	dei1	ㄉㄟ		嘚	1		
+děi	dei3	ㄉㄟˇ		得	1	1	※
+dèn	den4	ㄉㄣˋ		扽	1	1	※
+dēng	deng1	ㄉㄥ		登	7	7	※
+děng	deng3	ㄉㄥˇ		等	2	2	※
+dèng	deng4	ㄉㄥˋ		邓	8	10	※
+dī	di1	ㄉㄧ	ㄉ丨	低	12	12	※
+dí	di2	ㄉㄧˊ	ㄉ丨ˊ	迪	17	22	※
+dǐ	di3	ㄉㄧˇ	ㄉ丨ˇ	抵	10	12	※
+dì	di4	ㄉㄧˋ	ㄉ丨ˋ	弟	23	21	※
+diǎ	dia3	ㄉㄧㄚˇ	ㄉ丨ㄚˇ	嗲	1		
+diān	dian1	ㄉㄧㄢ	ㄉ丨ㄢ	颠	8	11	※
+dián	dian2	ㄉㄧㄢˊ	ㄉ丨ㄢˊ	䟍			‽
+diǎn	dian3	ㄉㄧㄢˇ	ㄉ丨ㄢˇ	典	4	4	※
+diàn	dian4	ㄉㄧㄢˋ	ㄉ丨ㄢˋ	电	18	20	※
+diāo	diao1	ㄉㄧㄠ	ㄉ丨ㄠ	刁	9	11	※
+diǎo	diao3	ㄉㄧㄠˇ	ㄉ丨ㄠˇ	鸟	2	2	※
+diào	diao4	ㄉㄧㄠˋ	ㄉ丨ㄠˋ	吊	8	11	※
+diē	die1	ㄉㄧㄝ	ㄉ丨ㄝ	爹	3	2	※
+dié	die2	ㄉㄧㄝˊ	ㄉ丨ㄝˊ	迭	21	32	※
+diě	die3	ㄉㄧㄝˇ	ㄉ丨ㄝˇ	𡖐			‽
+diè	die4	ㄉㄧㄝˋ	ㄉ丨ㄝˋ	𠅗			‽
+dīng	ding1	ㄉㄧㄥ	ㄉ丨ㄥ	叮	11	8	※
+díng	ding2	ㄉㄧㄥˊ	ㄉ丨ㄥˊ				‽
+dǐng	ding3	ㄉㄧㄥˇ	ㄉ丨ㄥˇ	顶	3	4	※
+dìng	ding4	ㄉㄧㄥˋ	ㄉ丨ㄥˋ	订	10	8	※
+diū	diu1	ㄉㄧㄡ	ㄉ丨ㄡ	丢	2	4	※
+dōng	dong1	ㄉㄨㄥ		东	7	7	※
+dǒng	dong3	ㄉㄨㄥˇ		董	2	2	※
+dòng	dong4	ㄉㄨㄥˋ		动	11	12	※
+dōu	dou1	ㄉㄡ		兜	5	4	※
+dóu	dou2	ㄉㄡˊ		唞			‽
+dǒu	dou3	ㄉㄡˇ		抖	7	4	※
+dòu	dou4	ㄉㄡˋ		豆	10	9	※
+dū	du1	ㄉㄨ		督	6	4	※
+dú	du2	ㄉㄨˊ		毒	11	17	※
+dǔ	du3	ㄉㄨˇ		堵	5	6	※
+dù	du4	ㄉㄨˋ		杜	10	9	※
+duān	duan1	ㄉㄨㄢ		端	2	2	※
+duǎn	duan3	ㄉㄨㄢˇ		短	1	1	※
+duàn	duan4	ㄉㄨㄢˋ		段	10	8	※
+duī	dui1	ㄉㄨㄟ		堆	2	3	※
+duǐ	dui3	ㄉㄨㄟˇ		㨃			‽
+duì	dui4	ㄉㄨㄟˋ		队	10	9	※
+dūn	dun1	ㄉㄨㄣ		吨	10	5	※
+dǔn	dun3	ㄉㄨㄣˇ		盹	3	2	※
+dùn	dun4	ㄉㄨㄣˋ		钝	9	12	※
+duō	duo1	ㄉㄨㄛ		多	7	3	※
+duó	duo2	ㄉㄨㄛˊ		夺	6	10	※
+duǒ	duo3	ㄉㄨㄛˇ		朵	7	8	※
+duò	duo4	ㄉㄨㄛˋ		舵	13	20	※
+duo	duo5	˙ㄉㄨㄛ					‽
+ē	e1	ㄜ		阿	4	6	※
+é	e2	ㄜˊ		鹅	14	17	※
+ě	e3	ㄜˇ		恶	1	10	※
+è	e4	ㄜˋ		扼	28	41	※
+e	e5	˙ㄜ		呃	1		
+ê̄	ê1	ㄝ		欸	1		
+ế	ê2	ㄝˊ		欸	1		
+ê̌	ê3	ㄝˇ		欸	1		
+ề	ê4	ㄝˋ		欸	1	1	※
+ê	ê5	˙ㄝ					‽
+èi	ei4	ㄟˋ		欸		1	
+ēn	en1	ㄣ		恩	3	1	※
+én	en2	ㄣˊ					‽
+ěn	en3	ㄣˇ		峎			‽
+èn	en4	ㄣˋ		摁	1	1	※
+en	en5	˙ㄣ		嗯		1	
+ēng	eng1	ㄥ		鞥	1	1	※
+èng	eng4	ㄥˋ					‽
+ēr	er1	ㄦ					‽
+ér	er2	ㄦˊ		儿	10	10	※
+ěr	er3	ㄦˇ		尔	8	8	※
+èr	er4	ㄦˋ		二	7	8	※
+er	er5	˙ㄦ					‽
+fā	fa1	ㄈㄚ		发	2	4	※
+fá	fa2	ㄈㄚˊ		乏	6	8	※
+fǎ	fa3	ㄈㄚˇ		法	2	4	※
+fà	fa4	ㄈㄚˋ		发	2	1	※
+fa	fa5	˙ㄈㄚ		𠲎	1		
+fān	fan1	ㄈㄢ		帆	6	11	※
+fán	fan2	ㄈㄢˊ		凡	17	24	※
+fǎn	fan3	ㄈㄢˇ		反	2	2	※
+fàn	fan4	ㄈㄢˋ		犯	8	12	※
+fāng	fang1	ㄈㄤ		方	8	9	※
+fáng	fang2	ㄈㄤˊ		防	6	6	※
+fǎng	fang3	ㄈㄤˇ		仿	6	10	※
+fàng	fang4	ㄈㄤˋ		放	1	1	※
+fēi	fei1	ㄈㄟ		非	11	14	※
+féi	fei2	ㄈㄟˊ		肥	3	4	※
+fěi	fei3	ㄈㄟˇ		匪	11	12	※
+fèi	fei4	ㄈㄟˋ		吠	11	18	※
+fēn	fen1	ㄈㄣ		芬	10	11	※
+fén	fen2	ㄈㄣˊ		坟	8	18	※
+fěn	fen3	ㄈㄣˇ		粉	1	1	※
+fèn	fen4	ㄈㄣˋ		份	10	15	※
+fen	fen5	˙ㄈㄣ					‽
+fēng	feng1	ㄈㄥ		风	15	15	※
+féng	feng2	ㄈㄥˊ		逢	4	5	※
+fěng	feng3	ㄈㄥˇ		讽	3	3	※
+fèng	feng4	ㄈㄥˋ		凤	6	7	※
+fiào	fiao4	ㄈㄧㄠˋ	ㄈ丨ㄠˋ	覅			‽
+fó	fo2	ㄈㄛˊ		佛	1	1	※
+fōu	fou1	ㄈㄡ		不		2	
+fóu	fou2	ㄈㄡˊ		浮		4	
+fǒu	fou3	ㄈㄡˇ		否	2	4	※
+fòu	fou4	ㄈㄡˋ		复		2	
+fū	fu1	ㄈㄨ		肤	16	18	※
+fú	fu2	ㄈㄨˊ		弗	56	67	※
+fǔ	fu3	ㄈㄨˇ		抚	19	20	※
+fù	fu4	ㄈㄨˋ		付	28	35	※
+gā	ga1	ㄍㄚ		嘎	8	3	※
+gá	ga2	ㄍㄚˊ		嘎	5	3	※
+gǎ	ga3	ㄍㄚˇ		嘎	3	1	※
+gà	ga4	ㄍㄚˋ		尬	1	1	※
+ga	ga5	˙ㄍㄚ		價		1	
+gāi	gai1	ㄍㄞ		该	6	5	※
+gǎi	gai3	ㄍㄞˇ		改	2	1	※
+gài	gai4	ㄍㄞˋ		丐	8	6	※
+gān	gan1	ㄍㄢ		甘	17	16	※
+gǎn	gan3	ㄍㄢˇ		秆	11	11	※
+gàn	gan4	ㄍㄢˋ		赣	7	9	※
+gāng	gang1	ㄍㄤ		冈	16	17	※
+gǎng	gang3	ㄍㄤˇ		港	4	3	※
+gàng	gang4	ㄍㄤˋ		钢	6	4	※
+gāo	gao1	ㄍㄠ		高	9	13	※
+gǎo	gao3	ㄍㄠˇ		搞	8	8	※
+gào	gao4	ㄍㄠˋ		告	6	5	※
+gē	ge1	ㄍㄜ		哥	16	12	※
+gé	ge2	ㄍㄜˊ		阁	21	25	※
+gě	ge3	ㄍㄜˇ		个	7	7	※
+gè	ge4	ㄍㄜˋ		个	5	6	※
+ge	ge5	˙ㄍㄜ		個		1	
+gěi	gei3	ㄍㄟˇ		给	1	1	※
+gēn	gen1	ㄍㄣ		根	2	2	※
+gén	gen2	ㄍㄣˊ		哏	1	1	※
+gěn	gen3	ㄍㄣˇ		艮	1	1	※
+gèn	gen4	ㄍㄣˋ		亘	3	3	※
+gēng	geng1	ㄍㄥ		耕	9	9	※
+gěng	geng3	ㄍㄥˇ		埂	8	9	※
+gèng	geng4	ㄍㄥˋ		更	3	3	※
+gōng	gong1	ㄍㄨㄥ		工	17	16	※
+góng	gong2	ㄍㄨㄥˊ					‽
+gǒng	gong3	ㄍㄨㄥˇ		巩	6	10	※
+gòng	gong4	ㄍㄨㄥˋ		共	4	4	※
+gōu	gou1	ㄍㄡ		沟	9	11	※
+gǒu	gou3	ㄍㄡˇ		苟	7	7	※
+gòu	gou4	ㄍㄡˋ		构	14	16	※
+gū	gu1	ㄍㄨ		姑	21	22	※
+gú	gu2	ㄍㄨˊ		骨		1	
+gǔ	gu3	ㄍㄨˇ		古	29	30	※
+gù	gu4	ㄍㄨˋ		固	12	12	※
+guā	gua1	ㄍㄨㄚ		瓜	10	15	※
+guá	gua2	ㄍㄨㄚˊ		𪇜			‽
+guǎ	gua3	ㄍㄨㄚˇ		寡	3	2	※
+guà	gua4	ㄍㄨㄚˋ		卦	6	8	※
+guāi	guai1	ㄍㄨㄞ		乖	2	2	※
+guǎi	guai3	ㄍㄨㄞˇ		拐	1	3	※
+guài	guai4	ㄍㄨㄞˋ		怪	2	4	※
+guān	guan1	ㄍㄨㄢ		关	12	12	※
+guǎn	guan3	ㄍㄨㄢˇ		馆	8	9	※
+guàn	guan4	ㄍㄨㄢˋ		贯	15	17	※
+guāng	guang1	ㄍㄨㄤ		光	8	7	※
+guǎng	guang3	ㄍㄨㄤˇ		广	2	4	※
+guàng	guang4	ㄍㄨㄤˋ		逛	2	2	※
+gué	gue2	ㄍㄨㄜˊ					‽
+guī	gui1	ㄍㄨㄟ		归	14	17	※
+guǐ	gui3	ㄍㄨㄟˇ		轨	14	17	※
+guì	gui4	ㄍㄨㄟˋ		贵	12	17	※
+gūn	gun1	ㄍㄨㄣ					‽
+gǔn	gun3	ㄍㄨㄣˇ		滚	6	9	※
+gùn	gun4	ㄍㄨㄣˋ		棍	1	1	※
+guō	guo1	ㄍㄨㄛ		锅	10	8	※
+guó	guo2	ㄍㄨㄛˊ		国	8	7	※
+guǒ	guo3	ㄍㄨㄛˇ		果	6	8	※
+guò	guo4	ㄍㄨㄛˋ		过	1	1	※
+hā	ha1	ㄏㄚ		哈	2	3	※
+há	ha2	ㄏㄚˊ		虾	2	2	※
+hǎ	ha3	ㄏㄚˇ		哈	2	1	※
+hà	ha4	ㄏㄚˋ		哈	1		
+hāi	hai1	ㄏㄞ		咳	3	3	※
+hái	hai2	ㄏㄞˊ		孩	3	4	※
+hǎi	hai3	ㄏㄞˇ		海	4	2	※
+hài	hai4	ㄏㄞˋ		亥	6	5	※
+hān	han1	ㄏㄢ		酣	7	8	※
+hán	han2	ㄏㄢˊ		含	15	13	※
+hǎn	han3	ㄏㄢˇ		罕	5	6	※
+hàn	han4	ㄏㄢˋ		汉	20	28	※
+hāng	hang1	ㄏㄤ		夯	1	1	※
+háng	hang2	ㄏㄤˊ		杭	9	10	※
+hǎng	hang3	ㄏㄤˇ					‽
+hàng	hang4	ㄏㄤˋ		巷	3	3	※
+hāo	hao1	ㄏㄠ		蒿	3	3	※
+háo	hao2	ㄏㄠˊ		毫	9	11	※
+hǎo	hao3	ㄏㄠˇ		好	2	2	※
+hào	hao4	ㄏㄠˋ		耗	14	17	※
+hē	he1	ㄏㄜ		喝	5	3	※
+hé	he2	ㄏㄜˊ		禾	28	34	※
+hě	he3	ㄏㄜˇ		㲦			‽
+hè	he4	ㄏㄜˋ		贺	16	15	※
+hēi	hei1	ㄏㄟ		黑	4	2	※
+hěi	hei3	ㄏㄟˇ		黑		1	
+hēn	hen1	ㄏㄣ		哏		1	
+hén	hen2	ㄏㄣˊ		痕	1	2	※
+hěn	hen3	ㄏㄣˇ		很	3	3	※
+hèn	hen4	ㄏㄣˋ		恨	1	1	※
+hēng	heng1	ㄏㄥ		哼	4	3	※
+héng	heng2	ㄏㄥˊ		恒	9	9	※
+hèng	heng4	ㄏㄥˋ		横	3	2	※
+hm	hm5	˙ㄏㄇ		噷	1		
+hng	hng5	˙ㄏㄫ		哼	1		
+hōng	hong1	ㄏㄨㄥ		烘	6	9	※
+hóng	hong2	ㄏㄨㄥˊ		弘	22	23	※
+hǒng	hong3	ㄏㄨㄥˇ		哄	1	2	※
+hòng	hong4	ㄏㄨㄥˋ		哄	4	3	※
+hōu	hou1	ㄏㄡ		齁	1	2	※
+hóu	hou2	ㄏㄡˊ		喉	9	8	※
+hǒu	hou3	ㄏㄡˇ		吼	2	2	※
+hòu	hou4	ㄏㄡˋ		后	10	9	※
+hū	hu1	ㄏㄨ		呼	15	20	※
+hú	hu2	ㄏㄨˊ		狐	25	26	※
+hǔ	hu3	ㄏㄨˇ		虎	4	5	※
+hù	hu4	ㄏㄨˋ		互	20	24	※
+huā	hua1	ㄏㄨㄚ		花	4	5	※
+huá	hua2	ㄏㄨㄚˊ		猾	10	10	※
+huǎ	hua3	ㄏㄨㄚˇ					‽
+huà	hua4	ㄏㄨㄚˋ		画	9	12	※
+huái	huai2	ㄏㄨㄞˊ		怀	6	11	※
+huài	huai4	ㄏㄨㄞˋ		坏	1	2	※
+huān	huan1	ㄏㄨㄢ		欢	4	6	※
+huán	huan2	ㄏㄨㄢˊ		环	22	19	※
+huǎn	huan3	ㄏㄨㄢˇ		缓	2	6	※
+huàn	huan4	ㄏㄨㄢˋ		幻	17	17	※
+huāng	huang1	ㄏㄨㄤ		荒	4	4	※
+huáng	huang2	ㄏㄨㄤˊ		皇	25	24	※
+huǎng	huang3	ㄏㄨㄤˇ		恍	4	6	※
+huàng	huang4	ㄏㄨㄤˋ		晃	5	1	※
+huang	huang5	˙ㄏㄨㄤ		慌		1	
+huī	hui1	ㄏㄨㄟ		灰	17	19	※
+huí	hui2	ㄏㄨㄟˊ		回	7	7	※
+huǐ	hui3	ㄏㄨㄟˇ		悔	3	8	※
+huì	hui4	ㄏㄨㄟˋ		卉	37	33	※
+hūn	hun1	ㄏㄨㄣ		昏	7	6	※
+hún	hun2	ㄏㄨㄣˊ		浑	5	7	※
+hǔn	hun3	ㄏㄨㄣˇ		混		1	
+hùn	hun4	ㄏㄨㄣˋ		混	5	6	※
+huō	huo1	ㄏㄨㄛ		豁	7	2	※
+huó	huo2	ㄏㄨㄛˊ		活	3	2	※
+huǒ	huo3	ㄏㄨㄛˇ		火	5	4	※
+huò	huo4	ㄏㄨㄛˋ		或	20	29	※
+huo	huo5	˙ㄏㄨㄛ		午		2	
+jī	ji1	ㄐㄧ	ㄐ丨	机	46	53	※
+jí	ji2	ㄐㄧˊ	ㄐ丨ˊ	及	37	54	※
+jǐ	ji3	ㄐㄧˇ	ㄐ丨ˇ	己	12	17	※
+jì	ji4	ㄐㄧˋ	ㄐ丨ˋ	计	50	59	※
+jiā	jia1	ㄐㄧㄚ	ㄐ丨ㄚ	加	23	21	※
+jiá	jia2	ㄐㄧㄚˊ	ㄐ丨ㄚˊ	颊	9	17	※
+jiǎ	jia3	ㄐㄧㄚˇ	ㄐ丨ㄚˇ	甲	11	12	※
+jià	jia4	ㄐㄧㄚˋ	ㄐ丨ㄚˋ	驾	6	8	※
+jiān	jian1	ㄐㄧㄢ	ㄐ丨ㄢ	尖	31	43	※
+jiǎn	jian3	ㄐㄧㄢˇ	ㄐ丨ㄢˇ	拣	27	24	※
+jiàn	jian4	ㄐㄧㄢˋ	ㄐ丨ㄢˋ	件	30	37	※
+jiāng	jiang1	ㄐㄧㄤ	ㄐ丨ㄤ	江	12	15	※
+jiáng	jiang2	ㄐㄧㄤˊ	ㄐ丨ㄤˊ				‽
+jiǎng	jiang3	ㄐㄧㄤˇ	ㄐ丨ㄤˇ	讲	6	5	※
+jiàng	jiang4	ㄐㄧㄤˋ	ㄐ丨ㄤˋ	匠	12	9	※
+jiāo	jiao1	ㄐㄧㄠ	ㄐ丨ㄠ	交	24	29	※
+jiáo	jiao2	ㄐㄧㄠˊ	ㄐ丨ㄠˊ	矫	2	1	※
+jiǎo	jiao3	ㄐㄧㄠˇ	ㄐ丨ㄠˇ	狡	21	23	※
+jiào	jiao4	ㄐㄧㄠˋ	ㄐ丨ㄠˋ	叫	21	21	※
+jiē	jie1	ㄐㄧㄝ	ㄐ丨ㄝ	阶	15	17	※
+jié	jie2	ㄐㄧㄝˊ	ㄐ丨ㄝˊ	劫	33	44	※
+jiě	jie3	ㄐㄧㄝˇ	ㄐ丨ㄝˇ	姐	4	4	※
+jiè	jie4	ㄐㄧㄝˋ	ㄐ丨ㄝˋ	介	17	21	※
+jie	jie5	˙ㄐㄧㄝ	˙ㄐ丨ㄝ	价	2		
+jīn	jin1	ㄐㄧㄣ	ㄐ丨ㄣ	今	13	14	※
+jǐn	jin3	ㄐㄧㄣˇ	ㄐ丨ㄣˇ	紧	11	16	※
+jìn	jin4	ㄐㄧㄣˋ	ㄐ丨ㄣˋ	进	25	26	※
+jīng	jing1	ㄐㄧㄥ	ㄐ丨ㄥ	京	20	21	※
+jǐng	jing3	ㄐㄧㄥˇ	ㄐ丨ㄥˇ	井	12	9	※
+jìng	jing4	ㄐㄧㄥˋ	ㄐ丨ㄥˋ	径	20	20	※
+jiōng	jiong1	ㄐㄩㄥ		扃	3	4	※
+jiǒng	jiong3	ㄐㄩㄥˇ		窘	9	11	※
+jiòng	jiong4	ㄐㄩㄥˋ		㑋			‽
+jiū	jiu1	ㄐㄧㄡ	ㄐ丨ㄡ	究	10	14	※
+jiǔ	jiu3	ㄐㄧㄡˇ	ㄐ丨ㄡˇ	九	7	9	※
+jiù	jiu4	ㄐㄧㄡˋ	ㄐ丨ㄡˋ	旧	14	13	※
+jū	ju1	ㄐㄩ		居	32	25	※
+jú	ju2	ㄐㄩˊ		局	8	21	※
+jǔ	ju3	ㄐㄩˇ		矩	15	18	※
+jù	ju4	ㄐㄩˋ		巨	31	38	※
+juān	juan1	ㄐㄩㄢ		捐	9	11	※
+juǎn	juan3	ㄐㄩㄢˇ		卷	3	3	※
+juàn	juan4	ㄐㄩㄢˋ		倦	12	14	※
+juē	jue1	ㄐㄩㄝ		撅	3	4	※
+jué	jue2	ㄐㄩㄝˊ		决	39	52	※
+juě	jue3	ㄐㄩㄝˇ		蹶	1	1	※
+juè	jue4	ㄐㄩㄝˋ		倔	1	1	※
+jūn	jun1	ㄐㄩㄣ		军	11	11	※
+jún	jun2	ㄐㄩㄣˊ					‽
+jǔn	jun3	ㄐㄩㄣˇ		窘		1	
+jùn	jun4	ㄐㄩㄣˋ		俊	18	21	※
+kā	ka1	ㄎㄚ		咖	4	3	※
+kǎ	ka3	ㄎㄚˇ		咯	5	5	※
+kà	ka4	ㄎㄚˋ		喀		2	
+kāi	kai1	ㄎㄞ		开	3	3	※
+kǎi	kai3	ㄎㄞˇ		凯	10	11	※
+kài	kai4	ㄎㄞˋ		忾	4	5	※
+kān	kan1	ㄎㄢ		刊	7	7	※
+kǎn	kan3	ㄎㄢˇ		坎	8	13	※
+kàn	kan4	ㄎㄢˋ		看	8	6	※
+kāng	kang1	ㄎㄤ		康	7	6	※
+káng	kang2	ㄎㄤˊ		扛	1	1	※
+kǎng	kang3	ㄎㄤˇ		慷		2	
+kàng	kang4	ㄎㄤˋ		抗	7	7	※
+kāo	kao1	ㄎㄠ		尻	1	2	※
+kǎo	kao3	ㄎㄠˇ		考	6	7	※
+kào	kao4	ㄎㄠˋ		铐	5	3	※
+kē	ke1	ㄎㄜ		科	24	22	※
+ké	ke2	ㄎㄜˊ		壳	4	5	※
+kě	ke3	ㄎㄜˇ		渴	6	7	※
+kè	ke4	ㄎㄜˋ		克	14	15	※
+kēi	kei1	ㄎㄟ		剋	1		
+kēn	ken1	ㄎㄣ		𩎤			‽
+kěn	ken3	ㄎㄣˇ		肯	5	5	※
+kèn	ken4	ㄎㄣˋ		裉	2	3	※
+kēng	keng1	ㄎㄥ		坑	4	9	※
+kěng	keng3	ㄎㄥˇ		肯		1	
+kōng	kong1	ㄎㄨㄥ		空	7	6	※
+kǒng	kong3	ㄎㄨㄥˇ		孔	3	4	※
+kòng	kong4	ㄎㄨㄥˋ		控	4	3	※
+kōu	kou1	ㄎㄡ		抠	4	3	※
+kǒu	kou3	ㄎㄡˇ		口	1	1	※
+kòu	kou4	ㄎㄡˋ		叩	6	9	※
+kū	ku1	ㄎㄨ		枯	8	6	※
+kú	ku2	ㄎㄨˊ		𦛏			‽
+kǔ	ku3	ㄎㄨˇ		苦	2	2	※
+kù	ku4	ㄎㄨˋ		库	5	5	※
+kuā	kua1	ㄎㄨㄚ		夸	2	3	※
+kuǎ	kua3	ㄎㄨㄚˇ		垮	2	3	※
+kuà	kua4	ㄎㄨㄚˋ		挎	3	3	※
+kuāi	kuai1	ㄎㄨㄞ		咼		2	
+kuǎi	kuai3	ㄎㄨㄞˇ		㧟	2	1	※
+kuài	kuai4	ㄎㄨㄞˋ		快	12	18	※
+kuān	kuan1	ㄎㄨㄢ		宽	2	3	※
+kuǎn	kuan3	ㄎㄨㄢˇ		款	2	3	※
+kuàn	kuan4	ㄎㄨㄢˋ		䤭			‽
+kuāng	kuang1	ㄎㄨㄤ		筐	8	8	※
+kuáng	kuang2	ㄎㄨㄤˊ		狂	3	3	※
+kuǎng	kuang3	ㄎㄨㄤˇ		夼	1	1	※
+kuàng	kuang4	ㄎㄨㄤˋ		旷	11	8	※
+kuī	kui1	ㄎㄨㄟ		亏	6	7	※
+kuí	kui2	ㄎㄨㄟˊ		葵	15	14	※
+kuǐ	kui3	ㄎㄨㄟˇ		傀	5	6	※
+kuì	kui4	ㄎㄨㄟˋ		馈	10	12	※
+kūn	kun1	ㄎㄨㄣ		昆	12	13	※
+kǔn	kun3	ㄎㄨㄣˇ		捆	4	7	※
+kùn	kun4	ㄎㄨㄣˋ		困	1	2	※
+kuò	kuo4	ㄎㄨㄛˋ		阔	10	9	※
+lā	la1	ㄌㄚ		垃	6	3	※
+lá	la2	ㄌㄚˊ		拉	6	3	※
+lǎ	la3	ㄌㄚˇ		拉	2	1	※
+là	la4	ㄌㄚˋ		辣	13	8	※
+la	la5	˙ㄌㄚ		啦	2	2	※
+lái	lai2	ㄌㄞˊ		来	9	13	※
+lǎi	lai3	ㄌㄞˇ		襰			‽
+lài	lai4	ㄌㄞˋ		睐	7	11	※
+lai	lai5	˙ㄌㄞ		𫪁	1		
+lán	lan2	ㄌㄢˊ		兰	16	20	※
+lǎn	lan3	ㄌㄢˇ		览	8	8	※
+làn	lan4	ㄌㄢˋ		烂	2	4	※
+lāng	lang1	ㄌㄤ		啷	1	1	※
+láng	lang2	ㄌㄤˊ		狼	14	17	※
+lǎng	lang3	ㄌㄤˇ		朗	5	3	※
+làng	lang4	ㄌㄤˋ		浪	7	4	※
+lāo	lao1	ㄌㄠ		捞	1	1	※
+láo	lao2	ㄌㄠˊ		劳	9	10	※
+lǎo	lao3	ㄌㄠˇ		老	9	10	※
+lào	lao4	ㄌㄠˋ		涝	9	9	※
+lē	le1	ㄌㄜ			2		
+lé	le2	ㄌㄜˊ					‽
+lè	le4	ㄌㄜˋ		勒	9	11	※
+le	le5	˙ㄌㄜ		了	2	1	※
+lēi	lei1	ㄌㄟ		勒	1	1	※
+léi	lei2	ㄌㄟˊ		雷	14	13	※
+lěi	lei3	ㄌㄟˇ		垒	11	12	※
+lèi	lei4	ㄌㄟˋ		类	7	9	※
+lei	lei5	˙ㄌㄟ		嘞	1		
+lēng	leng1	ㄌㄥ		棱	2	1	※
+léng	leng2	ㄌㄥˊ		棱	5	5	※
+lěng	leng3	ㄌㄥˇ		冷	1	1	※
+lèng	leng4	ㄌㄥˋ		愣	3	3	※
+lī	li1	ㄌㄧ	ㄌ丨	哩	1	1	※
+lí	li2	ㄌㄧˊ	ㄌ丨ˊ	厘	30	35	※
+lǐ	li3	ㄌㄧˇ	ㄌ丨ˇ	礼	16	18	※
+lì	li4	ㄌㄧˋ	ㄌ丨ˋ	力	56	60	※
+li	li5	˙ㄌㄧ	˙ㄌ丨	里	2	1	※
+liǎ	lia3	ㄌㄧㄚˇ	ㄌ丨ㄚˇ	俩	1	1	※
+liān	lian1	ㄌㄧㄢ	ㄌ丨ㄢ				‽
+lián	lian2	ㄌㄧㄢˊ	ㄌ丨ㄢˊ	连	17	22	※
+liǎn	lian3	ㄌㄧㄢˇ	ㄌ丨ㄢˇ	敛	5	3	※
+liàn	lian4	ㄌㄧㄢˋ	ㄌ丨ㄢˋ	练	10	14	※
+liáng	liang2	ㄌㄧㄤˊ	ㄌ丨ㄤˊ	良	13	12	※
+liǎng	liang3	ㄌㄧㄤˇ	ㄌ丨ㄤˇ	两	8	6	※
+liàng	liang4	ㄌㄧㄤˋ	ㄌ丨ㄤˋ	亮	11	10	※
+liāo	liao1	ㄌㄧㄠ	ㄌ丨ㄠ	撩	2	1	※
+liáo	liao2	ㄌㄧㄠˊ	ㄌ丨ㄠˊ	疗	19	22	※
+liǎo	liao3	ㄌㄧㄠˇ	ㄌ丨ㄠˇ	了	5	5	※
+liào	liao4	ㄌㄧㄠˋ	ㄌ丨ㄠˋ	料	9	8	※
+liē	lie1	ㄌㄧㄝ	ㄌ丨ㄝ	咧	1	1	※
+lié	lie2	ㄌㄧㄝˊ	ㄌ丨ㄝˊ	咧		1	
+liě	lie3	ㄌㄧㄝˇ	ㄌ丨ㄝˇ	咧	2	1	※
+liè	lie4	ㄌㄧㄝˋ	ㄌ丨ㄝˋ	列	16	15	※
+lie	lie5	˙ㄌㄧㄝ	˙ㄌ丨ㄝ	咧	1		
+līn	lin1	ㄌㄧㄣ	ㄌ丨ㄣ	拎	1		
+lín	lin2	ㄌㄧㄣˊ	ㄌ丨ㄣˊ	林	22	21	※
+lǐn	lin3	ㄌㄧㄣˇ	ㄌ丨ㄣˇ	凛	5	5	※
+lìn	lin4	ㄌㄧㄣˋ	ㄌ丨ㄣˋ	吝	6	5	※
+līng	ling1	ㄌㄧㄥ	ㄌ丨ㄥ	拎		1	
+líng	ling2	ㄌㄧㄥˊ	ㄌ丨ㄥˊ	玲	35	33	※
+lǐng	ling3	ㄌㄧㄥˇ	ㄌ丨ㄥˇ	岭	3	2	※
+lìng	ling4	ㄌㄧㄥˋ	ㄌ丨ㄥˋ	另	3	2	※
+liū	liu1	ㄌㄧㄡ	ㄌ丨ㄡ	溜	4	1	※
+liú	liu2	ㄌㄧㄡˊ	ㄌ丨ㄡˊ	留	20	19	※
+liǔ	liu3	ㄌㄧㄡˇ	ㄌ丨ㄡˇ	柳	5	3	※
+liù	liu4	ㄌㄧㄡˋ	ㄌ丨ㄡˋ	六	9	9	※
+lō	lo1	ㄌㄛ					‽
+lo	lo5	˙ㄌㄛ		咯	1	1	※
+lōng	long1	ㄌㄨㄥ		隆	1		
+lóng	long2	ㄌㄨㄥˊ		龙	18	16	※
+lǒng	long3	ㄌㄨㄥˇ		拢	6	5	※
+lòng	long4	ㄌㄨㄥˋ		弄	3	1	※
+lōu	lou1	ㄌㄡ		搂	2	1	※
+lóu	lou2	ㄌㄡˊ		娄	12	15	※
+lǒu	lou3	ㄌㄡˇ		篓	3	4	※
+lòu	lou4	ㄌㄡˋ		陋	5	6	※
+lou	lou5	˙ㄌㄡ		喽	1	1	※
+lū	lu1	ㄌㄨ		撸	2	1	※
+lú	lu2	ㄌㄨˊ		卢	16	18	※
+lǔ	lu3	ㄌㄨˇ		卤	7	8	※
+lù	lu4	ㄌㄨˋ		录	35	39	※
+lu	lu5	˙ㄌㄨ		氇	1		
+lǖ	lü1	ㄌㄩ					‽
+lǘ	lü2	ㄌㄩˊ		驴	4	6	※
+lǚ	lü3	ㄌㄩˇ		吕	13	14	※
+lǜ	lü4	ㄌㄩˋ		律	11	10	※
+luán	luan2	ㄌㄨㄢˊ		峦	10	9	※
+luǎn	luan3	ㄌㄨㄢˇ		卵	1	2	※
+luàn	luan4	ㄌㄨㄢˋ		乱	1	1	※
+lüán	lüan2	ㄌㄩㄢˊ		孿		2	
+lüǎn	lüan3	ㄌㄩㄢˇ		孌		2	
+lüē	lüe1	ㄌㄩㄝ					‽
+lüě	lüe3	ㄌㄩㄝˇ					‽
+lüè	lüe4	ㄌㄩㄝˋ		略	5	3	※
+lūn	lun1	ㄌㄨㄣ		抡	1	1	※
+lún	lun2	ㄌㄨㄣˊ		仑	9	10	※
+lǔn	lun3	ㄌㄨㄣˇ		𫭢	1		
+lùn	lun4	ㄌㄨㄣˋ		论	1	1	※
+luō	luo1	ㄌㄨㄛ		啰	3	3	※
+luó	luo2	ㄌㄨㄛˊ		罗	15	14	※
+luǒ	luo3	ㄌㄨㄛˇ		裸	5	10	※
+luò	luo4	ㄌㄨㄛˋ		洛	14	15	※
+luo	luo5	˙ㄌㄨㄛ		啰	1		
+m̄	m1	˙ㄇ		姆	1		
+ḿ	m2	ㄇˊ		呣	2		
+m̀	m4	ㄇˋ		呣	1		
+mā	ma1	ㄇㄚ		妈	5	4	※
+má	ma2	ㄇㄚˊ		麻	4	6	※
+mǎ	ma3	ㄇㄚˇ		马	6	7	※
+mà	ma4	ㄇㄚˋ		骂	4	4	※
+ma	ma5	˙ㄇㄚ		嘛	3	4	※
+māi	mai1	ㄇㄞ					‽
+mái	mai2	ㄇㄞˊ		埋	2	3	※
+mǎi	mai3	ㄇㄞˇ		买	2	1	※
+mài	mai4	ㄇㄞˋ		迈	8	6	※
+mān	man1	ㄇㄢ		嫚	2	2	※
+mán	man2	ㄇㄢˊ		蛮	9	17	※
+mǎn	man3	ㄇㄢˇ		满	2	2	※
+màn	man4	ㄇㄢˋ		曼	12	13	※
+māng	mang1	ㄇㄤ		牤	1		
+máng	mang2	ㄇㄤˊ		忙	12	21	※
+mǎng	mang3	ㄇㄤˇ		莽	3	6	※
+màng	mang4	ㄇㄤˋ		㤶			‽
+māo	mao1	ㄇㄠ		猫	1	2	※
+máo	mao2	ㄇㄠˊ		毛	12	13	※
+mǎo	mao3	ㄇㄠˇ		卯	6	5	※
+mào	mao4	ㄇㄠˋ		茂	19	19	※
+mē	me1	ㄇㄜ		嚒			‽
+mè	me4	ㄇㄜˋ		嚰			‽
+me	me5	˙ㄇㄜ		么	3	2	※
+méi	mei2	ㄇㄟˊ		眉	22	22	※
+měi	mei3	ㄇㄟˇ		每	6	7	※
+mèi	mei4	ㄇㄟˋ		妹	9	13	※
+mēn	men1	ㄇㄣ		闷	1	2	※
+mén	men2	ㄇㄣˊ		门	6	7	※
+měn	men3	ㄇㄣˇ		悗		1	
+mèn	men4	ㄇㄣˋ		闷	4	4	※
+men	men5	˙ㄇㄣ		们	1	1	※
+mēng	meng1	ㄇㄥ		蒙	1	1	※
+méng	meng2	ㄇㄥˊ		萌	17	31	※
+měng	meng3	ㄇㄥˇ		猛	10	12	※
+mèng	meng4	ㄇㄥˋ		孟	2	3	※
+mī	mi1	ㄇㄧ	ㄇ丨	咪	2	3	※
+mí	mi2	ㄇㄧˊ	ㄇ丨ˊ	迷	15	18	※
+mǐ	mi3	ㄇㄧˇ	ㄇ丨ˇ	米	8	12	※
+mì	mi4	ㄇㄧˋ	ㄇ丨ˋ	觅	14	23	※
+miān	mian1	ㄇㄧㄢ	ㄇ丨ㄢ				‽
+mián	mian2	ㄇㄧㄢˊ	ㄇ丨ㄢˊ	眠	3	9	※
+miǎn	mian3	ㄇㄧㄢˇ	ㄇ丨ㄢˇ	免	18	17	※
+miàn	mian4	ㄇㄧㄢˋ	ㄇ丨ㄢˋ	面	2	3	※
+miāo	miao1	ㄇㄧㄠ	ㄇ丨ㄠ	喵	1	1	※
+miáo	miao2	ㄇㄧㄠˊ	ㄇ丨ㄠˊ	苗	4	3	※
+miǎo	miao3	ㄇㄧㄠˇ	ㄇ丨ㄠˇ	秒	9	8	※
+miào	miao4	ㄇㄧㄠˋ	ㄇ丨ㄠˋ	妙	3	3	※
+miē	mie1	ㄇㄧㄝ	ㄇ丨ㄝ	乜	2	3	※
+mié	mie2	ㄇㄧㄝˊ	ㄇ丨ㄝˊ	𥄲			‽
+miè	mie4	ㄇㄧㄝˋ	ㄇ丨ㄝˋ	灭	4	7	※
+mīn	min1	ㄇㄧㄣ	ㄇ丨ㄣ				‽
+mín	min2	ㄇㄧㄣˊ	ㄇ丨ㄣˊ	民	8	11	※
+mǐn	min3	ㄇㄧㄣˇ	ㄇ丨ㄣˇ	皿	15	15	※
+míng	ming2	ㄇㄧㄥˊ	ㄇ丨ㄥˊ	明	13	15	※
+mǐng	ming3	ㄇㄧㄥˇ	ㄇ丨ㄥˇ	酩	1	5	※
+mìng	ming4	ㄇㄧㄥˋ	ㄇ丨ㄥˋ	命	1	2	※
+miú	miu2	ㄇㄧㄡˊ	ㄇ丨ㄡˊ				‽
+miǔ	miu3	ㄇㄧㄡˇ	ㄇ丨ㄡˇ	𨱯			‽
+miù	miu4	ㄇㄧㄡˋ	ㄇ丨ㄡˋ	谬	2	2	※
+mō	mo1	ㄇㄛ		摸	1	1	※
+mó	mo2	ㄇㄛˊ		馍	15	16	※
+mǒ	mo3	ㄇㄛˇ		抹	1	1	※
+mò	mo4	ㄇㄛˋ		茉	31	40	※
+mo	mo5	˙ㄇㄛ					‽
+mōu	mou1	ㄇㄡ		哞	1		
+móu	mou2	ㄇㄡˊ		谋	8	11	※
+mǒu	mou3	ㄇㄡˇ		某	1	3	※
+mòu	mou4	ㄇㄡˋ		懋		6	
+mú	mu2	ㄇㄨˊ		模	2	3	※
+mǔ	mu3	ㄇㄨˇ		母	11	8	※
+mù	mu4	ㄇㄨˋ		木	16	19	※
+ń	n2	ㄋˊ		嗯	2		
+ň	n3	ㄋˇ		嗯	1		
+ǹ	n4	ㄋˋ		嗯	1		
+nā	na1	ㄋㄚ		那	2	1	※
+ná	na2	ㄋㄚˊ		拿	2	3	※
+nǎ	na3	ㄋㄚˇ		那	3	2	※
+nà	na4	ㄋㄚˋ		纳	10	11	※
+na	na5	˙ㄋㄚ		哪	2	1	※
+nái	nai2	ㄋㄞˊ		腉			‽
+nǎi	nai3	ㄋㄞˇ		乃	7	6	※
+nài	nai4	ㄋㄞˋ		奈	9	7	※
+nān	nan1	ㄋㄢ		囡	1	1	※
+nán	nan2	ㄋㄢˊ		男	6	8	※
+nǎn	nan3	ㄋㄢˇ		赧	3	4	※
+nàn	nan4	ㄋㄢˋ		难	2	1	※
+nāng	nang1	ㄋㄤ		囊	2		
+náng	nang2	ㄋㄤˊ		囊	2	1	※
+nǎng	nang3	ㄋㄤˇ		曩	3	2	※
+nàng	nang4	ㄋㄤˋ		齉	1	1	※
+nang	nang5	˙ㄋㄤ		囔		1	
+nāo	nao1	ㄋㄠ		孬	1	1	※
+náo	nao2	ㄋㄠˊ		挠	11	11	※
+nǎo	nao3	ㄋㄠˇ		恼	4	3	※
+nào	nao4	ㄋㄠˋ		闹	3	3	※
+né	ne2	ㄋㄜˊ		哪	1		
+nè	ne4	ㄋㄜˋ		眲	3	2	※
+ne	ne5	˙ㄋㄜ		呢	2	1	※
+néi	nei2	ㄋㄟˊ		𨡌			‽
+něi	nei3	ㄋㄟˇ		馁	2	3	※
+nèi	nei4	ㄋㄟˋ		内	2	2	※
+něn	nen3	ㄋㄣˇ					‽
+nèn	nen4	ㄋㄣˋ		嫩	3	1	※
+néng	neng2	ㄋㄥˊ		能	1	2	※
+něng	neng3	ㄋㄥˇ		𠹌			‽
+ńg	ng2	ㄫˊ		嗯	2		
+ňg	ng3	ㄫˇ		嗯	1		
+ǹg	ng4	ㄫˋ		嗯	1		
+nī	ni1	ㄋㄧ	ㄋ丨	妮	1		
+ní	ni2	ㄋㄧˊ	ㄋ丨ˊ	尼	17	17	※
+nǐ	ni3	ㄋㄧˇ	ㄋ丨ˇ	拟	4	9	※
+nì	ni4	ㄋㄧˋ	ㄋ丨ˋ	逆	13	10	※
+niān	nian1	ㄋㄧㄢ	ㄋ丨ㄢ	拈	2	1	※
+nián	nian2	ㄋㄧㄢˊ	ㄋ丨ㄢˊ	年	4	7	※
+niǎn	nian3	ㄋㄧㄢˇ	ㄋ丨ㄢˇ	捻	7	8	※
+niàn	nian4	ㄋㄧㄢˋ	ㄋ丨ㄢˋ	念	3	4	※
+niáng	niang2	ㄋㄧㄤˊ	ㄋ丨ㄤˊ	娘	1	2	※
+niǎng	niang3	ㄋㄧㄤˇ	ㄋ丨ㄤˇ				‽
+niàng	niang4	ㄋㄧㄤˋ	ㄋ丨ㄤˋ	酿	1	1	※
+niǎo	niao3	ㄋㄧㄠˇ	ㄋ丨ㄠˇ	鸟	4	7	※
+niào	niao4	ㄋㄧㄠˋ	ㄋ丨ㄠˋ	尿	3	2	※
+niē	nie1	ㄋㄧㄝ	ㄋ丨ㄝ	捏	1	2	※
+nié	nie2	ㄋㄧㄝˊ	ㄋ丨ㄝˊ	苶	1	1	※
+niè	nie4	ㄋㄧㄝˋ	ㄋ丨ㄝˋ	聂	20	25	※
+nīn	nin1	ㄋㄧㄣ	ㄋ丨ㄣ				‽
+nín	nin2	ㄋㄧㄣˊ	ㄋ丨ㄣˊ	您	2	2	※
+nǐn	nin3	ㄋㄧㄣˇ	ㄋ丨ㄣˇ	拰			‽
+nìn	nin4	ㄋㄧㄣˋ	ㄋ丨ㄣˋ				‽
+níng	ning2	ㄋㄧㄥˊ	ㄋ丨ㄥˊ	狞	9	10	※
+nǐng	ning3	ㄋㄧㄥˇ	ㄋ丨ㄥˇ	拧	1	1	※
+nìng	ning4	ㄋㄧㄥˋ	ㄋ丨ㄥˋ	泞	5	5	※
+niū	niu1	ㄋㄧㄡ	ㄋ丨ㄡ	妞	1	1	※
+niú	niu2	ㄋㄧㄡˊ	ㄋ丨ㄡˊ	牛	1	1	※
+niǔ	niu3	ㄋㄧㄡˇ	ㄋ丨ㄡˇ	扭	6	6	※
+niù	niu4	ㄋㄧㄡˋ	ㄋ丨ㄡˋ	拗	1	1	※
+nóng	nong2	ㄋㄨㄥˊ		农	7	9	※
+nǒng	nong3	ㄋㄨㄥˇ		繷			‽
+nòng	nong4	ㄋㄨㄥˋ		弄	1	1	※
+nóu	nou2	ㄋㄡˊ		䨲		2	
+nǒu	nou3	ㄋㄡˇ		𡝦			‽
+nòu	nou4	ㄋㄡˋ		耨	1	2	※
+nú	nu2	ㄋㄨˊ		奴	5	5	※
+nǔ	nu3	ㄋㄨˇ		努	4	3	※
+nù	nu4	ㄋㄨˋ		怒	2	2	※
+nǘ	nü2	ㄋㄩˊ					‽
+nǚ	nü3	ㄋㄩˇ		女	3	3	※
+nǜ	nü4	ㄋㄩˋ		衄	3	4	※
+nuán	nuan2	ㄋㄨㄢˊ		奻			‽
+nuǎn	nuan3	ㄋㄨㄢˇ		暖	1	3	※
+nuàn	nuan4	ㄋㄨㄢˋ		𪋐			‽
+nüè	nüe4	ㄋㄩㄝˋ		虐	2	3	※
+nuí	nui2	ㄋㄨㄟˊ					‽
+nún	nun2	ㄋㄨㄣˊ		黁	1	1	※
+nuó	nuo2	ㄋㄨㄛˊ		挪	4	6	※
+nuǒ	nuo3	ㄋㄨㄛˇ		㛂		1	
+nuò	nuo4	ㄋㄨㄛˋ		诺	6	7	※
+ō	o1	ㄛ		噢	2	3	※
+ó	o2	ㄛˊ		哦	1	1	※
+ǒ	o3	ㄛˇ		嚄	1	1	※
+ò	o4	ㄛˋ		哦	1		
+ōu	ou1	ㄡ		欧	8	11	※
+óu	ou2	ㄡˊ		𫪘	1	2	※
+ǒu	ou3	ㄡˇ		呕	7	6	※
+òu	ou4	ㄡˋ		沤	3	2	※
+ou	ou5	˙ㄡ					‽
+pā	pa1	ㄆㄚ		趴	6	5	※
+pá	pa2	ㄆㄚˊ		爬	9	6	※
+pǎ	pa3	ㄆㄚˇ		𥩙			‽
+pà	pa4	ㄆㄚˋ		怕	3	5	※
+pa	pa5	˙ㄆㄚ		杷		2	
+pāi	pai1	ㄆㄞ		拍	1	1	※
+pái	pai2	ㄆㄞˊ		徘	7	6	※
+pǎi	pai3	ㄆㄞˇ		迫	2	1	※
+pài	pai4	ㄆㄞˋ		湃	4	3	※
+pān	pan1	ㄆㄢ		潘	4	4	※
+pán	pan2	ㄆㄢˊ		盘	10	15	※
+pǎn	pan3	ㄆㄢˇ		𧺾			‽
+pàn	pan4	ㄆㄢˋ		判	9	12	※
+pāng	pang1	ㄆㄤ		乓	4	5	※
+páng	pang2	ㄆㄤˊ		旁	9	13	※
+pǎng	pang3	ㄆㄤˇ		耪	3		
+pàng	pang4	ㄆㄤˋ		胖	1	1	※
+pāo	pao1	ㄆㄠ		抛	3	3	※
+páo	pao2	ㄆㄠˊ		袍	8	14	※
+pǎo	pao3	ㄆㄠˇ		跑	1	1	※
+pào	pao4	ㄆㄠˋ		泡	4	7	※
+pēi	pei1	ㄆㄟ		胚	5	6	※
+péi	pei2	ㄆㄟˊ		陪	6	8	※
+pěi	pei3	ㄆㄟˇ		俖			‽
+pèi	pei4	ㄆㄟˋ		沛	8	12	※
+pēn	pen1	ㄆㄣ		喷	1	3	※
+pén	pen2	ㄆㄣˊ		盆	2	2	※
+pěn	pen3	ㄆㄣˇ		呠			‽
+pèn	pen4	ㄆㄣˋ		喷	1	2	※
+pēng	peng1	ㄆㄥ		烹	7	15	※
+péng	peng2	ㄆㄥˊ		朋	17	19	※
+pěng	peng3	ㄆㄥˇ		捧	1	1	※
+pèng	peng4	ㄆㄥˋ		碰	2	3	※
+pī	pi1	ㄆㄧ	ㄆ丨	批	18	17	※
+pí	pi2	ㄆㄧˊ	ㄆ丨ˊ	皮	24	29	※
+pǐ	pi3	ㄆㄧˇ	ㄆ丨ˇ	匹	12	11	※
+pì	pi4	ㄆㄧˋ	ㄆ丨ˋ	屁	12	16	※
+piā	pia1	ㄆㄧㄚ	ㄆ丨ㄚ	㕷		2	
+piān	pian1	ㄆㄧㄢ	ㄆ丨ㄢ	偏	6	7	※
+pián	pian2	ㄆㄧㄢˊ	ㄆ丨ㄢˊ	便	8	12	※
+piǎn	pian3	ㄆㄧㄢˇ	ㄆ丨ㄢˇ	谝	2	1	※
+piàn	pian4	ㄆㄧㄢˋ	ㄆ丨ㄢˋ	骗	2	4	※
+piāo	piao1	ㄆㄧㄠ	ㄆ丨ㄠ	飘	6	9	※
+piáo	piao2	ㄆㄧㄠˊ	ㄆ丨ㄠˊ	瓢	4	3	※
+piǎo	piao3	ㄆㄧㄠˇ	ㄆ丨ㄠˇ	漂	5	11	※
+piào	piao4	ㄆㄧㄠˋ	ㄆ丨ㄠˋ	票	6	7	※
+piē	pie1	ㄆㄧㄝ	ㄆ丨ㄝ	撇	3	5	※
+piě	pie3	ㄆㄧㄝˇ	ㄆ丨ㄝˇ	撇	3	2	※
+piè	pie4	ㄆㄧㄝˋ	ㄆ丨ㄝˋ	嫳	1	1	※
+pīn	pin1	ㄆㄧㄣ	ㄆ丨ㄣ	拼	2	2	※
+pín	pin2	ㄆㄧㄣˊ	ㄆ丨ㄣˊ	贫	7	10	※
+pǐn	pin3	ㄆㄧㄣˇ	ㄆ丨ㄣˇ	品	2	1	※
+pìn	pin4	ㄆㄧㄣˋ	ㄆ丨ㄣˋ	聘	2	2	※
+pīng	ping1	ㄆㄧㄥ	ㄆ丨ㄥ	乒	4	6	※
+píng	ping2	ㄆㄧㄥˊ	ㄆ丨ㄥˊ	平	18	22	※
+pǐng	ping3	ㄆㄧㄥˇ	ㄆ丨ㄥˇ				‽
+pìng	ping4	ㄆㄧㄥˋ	ㄆ丨ㄥˋ	聘		1	
+pō	po1	ㄆㄛ		坡	10	6	※
+pó	po2	ㄆㄛˊ		婆	4	7	※
+pǒ	po3	ㄆㄛˇ		叵	3	6	※
+pò	po4	ㄆㄛˋ		破	6	16	※
+po	po5	˙ㄆㄛ		桲	1		
+pōu	pou1	ㄆㄡ		剖	1	1	※
+póu	pou2	ㄆㄡˊ		抔	3	4	※
+pǒu	pou3	ㄆㄡˇ		掊	1	5	※
+pòu	pou4	ㄆㄡˋ					‽
+pū	pu1	ㄆㄨ		扑	5	8	※
+pú	pu2	ㄆㄨˊ		菩	14	19	※
+pǔ	pu3	ㄆㄨˇ		圃	11	8	※
+pù	pu4	ㄆㄨˋ		铺	5	5	※
+q	q5	˙ㄑ		啐		1	
+qī	qi1	ㄑㄧ	ㄑ丨	七	23	29	※
+qí	qi2	ㄑㄧˊ	ㄑ丨ˊ	歧	46	49	※
+qǐ	qi3	ㄑㄧˇ	ㄑ丨ˇ	乞	17	12	※
+qì	qi4	ㄑㄧˋ	ㄑ丨ˋ	气	21	28	※
+qiā	qia1	ㄑㄧㄚ	ㄑ丨ㄚ	掐	4	1	※
+qiá	qia2	ㄑㄧㄚˊ	ㄑ丨ㄚˊ	拤	1		
+qiǎ	qia3	ㄑㄧㄚˇ	ㄑ丨ㄚˇ	卡	1	2	※
+qià	qia4	ㄑㄧㄚˋ	ㄑ丨ㄚˋ	恰	4	4	※
+qiān	qian1	ㄑㄧㄢ	ㄑ丨ㄢ	千	23	25	※
+qián	qian2	ㄑㄧㄢˊ	ㄑ丨ㄢˊ	前	14	21	※
+qiǎn	qian3	ㄑㄧㄢˇ	ㄑ丨ㄢˇ	遣	6	5	※
+qiàn	qian4	ㄑㄧㄢˋ	ㄑ丨ㄢˋ	欠	13	17	※
+qiāng	qiang1	ㄑㄧㄤ	ㄑ丨ㄤ	枪	16	19	※
+qiáng	qiang2	ㄑㄧㄤˊ	ㄑ丨ㄤˊ	墙	6	10	※
+qiǎng	qiang3	ㄑㄧㄤˇ	ㄑ丨ㄤˇ	抢	5	7	※
+qiàng	qiang4	ㄑㄧㄤˋ	ㄑ丨ㄤˋ	呛	5	5	※
+qiāo	qiao1	ㄑㄧㄠ	ㄑ丨ㄠ	敲	11	15	※
+qiáo	qiao2	ㄑㄧㄠˊ	ㄑ丨ㄠˊ	乔	15	18	※
+qiǎo	qiao3	ㄑㄧㄠˇ	ㄑ丨ㄠˇ	巧	4	5	※
+qiào	qiao4	ㄑㄧㄠˋ	ㄑ丨ㄠˋ	俏	13	13	※
+qiē	qie1	ㄑㄧㄝ	ㄑ丨ㄝ	切	1	1	※
+qié	qie2	ㄑㄧㄝˊ	ㄑ丨ㄝˊ	茄	2	2	※
+qiě	qie3	ㄑㄧㄝˇ	ㄑ丨ㄝˇ	且	1	1	※
+qiè	qie4	ㄑㄧㄝˋ	ㄑ丨ㄝˋ	怯	13	16	※
+qīn	qin1	ㄑㄧㄣ	ㄑ丨ㄣ	钦	6	7	※
+qín	qin2	ㄑㄧㄣˊ	ㄑ丨ㄣˊ	芹	18	17	※
+qǐn	qin3	ㄑㄧㄣˇ	ㄑ丨ㄣˇ	寝	3	3	※
+qìn	qin4	ㄑㄧㄣˋ	ㄑ丨ㄣˋ	沁	3	4	※
+qīng	qing1	ㄑㄧㄥ	ㄑ丨ㄥ	青	9	13	※
+qíng	qing2	ㄑㄧㄥˊ	ㄑ丨ㄥˊ	情	8	8	※
+qǐng	qing3	ㄑㄧㄥˇ	ㄑ丨ㄥˇ	顷	5	3	※
+qìng	qing4	ㄑㄧㄥˋ	ㄑ丨ㄥˋ	庆	9	6	※
+qiōng	qiong1	ㄑㄩㄥ		穹		3	
+qióng	qiong2	ㄑㄩㄥˊ		穷	11	15	※
+qiǒng	qiong3	ㄑㄩㄥˇ					‽
+qiòng	qiong4	ㄑㄩㄥˋ		𢮍			‽
+qiū	qiu1	ㄑㄧㄡ	ㄑ丨ㄡ	秋	11	12	※
+qiú	qiu2	ㄑㄧㄡˊ	ㄑ丨ㄡˊ	囚	20	26	※
+qiǔ	qiu3	ㄑㄧㄡˇ	ㄑ丨ㄡˇ	糗	1	1	※
+qiù	qiu4	ㄑㄧㄡˋ	ㄑ丨ㄡˋ	䟬			‽
+qū	qu1	ㄑㄩ		岖	25	20	※
+qú	qu2	ㄑㄩˊ		渠	19	19	※
+qǔ	qu3	ㄑㄩˇ		取	6	5	※
+qù	qu4	ㄑㄩˋ		去	4	7	※
+qu	qu5	˙ㄑㄩ		戌	1		
+quān	quan1	ㄑㄩㄢ		圈	5	4	※
+quán	quan2	ㄑㄩㄢˊ		权	19	21	※
+quǎn	quan3	ㄑㄩㄢˇ		犬	3	4	※
+quàn	quan4	ㄑㄩㄢˋ		劝	2	3	※
+quē	que1	ㄑㄩㄝ		缺	3	3	※
+qué	que2	ㄑㄩㄝˊ		瘸	1	1	※
+què	que4	ㄑㄩㄝˋ		却	12	17	※
+qūn	qun1	ㄑㄩㄣ		逡	2	2	※
+qún	qun2	ㄑㄩㄣˊ		群	4	3	※
+qǔn	qun3	ㄑㄩㄣˇ		𦃢			‽
+qùn	qun4	ㄑㄩㄣˋ					‽
+rán	ran2	ㄖㄢˊ		然	4	6	※
+rǎn	ran3	ㄖㄢˇ		冉	4	5	※
+ràn	ran4	ㄖㄢˋ		𥣹			‽
+rāng	rang1	ㄖㄤ		嚷	1	1	※
+ráng	rang2	ㄖㄤˊ		瓤	8	9	※
+rǎng	rang3	ㄖㄤˇ		壤	3	6	※
+ràng	rang4	ㄖㄤˋ		让	2	3	※
+ráo	rao2	ㄖㄠˊ		饶	4	5	※
+rǎo	rao3	ㄖㄠˇ		扰	2	2	※
+rào	rao4	ㄖㄠˋ		绕	1	2	※
+rě	re3	ㄖㄜˇ		惹	3	3	※
+rè	re4	ㄖㄜˋ		热	1	2	※
+rén	ren2	ㄖㄣˊ		人	4	8	※
+rěn	ren3	ㄖㄣˇ		忍	3	5	※
+rèn	ren4	ㄖㄣˋ		刃	14	17	※
+rēng	reng1	ㄖㄥ		扔	1	1	※
+réng	reng2	ㄖㄥˊ		仍	2	4	※
+rěng	reng3	ㄖㄥˇ		扔		1	
+rèng	reng4	ㄖㄥˋ		扔		1	
+rì	ri4	ㄖˋ		日	2	3	※
+róng	rong2	ㄖㄨㄥˊ		容	16	22	※
+rǒng	rong3	ㄖㄨㄥˇ		冗	2	3	※
+ròng	rong4	ㄖㄨㄥˋ		穃			‽
+róu	rou2	ㄖㄡˊ		柔	8	8	※
+rǒu	rou3	ㄖㄡˇ		糅		1	
+ròu	rou4	ㄖㄡˋ		肉	1	1	※
+rú	ru2	ㄖㄨˊ		如	12	23	※
+rǔ	ru3	ㄖㄨˇ		汝	5	5	※
+rù	ru4	ㄖㄨˋ		入	6	11	※
+ruá	rua2	ㄖㄨㄚˊ		挼	1		
+ruán	ruan2	ㄖㄨㄢˊ		堧	1	2	※
+ruǎn	ruan3	ㄖㄨㄢˇ		软	6	6	※
+ruàn	ruan4	ㄖㄨㄢˋ		𨨰			‽
+ruí	rui2	ㄖㄨㄟˊ		蕤	2	2	※
+ruǐ	rui3	ㄖㄨㄟˇ		蕊	3	4	※
+ruì	rui4	ㄖㄨㄟˋ		锐	8	9	※
+rún	run2	ㄖㄨㄣˊ		𥆧	1	1	※
+rǔn	run3	ㄖㄨㄣˇ		𠷀			‽
+rùn	run4	ㄖㄨㄣˋ		润	2	2	※
+ruó	ruo2	ㄖㄨㄛˊ		挼	1		
+ruò	ruo4	ㄖㄨㄛˋ		弱	8	10	※
+sā	sa1	ㄙㄚ		撒	3	3	※
+sǎ	sa3	ㄙㄚˇ		洒	4	4	※
+sà	sa4	ㄙㄚˋ		萨	5	8	※
+sa	sa5	˙ㄙㄚ		挲		1	
+sāi	sai1	ㄙㄞ		腮	7	7	※
+sái	sai2	ㄙㄞˊ		㘔		1	
+sǎi	sai3	ㄙㄞˇ		嗮			‽
+sài	sai4	ㄙㄞˋ		赛	2	3	※
+sān	san1	ㄙㄢ		三	4	6	※
+sǎn	san3	ㄙㄢˇ		伞	4	6	※
+sàn	san4	ㄙㄢˋ		散	1	2	※
+sāng	sang1	ㄙㄤ		桑	2	2	※
+sǎng	sang3	ㄙㄤˇ		嗓	4	4	※
+sàng	sang4	ㄙㄤˋ		丧	1	1	※
+sāo	sao1	ㄙㄠ		搔	6	9	※
+sǎo	sao3	ㄙㄠˇ		嫂	3	2	※
+sào	sao4	ㄙㄠˋ		扫	6	3	※
+sē	se1	ㄙㄜ		閪			‽
+sè	se4	ㄙㄜˋ		涩	8	13	※
+sēi	sei1	ㄙㄟ		塞		1	
+sēn	sen1	ㄙㄣ		森	1	2	※
+sěn	sen3	ㄙㄣˇ		𩕌			‽
+sēng	seng1	ㄙㄥ		僧	2	2	※
+sèng	seng4	ㄙㄥˋ		𡬙			‽
+shā	sha1	ㄕㄚ		杀	14	18	※
+shá	sha2	ㄕㄚˊ		啥	1	1	※
+shǎ	sha3	ㄕㄚˇ		傻	1	1	※
+shà	sha4	ㄕㄚˋ		霎	8	13	※
+sha	sha5	˙ㄕㄚ		挲		1	
+shāi	shai1	ㄕㄞ		筛	2	1	※
+shǎi	shai3	ㄕㄞˇ		色	1	2	※
+shài	shai4	ㄕㄞˋ		晒	1	3	※
+shān	shan1	ㄕㄢ		山	19	25	※
+shán	shan2	ㄕㄢˊ		𧨾			‽
+shǎn	shan3	ㄕㄢˇ		闪	5	4	※
+shàn	shan4	ㄕㄢˋ		善	26	28	※
+shāng	shang1	ㄕㄤ		商	7	9	※
+shǎng	shang3	ㄕㄤˇ		晌	5	3	※
+shàng	shang4	ㄕㄤˋ		尚	3	3	※
+shang	shang5	˙ㄕㄤ		裳	2		
+shāo	shao1	ㄕㄠ		烧	8	14	※
+sháo	shao2	ㄕㄠˊ		勺	7	5	※
+shǎo	shao3	ㄕㄠˇ		少	1	1	※
+shào	shao4	ㄕㄠˋ		绍	11	11	※
+shē	she1	ㄕㄜ		奢	6	4	※
+shé	she2	ㄕㄜˊ		舌	6	8	※
+shě	she3	ㄕㄜˇ		舍	1	2	※
+shè	she4	ㄕㄜˋ		设	13	20	※
+shéi	shei2	ㄕㄟˊ		谁	1	1	※
+shēn	shen1	ㄕㄣ		深	20	22	※
+shén	shen2	ㄕㄣˊ		神	4	3	※
+shěn	shen3	ㄕㄣˇ		审	8	11	※
+shèn	shen4	ㄕㄣˋ		肾	11	9	※
+shēng	sheng1	ㄕㄥ		升	12	11	※
+shéng	sheng2	ㄕㄥˊ		绳	2	2	※
+shěng	sheng3	ㄕㄥˇ		省	2	3	※
+shèng	sheng4	ㄕㄥˋ		圣	7	8	※
+shī	shi1	ㄕ		诗	19	20	※
+shí	shi2	ㄕˊ		十	18	18	※
+shǐ	shi3	ㄕˇ		史	8	10	※
+shì	shi4	ㄕˋ		士	43	48	※
+shi	shi5	˙ㄕ		匙	2	1	※
+shōu	shou1	ㄕㄡ		收	1	1	※
+shóu	shou2	ㄕㄡˊ		熟	1	1	※
+shǒu	shou3	ㄕㄡˇ		手	4	5	※
+shòu	shou4	ㄕㄡˋ		寿	8	9	※
+shū	shu1	ㄕㄨ		书	20	21	※
+shú	shu2	ㄕㄨˊ		赎	6	10	※
+shǔ	shu3	ㄕㄨˇ		暑	10	11	※
+shù	shu4	ㄕㄨˋ		束	18	24	※
+shuā	shua1	ㄕㄨㄚ		刷	2	1	※
+shuǎ	shua3	ㄕㄨㄚˇ		耍	1	1	※
+shuà	shua4	ㄕㄨㄚˋ		刷	1	1	※
+shuāi	shuai1	ㄕㄨㄞ		摔	2	2	※
+shuǎi	shuai3	ㄕㄨㄞˇ		甩	1	1	※
+shuài	shuai4	ㄕㄨㄞˋ		帅	3	3	※
+shuān	shuan1	ㄕㄨㄢ		拴	3	3	※
+shuàn	shuan4	ㄕㄨㄢˋ		涮	2	3	※
+shuāng	shuang1	ㄕㄨㄤ		双	10	9	※
+shuáng	shuang2	ㄕㄨㄤˊ					‽
+shuǎng	shuang3	ㄕㄨㄤˇ		爽	2	2	※
+shuàng	shuang4	ㄕㄨㄤˋ		雙		1	
+shuī	shui1	ㄕㄨㄟ					‽
+shuí	shui2	ㄕㄨㄟˊ		谁	1	1	※
+shuǐ	shui3	ㄕㄨㄟˇ		水	1	1	※
+shuì	shui4	ㄕㄨㄟˋ		税	4	6	※
+shǔn	shun3	ㄕㄨㄣˇ		吮	2	3	※
+shùn	shun4	ㄕㄨㄣˋ		顺	4	7	※
+shuō	shuo1	ㄕㄨㄛ		说	1	1	※
+shuò	shuo4	ㄕㄨㄛˋ		烁	10	19	※
+sī	si1	ㄙ		司	24	20	※
+sǐ	si3	ㄙˇ		死	1	1	※
+sì	si4	ㄙˋ		巳	21	26	※
+sōng	song1	ㄙㄨㄥ		松	8	10	※
+sóng	song2	ㄙㄨㄥˊ		𪨊	1	2	※
+sǒng	song3	ㄙㄨㄥˇ		耸	5	8	※
+sòng	song4	ㄙㄨㄥˋ		讼	6	5	※
+sōu	sou1	ㄙㄡ		搜	10	11	※
+sǒu	sou3	ㄙㄡˇ		叟	5	6	※
+sòu	sou4	ㄙㄡˋ		嗽	2	4	※
+sū	su1	ㄙㄨ		苏	5	7	※
+sú	su2	ㄙㄨˊ		俗	1	1	※
+sǔ	su3	ㄙㄨˇ		𣷶			‽
+sù	su4	ㄙㄨˋ		诉	25	33	※
+suān	suan1	ㄙㄨㄢ		酸	2	3	※
+suǎn	suan3	ㄙㄨㄢˇ		匴		2	
+suàn	suan4	ㄙㄨㄢˋ		蒜	3	3	※
+suī	sui1	ㄙㄨㄟ		虽	6	6	※
+suí	sui2	ㄙㄨㄟˊ		隋	4	5	※
+suǐ	sui3	ㄙㄨㄟˇ		髓	1	2	※
+suì	sui4	ㄙㄨㄟˋ		岁	16	18	※
+sūn	sun1	ㄙㄨㄣ		孙	4	6	※
+sǔn	sun3	ㄙㄨㄣˇ		损	5	4	※
+sùn	sun4	ㄙㄨㄣˋ		噀		5	
+suō	suo1	ㄙㄨㄛ		梭	12	14	※
+suó	suo2	ㄙㄨㄛˊ		索		1	
+suǒ	suo3	ㄙㄨㄛˇ		所	10	7	※
+suò	suo4	ㄙㄨㄛˋ		些		1	
+tā	ta1	ㄊㄚ		他	12	12	※
+tǎ	ta3	ㄊㄚˇ		塔	5	3	※
+tà	ta4	ㄊㄚˋ		蹋	15	25	※
+tāi	tai1	ㄊㄞ		胎	3	3	※
+tái	tai2	ㄊㄞˊ		抬	11	14	※
+tǎi	tai3	ㄊㄞˇ		呔	1		
+tài	tai4	ㄊㄞˋ		太	7	8	※
+tai	tai5	˙ㄊㄞ		呔		1	
+tān	tan1	ㄊㄢ		贪	7	9	※
+tán	tan2	ㄊㄢˊ		坛	20	23	※
+tǎn	tan3	ㄊㄢˇ		坦	7	10	※
+tàn	tan4	ㄊㄢˋ		叹	5	9	※
+tāng	tang1	ㄊㄤ		汤	9	4	※
+táng	tang2	ㄊㄤˊ		唐	17	17	※
+tǎng	tang3	ㄊㄤˇ		淌	8	11	※
+tàng	tang4	ㄊㄤˋ		烫	2	2	※
+tāo	tao1	ㄊㄠ		涛	10	12	※
+táo	tao2	ㄊㄠˊ		逃	16	16	※
+tǎo	tao3	ㄊㄠˇ		讨	2	1	※
+tào	tao4	ㄊㄠˋ		套	1	1	※
+tao	tao5	˙ㄊㄠ		萄		1	
+tè	te4	ㄊㄜˋ		特	7	8	※
+te	te5	˙ㄊㄜ		脦	1		
+tēi	tei1	ㄊㄟ		忒	1		
+tēng	teng1	ㄊㄥ		熥	2		
+téng	teng2	ㄊㄥˊ		疼	8	9	※
+tèng	teng4	ㄊㄥˋ		霯			‽
+tī	ti1	ㄊㄧ	ㄊ丨	梯	8	3	※
+tí	ti2	ㄊㄧˊ	ㄊ丨ˊ	啼	15	19	※
+tǐ	ti3	ㄊㄧˇ	ㄊ丨ˇ	体	1	1	※
+tì	ti4	ㄊㄧˋ	ㄊ丨ˋ	屉	17	21	※
+tiān	tian1	ㄊㄧㄢ	ㄊ丨ㄢ	天	3	3	※
+tián	tian2	ㄊㄧㄢˊ	ㄊ丨ㄢˊ	田	14	12	※
+tiǎn	tian3	ㄊㄧㄢˇ	ㄊ丨ㄢˇ	舔	11	8	※
+tiàn	tian4	ㄊㄧㄢˋ	ㄊ丨ㄢˋ	掭	2	4	※
+tiāo	tiao1	ㄊㄧㄠ	ㄊ丨ㄠ	挑	3	5	※
+tiáo	tiao2	ㄊㄧㄠˊ	ㄊ丨ㄠˊ	条	11	12	※
+tiǎo	tiao3	ㄊㄧㄠˇ	ㄊ丨ㄠˇ	挑	5	6	※
+tiào	tiao4	ㄊㄧㄠˋ	ㄊ丨ㄠˋ	跳	3	5	※
+tiē	tie1	ㄊㄧㄝ	ㄊ丨ㄝ	贴	4	4	※
+tié	tie2	ㄊㄧㄝˊ	ㄊ丨ㄝˊ	䩞			‽
+tiě	tie3	ㄊㄧㄝˇ	ㄊ丨ㄝˇ	铁	2	3	※
+tiè	tie4	ㄊㄧㄝˋ	ㄊ丨ㄝˋ	帖	2	2	※
+tīng	ting1	ㄊㄧㄥ	ㄊ丨ㄥ	听	7	8	※
+tíng	ting2	ㄊㄧㄥˊ	ㄊ丨ㄥˊ	廷	11	12	※
+tǐng	ting3	ㄊㄧㄥˇ	ㄊ丨ㄥˇ	挺	11	10	※
+tìng	ting4	ㄊㄧㄥˋ	ㄊ丨ㄥˋ	梃	1	1	※
+tōng	tong1	ㄊㄨㄥ		通	3	3	※
+tóng	tong2	ㄊㄨㄥˊ		彤	27	25	※
+tǒng	tong3	ㄊㄨㄥˇ		统	6	4	※
+tòng	tong4	ㄊㄨㄥˋ		痛	4	4	※
+tōu	tou1	ㄊㄡ		偷	1	3	※
+tóu	tou2	ㄊㄡˊ		头	3	5	※
+tǒu	tou3	ㄊㄡˇ		黈	2	1	※
+tòu	tou4	ㄊㄡˋ		透	1	1	※
+tou	tou5	˙ㄊㄡ		頭		1	
+tū	tu1	ㄊㄨ		突	5	5	※
+tú	tu2	ㄊㄨˊ		图	13	22	※
+tǔ	tu3	ㄊㄨˇ		土	3	4	※
+tù	tu4	ㄊㄨˋ		兔	4	4	※
+tuān	tuan1	ㄊㄨㄢ		湍	3	2	※
+tuán	tuan2	ㄊㄨㄢˊ		团	3	7	※
+tuǎn	tuan3	ㄊㄨㄢˇ		疃	1	2	※
+tuàn	tuan4	ㄊㄨㄢˋ		彖	1	2	※
+tuī	tui1	ㄊㄨㄟ		推	3	2	※
+tuí	tui2	ㄊㄨㄟˊ		颓	4	4	※
+tuǐ	tui3	ㄊㄨㄟˇ		腿	1	2	※
+tuì	tui4	ㄊㄨㄟˋ		退	5	6	※
+tūn	tun1	ㄊㄨㄣ		吞	3	5	※
+tún	tun2	ㄊㄨㄣˊ		豚	8	10	※
+tǔn	tun3	ㄊㄨㄣˇ		氽	1	1	※
+tùn	tun4	ㄊㄨㄣˋ		褪	1	1	※
+tuō	tuo1	ㄊㄨㄛ		拖	9	13	※
+tuó	tuo2	ㄊㄨㄛˊ		驼	18	19	※
+tuǒ	tuo3	ㄊㄨㄛˇ		妥	4	4	※
+tuò	tuo4	ㄊㄨㄛˋ		唾	6	7	※
+wā	wa1	ㄨㄚ		挖	11	11	※
+wá	wa2	ㄨㄚˊ		娃	1	2	※
+wǎ	wa3	ㄨㄚˇ		瓦	2	2	※
+wà	wa4	ㄨㄚˋ		袜	3	7	※
+wa	wa5	˙ㄨㄚ		哇	1	1	※
+wāi	wai1	ㄨㄞ		歪	3	1	※
+wǎi	wai3	ㄨㄞˇ		崴	2	1	※
+wài	wai4	ㄨㄞˋ		外	1	1	※
+wān	wan1	ㄨㄢ		弯	8	7	※
+wán	wan2	ㄨㄢˊ		丸	10	11	※
+wǎn	wan3	ㄨㄢˇ		宛	14	22	※
+wàn	wan4	ㄨㄢˋ		腕	6	10	※
+wāng	wang1	ㄨㄤ		汪	3	3	※
+wáng	wang2	ㄨㄤˊ		亡	2	3	※
+wǎng	wang3	ㄨㄤˇ		网	8	10	※
+wàng	wang4	ㄨㄤˋ		妄	5	6	※
+wēi	wei1	ㄨㄟ		危	16	16	※
+wéi	wei2	ㄨㄟˊ		违	22	22	※
+wěi	wei3	ㄨㄟˇ		伟	28	27	※
+wèi	wei4	ㄨㄟˋ		卫	25	26	※
+wēn	wen1	ㄨㄣ		温	6	5	※
+wén	wen2	ㄨㄣˊ		文	10	7	※
+wěn	wen3	ㄨㄣˇ		吻	5	3	※
+wèn	wen4	ㄨㄣˋ		问	5	10	※
+wēng	weng1	ㄨㄥ		翁	7	2	※
+wěng	weng3	ㄨㄥˇ		蓊	3	4	※
+wèng	weng4	ㄨㄥˋ		瓮	3	4	※
+wō	wo1	ㄨㄛ		窝	8	6	※
+wǒ	wo3	ㄨㄛˇ		我	2	4	※
+wò	wo4	ㄨㄛˋ		沃	11	14	※
+wū	wu1	ㄨ		污	13	16	※
+wú	wu2	ㄨˊ		芜	16	18	※
+wǔ	wu3	ㄨˇ		五	20	22	※
+wù	wu4	ㄨˋ		勿	26	31	※
+xī	xi1	ㄒㄧ	ㄒ丨	西	82	71	※
+xí	xi2	ㄒㄧˊ	ㄒ丨ˊ	习	13	22	※
+xǐ	xi3	ㄒㄧˇ	ㄒ丨ˇ	徙	16	16	※
+xì	xi4	ㄒㄧˋ	ㄒ丨ˋ	细	19	40	※
+xiā	xia1	ㄒㄧㄚ	ㄒ丨ㄚ	瞎	4	4	※
+xiá	xia2	ㄒㄧㄚˊ	ㄒ丨ㄚˊ	匣	16	25	※
+xiǎ	xia3	ㄒㄧㄚˇ	ㄒ丨ㄚˇ	閕			‽
+xià	xia4	ㄒㄧㄚˋ	ㄒ丨ㄚˋ	下	6	9	※
+xiān	xian1	ㄒㄧㄢ	ㄒ丨ㄢ	先	18	24	※
+xián	xian2	ㄒㄧㄢˊ	ㄒ丨ㄢˊ	闲	17	20	※
+xiǎn	xian3	ㄒㄧㄢˇ	ㄒ丨ㄢˇ	显	21	24	※
+xiàn	xian4	ㄒㄧㄢˋ	ㄒ丨ㄢˋ	县	19	21	※
+xiāng	xiang1	ㄒㄧㄤ	ㄒ丨ㄤ	香	14	17	※
+xiáng	xiang2	ㄒㄧㄤˊ	ㄒ丨ㄤˊ	详	5	7	※
+xiǎng	xiang3	ㄒㄧㄤˇ	ㄒ丨ㄤˇ	享	7	7	※
+xiàng	xiang4	ㄒㄧㄤˋ	ㄒ丨ㄤˋ	向	10	14	※
+xiāo	xiao1	ㄒㄧㄠ	ㄒ丨ㄠ	消	25	32	※
+xiáo	xiao2	ㄒㄧㄠˊ	ㄒ丨ㄠˊ	淆	4	5	※
+xiǎo	xiao3	ㄒㄧㄠˇ	ㄒ丨ㄠˇ	小	5	5	※
+xiào	xiao4	ㄒㄧㄠˋ	ㄒ丨ㄠˋ	孝	11	11	※
+xiē	xie1	ㄒㄧㄝ	ㄒ丨ㄝ	些	6	6	※
+xié	xie2	ㄒㄧㄝˊ	ㄒ丨ㄝˊ	协	18	20	※
+xiě	xie3	ㄒㄧㄝˇ	ㄒ丨ㄝˇ	写	2	3	※
+xiè	xie4	ㄒㄧㄝˋ	ㄒ丨ㄝˋ	泄	34	36	※
+xīn	xin1	ㄒㄧㄣ	ㄒ丨ㄣ	心	16	15	※
+xín	xin2	ㄒㄧㄣˊ	ㄒ丨ㄣˊ	镡	1	3	※
+xǐn	xin3	ㄒㄧㄣˇ	ㄒ丨ㄣˇ	伈	1	1	※
+xìn	xin4	ㄒㄧㄣˋ	ㄒ丨ㄣˋ	信	6	7	※
+xīng	xing1	ㄒㄧㄥ	ㄒ丨ㄥ	星	9	9	※
+xíng	xing2	ㄒㄧㄥˊ	ㄒ丨ㄥˊ	刑	12	12	※
+xǐng	xing3	ㄒㄧㄥˇ	ㄒ丨ㄥˇ	醒	4	4	※
+xìng	xing4	ㄒㄧㄥˋ	ㄒ丨ㄥˋ	杏	9	11	※
+xiōng	xiong1	ㄒㄩㄥ		兄	8	10	※
+xióng	xiong2	ㄒㄩㄥˊ		雄	2	2	※
+xiǒng	xiong3	ㄒㄩㄥˇ					‽
+xiòng	xiong4	ㄒㄩㄥˋ		诇	2	2	※
+xiū	xiu1	ㄒㄧㄡ	ㄒ丨ㄡ	休	11	10	※
+xiú	xiu2	ㄒㄧㄡˊ	ㄒ丨ㄡˊ	苬			‽
+xiǔ	xiu3	ㄒㄧㄡˇ	ㄒ丨ㄡˇ	朽	3	4	※
+xiù	xiu4	ㄒㄧㄡˋ	ㄒ丨ㄡˋ	秀	12	12	※
+xū	xu1	ㄒㄩ		需	20	23	※
+xú	xu2	ㄒㄩˊ		徐	1	3	※
+xǔ	xu3	ㄒㄩˇ		许	12	16	※
+xù	xu4	ㄒㄩˋ		旭	23	29	※
+xu	xu5	˙ㄒㄩ		蓿	1		
+xuān	xuan1	ㄒㄩㄢ		宣	18	20	※
+xuán	xuan2	ㄒㄩㄢˊ		玄	10	8	※
+xuǎn	xuan3	ㄒㄩㄢˇ		选	5	4	※
+xuàn	xuan4	ㄒㄩㄢˋ		炫	13	16	※
+xuē	xue1	ㄒㄩㄝ		靴	3	3	※
+xué	xue2	ㄒㄩㄝˊ		穴	7	7	※
+xuě	xue3	ㄒㄩㄝˇ		雪	2	2	※
+xuè	xue4	ㄒㄩㄝˋ		血	2	8	※
+xūn	xun1	ㄒㄩㄣ		勋	10	13	※
+xún	xun2	ㄒㄩㄣˊ		旬	20	22	※
+xùn	xun4	ㄒㄩㄣˋ		训	13	17	※
+yā	ya1	ㄧㄚ	丨ㄚ	丫	10	10	※
+yá	ya2	ㄧㄚˊ	丨ㄚˊ	牙	12	10	※
+yǎ	ya3	ㄧㄚˇ	丨ㄚˇ	哑	4	7	※
+yà	ya4	ㄧㄚˋ	丨ㄚˋ	亚	11	16	※
+ya	ya5	˙ㄧㄚ	˙丨ㄚ	呀	1		
+yái	yai2	ㄧㄞˊ	丨ㄞˊ	厓		4	
+yān	yan1	ㄧㄢ	丨ㄢ	焉	17	20	※
+yán	yan2	ㄧㄢˊ	丨ㄢˊ	延	21	30	※
+yǎn	yan3	ㄧㄢˇ	丨ㄢˇ	衍	29	35	※
+yàn	yan4	ㄧㄢˋ	丨ㄢˋ	厌	28	38	※
+yāng	yang1	ㄧㄤ	丨ㄤ	央	7	8	※
+yáng	yang2	ㄧㄤˊ	丨ㄤˊ	扬	16	17	※
+yǎng	yang3	ㄧㄤˇ	丨ㄤˇ	仰	5	8	※
+yàng	yang4	ㄧㄤˋ	丨ㄤˋ	样	7	8	※
+yāo	yao1	ㄧㄠ	丨ㄠ	腰	12	15	※
+yáo	yao2	ㄧㄠˊ	丨ㄠˊ	尧	22	32	※
+yǎo	yao3	ㄧㄠˇ	丨ㄠˇ	咬	5	15	※
+yào	yao4	ㄧㄠˋ	丨ㄠˋ	药	10	13	※
+yē	ye1	ㄧㄝ	丨ㄝ	椰	6	3	※
+yé	ye2	ㄧㄝˊ	丨ㄝˊ	爷	5	10	※
+yě	ye3	ㄧㄝˇ	丨ㄝˇ	也	3	4	※
+yè	ye4	ㄧㄝˋ	丨ㄝˋ	业	16	27	※
+ye	ye5	˙ㄧㄝ	˙丨ㄝ	吔		1	
+yī	yi1	ㄧ	丨	一	22	27	※
+yí	yi2	ㄧˊ	丨ˊ	仪	33	46	※
+yǐ	yi3	ㄧˇ	丨ˇ	乙	21	26	※
+yì	yi4	ㄧˋ	丨ˋ	亿	93	116	※
+yīn	yin1	ㄧㄣ	丨ㄣ	音	22	21	※
+yín	yin2	ㄧㄣˊ	丨ㄣˊ	吟	18	22	※
+yǐn	yin3	ㄧㄣˇ	丨ㄣˇ	引	13	15	※
+yìn	yin4	ㄧㄣˋ	丨ㄣˋ	印	9	12	※
+yīng	ying1	ㄧㄥ	丨ㄥ	英	20	20	※
+yíng	ying2	ㄧㄥˊ	丨ㄥˊ	迎	20	19	※
+yǐng	ying3	ㄧㄥˇ	丨ㄥˇ	颖	5	6	※
+yìng	ying4	ㄧㄥˋ	丨ㄥˋ	映	5	5	※
+yō	yo1	ㄧㄛ	丨ㄛ	唷	3	1	※
+yo	yo5	˙ㄧㄛ	˙丨ㄛ	哟	1		
+yōng	yong1	ㄩㄥ		拥	17	20	※
+yóng	yong2	ㄩㄥˊ		喁	2	2	※
+yǒng	yong3	ㄩㄥˇ		永	14	16	※
+yòng	yong4	ㄩㄥˋ		用	3	4	※
+yōu	you1	ㄧㄡ	丨ㄡ	优	9	15	※
+yóu	you2	ㄧㄡˊ	丨ㄡˊ	尤	24	26	※
+yǒu	you3	ㄧㄡˇ	丨ㄡˇ	友	10	13	※
+yòu	you4	ㄧㄡˋ	丨ㄡˋ	又	15	17	※
+yū	yu1	ㄩ		迂	6	5	※
+yú	yu2	ㄩˊ		于	48	64	※
+yǔ	yu3	ㄩˇ		屿	22	23	※
+yù	yu4	ㄩˋ		玉	59	81	※
+yuān	yuan1	ㄩㄢ		渊	11	11	※
+yuán	yuan2	ㄩㄢˊ		元	26	31	※
+yuǎn	yuan3	ㄩㄢˇ		远	1	1	※
+yuàn	yuan4	ㄩㄢˋ		苑	9	12	※
+yuē	yue1	ㄩㄝ		曰	4	3	※
+yuě	yue3	ㄩㄝˇ		哕	1		
+yuè	yue4	ㄩㄝˋ		月	26	30	※
+yūn	yun1	ㄩㄣ		晕	7	8	※
+yún	yun2	ㄩㄣˊ		云	15	16	※
+yǔn	yun3	ㄩㄣˇ		允	4	5	※
+yùn	yun4	ㄩㄣˋ		孕	14	19	※
+zā	za1	ㄗㄚ		匝	5	5	※
+zá	za2	ㄗㄚˊ		杂	3	9	※
+zǎ	za3	ㄗㄚˇ		咋	1		
+zāi	zai1	ㄗㄞ		栽	4	5	※
+zǎi	zai3	ㄗㄞˇ		宰	4	4	※
+zài	zai4	ㄗㄞˋ		再	4	4	※
+zān	zan1	ㄗㄢ		糌	3	4	※
+zán	zan2	ㄗㄢˊ		咱	1	4	※
+zǎn	zan3	ㄗㄢˇ		昝	6	8	※
+zàn	zan4	ㄗㄢˋ		赞	6	9	※
+zan	zan5	˙ㄗㄢ		咱	1		
+zāng	zang1	ㄗㄤ		赃	4	5	※
+zǎng	zang3	ㄗㄤˇ		驵	1	2	※
+zàng	zang4	ㄗㄤˋ		葬	4	5	※
+zāo	zao1	ㄗㄠ		遭	2	3	※
+záo	zao2	ㄗㄠˊ		凿	1	1	※
+zǎo	zao3	ㄗㄠˇ		早	6	7	※
+zào	zao4	ㄗㄠˋ		皂	11	14	※
+zé	ze2	ㄗㄜˊ		则	14	20	※
+zě	ze3	ㄗㄜˇ		怎		1	
+zè	ze4	ㄗㄜˋ		仄	3	7	※
+zéi	zei2	ㄗㄟˊ		贼	2	1	※
+zēn	zen1	ㄗㄣ		簪		1	
+zěn	zen3	ㄗㄣˇ		怎	1	1	※
+zèn	zen4	ㄗㄣˋ		谮	1	1	※
+zēng	zeng1	ㄗㄥ		增	8	7	※
+zěng	zeng3	ㄗㄥˇ		㽪			‽
+zèng	zeng4	ㄗㄥˋ		赠	5	4	※
+zhā	zha1	ㄓㄚ		渣	13	13	※
+zhá	zha2	ㄓㄚˊ		闸	8	12	※
+zhǎ	zha3	ㄓㄚˇ		眨	7	9	※
+zhà	zha4	ㄓㄚˋ		乍	16	16	※
+zha	zha5	˙ㄓㄚ		馇	1		
+zhāi	zhai1	ㄓㄞ		摘	3	3	※
+zhái	zhai2	ㄓㄞˊ		宅	3	3	※
+zhǎi	zhai3	ㄓㄞˇ		窄	2	1	※
+zhài	zhai4	ㄓㄞˋ		债	7	7	※
+zhān	zhan1	ㄓㄢ		沾	13	18	※
+zhǎn	zhan3	ㄓㄢˇ		斩	9	12	※
+zhàn	zhan4	ㄓㄢˋ		栈	10	15	※
+zhāng	zhang1	ㄓㄤ		章	12	14	※
+zhǎng	zhang3	ㄓㄤˇ		掌	5	4	※
+zhàng	zhang4	ㄓㄤˋ		丈	11	13	※
+zhāo	zhao1	ㄓㄠ		招	8	7	※
+zháo	zhao2	ㄓㄠˊ		着	1	1	※
+zhǎo	zhao3	ㄓㄠˇ		找	3	3	※
+zhào	zhao4	ㄓㄠˋ		兆	12	16	※
+zhē	zhe1	ㄓㄜ		遮	4	5	※
+zhé	zhe2	ㄓㄜˊ		哲	13	19	※
+zhě	zhe3	ㄓㄜˇ		者	5	5	※
+zhè	zhe4	ㄓㄜˋ		浙	7	9	※
+zhe	zhe5	˙ㄓㄜ		着	2	1	※
+zhèi	zhei4	ㄓㄟˋ		这	1	1	※
+zhēn	zhen1	ㄓㄣ		针	24	27	※
+zhén	zhen2	ㄓㄣˊ		𠵧			‽
+zhěn	zhen3	ㄓㄣˇ		诊	11	16	※
+zhèn	zhen4	ㄓㄣˋ		阵	11	19	※
+zhēng	zheng1	ㄓㄥ		征	17	20	※
+zhěng	zheng3	ㄓㄥˇ		拯	2	3	※
+zhèng	zheng4	ㄓㄥˋ		证	10	8	※
+zhī	zhi1	ㄓ		之	24	26	※
+zhí	zhi2	ㄓˊ		执	14	27	※
+zhǐ	zhi3	ㄓˇ		止	18	24	※
+zhì	zhi4	ㄓˋ		至	54	61	※
+zhōng	zhong1	ㄓㄨㄥ		忠	11	14	※
+zhǒng	zhong3	ㄓㄨㄥˇ		肿	5	6	※
+zhòng	zhong4	ㄓㄨㄥˋ		仲	8	6	※
+zhōu	zhou1	ㄓㄡ		州	16	16	※
+zhóu	zhou2	ㄓㄡˊ		轴	3	3	※
+zhǒu	zhou3	ㄓㄡˇ		肘	2	2	※
+zhòu	zhou4	ㄓㄡˋ		咒	19	17	※
+zhū	zhu1	ㄓㄨ		朱	15	19	※
+zhú	zhu2	ㄓㄨˊ		竹	9	16	※
+zhǔ	zhu3	ㄓㄨˇ		主	11	13	※
+zhù	zhu4	ㄓㄨˋ		助	22	33	※
+zhuā	zhua1	ㄓㄨㄚ		抓	4	4	※
+zhuǎ	zhua3	ㄓㄨㄚˇ		爪	1	1	※
+zhuāi	zhuai1	ㄓㄨㄞ		拽	1	1	※
+zhuǎi	zhuai3	ㄓㄨㄞˇ		转	2	1	※
+zhuài	zhuai4	ㄓㄨㄞˋ		拽	1	1	※
+zhuān	zhuan1	ㄓㄨㄢ		专	4	9	※
+zhuǎn	zhuan3	ㄓㄨㄢˇ		转	1	3	※
+zhuàn	zhuan4	ㄓㄨㄢˋ		撰	10	11	※
+zhuāng	zhuang1	ㄓㄨㄤ		庄	4	4	※
+zhuǎng	zhuang3	ㄓㄨㄤˇ		奘	1	1	※
+zhuàng	zhuang4	ㄓㄨㄤˋ		壮	6	7	※
+zhuī	zhui1	ㄓㄨㄟ		追	5	6	※
+zhuǐ	zhui3	ㄓㄨㄟˇ					‽
+zhuì	zhui4	ㄓㄨㄟˋ		坠	8	8	※
+zhūn	zhun1	ㄓㄨㄣ		谆	6	6	※
+zhǔn	zhun3	ㄓㄨㄣˇ		准	3	5	※
+zhùn	zhun4	ㄓㄨㄣˋ		訰		1	
+zhuō	zhuo1	ㄓㄨㄛ		捉	8	5	※
+zhuó	zhuo2	ㄓㄨㄛˊ		灼	23	39	※
+zhuò	zhuo4	ㄓㄨㄛˋ		𤓦			‽
+zī	zi1	ㄗ		资	29	34	※
+zí	zi2	ㄗˊ		𩬳			‽
+zǐ	zi3	ㄗˇ		子	15	15	※
+zì	zi4	ㄗˋ		自	9	12	※
+zi	zi5	˙ㄗ		子		1	
+zōng	zong1	ㄗㄨㄥ		宗	10	14	※
+zǒng	zong3	ㄗㄨㄥˇ		总	3	5	※
+zòng	zong4	ㄗㄨㄥˋ		纵	4	5	※
+zōu	zou1	ㄗㄡ		邹	7	15	※
+zǒu	zou3	ㄗㄡˇ		走	1	1	※
+zòu	zou4	ㄗㄡˋ		奏	2	3	※
+zū	zu1	ㄗㄨ		租	2	2	※
+zú	zu2	ㄗㄨˊ		足	5	9	※
+zǔ	zu3	ㄗㄨˇ		阻	6	5	※
+zù	zu4	ㄗㄨˋ		駔		1	
+zuān	zuan1	ㄗㄨㄢ		钻	2	2	※
+zuǎn	zuan3	ㄗㄨㄢˇ		缵	2	5	※
+zuàn	zuan4	ㄗㄨㄢˋ		钻	3	3	※
+zuī	zui1	ㄗㄨㄟ		朘	1	2	※
+zuǐ	zui3	ㄗㄨㄟˇ		嘴	3	3	※
+zuì	zui4	ㄗㄨㄟˋ		最	6	9	※
+zūn	zun1	ㄗㄨㄣ		尊	6	6	※
+zǔn	zun3	ㄗㄨㄣˇ		撙	3	4	※
+zùn	zun4	ㄗㄨㄣˋ		捘	1	3	※
+zuō	zuo1	ㄗㄨㄛ		作	2	2	※
+zuó	zuo2	ㄗㄨㄛˊ		昨	4	5	※
+zuǒ	zuo3	ㄗㄨㄛˇ		左	3	3	※
+zuò	zuo4	ㄗㄨㄛˋ		坐	12	14	※
+zuo	zuo5	˙ㄗㄨㄛ					‽
