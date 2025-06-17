@@ -14,4 +14,6 @@ TeX 文件修改自 [stone-zeng/latex-showcase](https://github.com/stone-zeng/la
 
 ## 汉语音节
 
-统计常见的规范汉语音节（包括声调标注），参见 [data](./data)。
+统计常见的规范汉语音节（包括声调标注，但不包括儿化音），参见 [data](./data)。汇总：
+- [汉语音节统计汇总](./data/汉语音节统计汇总.txt)
+- [汉语音节统计汇总-无声调](./data/汉语音节统计汇总-无声调.txt)
