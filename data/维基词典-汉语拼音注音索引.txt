@@ -2,7 +2,7 @@
 # https://zh.wiktionary.org/wiki/Appendix:汉语拼音索引
 # https://zh.wiktionary.org/wiki/Appendix:注音索引
 # 共416个拼音音节，436个注音音节（部分缺少对应拼音）
-# 
+#
 # 拼音	注音
 
 a	ㄚ

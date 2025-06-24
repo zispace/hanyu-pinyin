@@ -1,6 +1,6 @@
 # 汉典-字典拼音索引和对照
 # 合计共422个音节（两表共有406个）
-# 
+#
 # 字典拼音索引 https://www.zdic.net/zd/py/
 # 汉语拼音与其他拼音系统对照表 https://www.zdic.net/ts/fulu/2019/05/18.html
 #
