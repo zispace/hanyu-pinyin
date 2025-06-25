@@ -1,435 +1,439 @@
 # 现代汉语音节汇总（无声调）
 # 共有428个音节。
 #
-# 说明：汇总自“汉语音节统计汇总”，其中标记☆为399个基础音节。
+# 说明：汇总自“汉语音节统计汇总”，例字等参考其中说明，标记☆为399个基础音节（仅供参考）。
+# 声母、韵母以《现代汉语拼音方案》为准，声母21个（并外加一个“零声母”）、韵母35个（并外加儿化音er和ê）。
+# 对iu、ui、un缩写（前有声母）使用原形iou、uei、uen。
+# 对i、u、ü行的也使用原形。
+# 对特殊音节hm、hng、m、n、ng以及q、yai、yo不标注声母、韵母。
 #
-# 拼音	注音	例字	字数1	字数2	状态	标记
+# 拼音	注音	例字	声母	韵母	字数1	字数2	状态	标记
 
-a	ㄚ	啊	7	5	※	☆
-ai	ㄞ	哀	29	36	※	☆
-an	ㄢ	安	28	31	※	☆
-ang	ㄤ	肮	5	6	※	☆
-ao	ㄠ	熬	36	34	※	☆
-ba	ㄅㄚ	八	39	35	※	☆
-bai	ㄅㄞ	白	17	15	※	☆
-ban	ㄅㄢ	班	30	28	※	☆
-bang	ㄅㄤ	帮	22	19	※	☆
-bao	ㄅㄠ	包	31	37	※	☆
-bei	ㄅㄟ	杯	37	53	※	☆
-ben	ㄅㄣ	奔	13	9	※	☆
-beng	ㄅㄥ	崩	16	15	※	☆
-bi	ㄅㄧ	逼	88	105	※	☆
-bian	ㄅㄧㄢ	边	35	37	※	☆
-biang	ㄅㄧㄤ	𰻝			‽	
-biao	ㄅㄧㄠ	标	27	30	※	☆
-bie	ㄅㄧㄝ	别	6	11	※	☆
-bin	ㄅㄧㄣ	宾	17	21	※	☆
-bing	ㄅㄧㄥ	兵	18	26	※	☆
-bo	ㄅㄛ	玻	57	87	※	☆
-bu	ㄅㄨ	不	28	22	※	☆
-ca	ㄘㄚ	擦	4	4	※	☆
-cai	ㄘㄞ	猜	14	18	※	☆
-can	ㄘㄢ	餐	17	15	※	☆
-cang	ㄘㄤ	仓	7	8	※	☆
-cao	ㄘㄠ	操	12	15	※	☆
-ce	ㄘㄜ	策	7	9	※	☆
-cei	ㄘㄟ	𤭢	1			
-cen	ㄘㄣ	岑	3	5	※	☆
-ceng	ㄘㄥ	层	5	6	※	☆
-cha	ㄔㄚ	插	34	28	※	☆
-chai	ㄔㄞ	拆	10	13	※	☆
-chan	ㄔㄢ	搀	43	55	※	☆
-chang	ㄔㄤ	昌	32	35	※	☆
-chao	ㄔㄠ	超	17	22	※	☆
-che	ㄔㄜ	车	12	17	※	☆
-chen	ㄔㄣ	尘	35	36	※	☆
-cheng	ㄔㄥ	称	42	47	※	☆
-chi	ㄔ	吃	54	67	※	☆
-chong	ㄔㄨㄥ	充	22	19	※	☆
-chou	ㄔㄡ	抽	26	35	※	☆
-chu	ㄔㄨ	初	43	48	※	☆
-chua	ㄔㄨㄚ	欻	1	3	※	
-chuai	ㄔㄨㄞ	揣	8	6	※	☆
-chuan	ㄔㄨㄢ	川	16	17	※	☆
-chuang	ㄔㄨㄤ	窗	10	16	※	☆
-chui	ㄔㄨㄟ	吹	11	16	※	☆
-chun	ㄔㄨㄣ	春	16	16	※	☆
-chuo	ㄔㄨㄛ	戳	13	13	※	☆
-ci	ㄘ	词	29	32	※	☆
-cong	ㄘㄨㄥ	聪	18	19	※	☆
-cou	ㄘㄡ	凑	3	4	※	☆
-cu	ㄘㄨ	粗	16	25	※	☆
-cuan	ㄘㄨㄢ	撺	9	10	※	☆
-cui	ㄘㄨㄟ	崔	22	30	※	☆
-cun	ㄘㄨㄣ	村	10	9	※	☆
-cuo	ㄘㄨㄛ	搓	20	26	※	☆
-da	ㄉㄚ	搭	29	18	※	☆
-dai	ㄉㄞ	呆	28	28	※	☆
-dan	ㄉㄢ	丹	41	48	※	☆
-dang	ㄉㄤ	当	20	19	※	☆
-dao	ㄉㄠ	刀	22	23	※	☆
-de	ㄉㄜ	德	8	6	※	☆
-dei	ㄉㄟ	得	2	1	※	
-den	ㄉㄣ	扽	1	1	※	
-deng	ㄉㄥ	登	15	18	※	☆
-di	ㄉㄧ	低	57	63	※	☆
-dia	ㄉㄧㄚ	嗲	1			
-dian	ㄉㄧㄢ	颠	30	35	※	☆
-diao	ㄉㄧㄠ	刁	19	24	※	☆
-die	ㄉㄧㄝ	爹	24	34	※	☆
-ding	ㄉㄧㄥ	丁	22	19	※	☆
-diu	ㄉㄧㄡ	丢	2	4	※	☆
-dong	ㄉㄨㄥ	东	20	19	※	☆
-dou	ㄉㄡ	兜	21	17	※	☆
-du	ㄉㄨ	都	31	35	※	☆
-duan	ㄉㄨㄢ	端	13	11	※	☆
-dui	ㄉㄨㄟ	堆	12	11	※	☆
-dun	ㄉㄨㄣ	吨	22	17	※	☆
-duo	ㄉㄨㄛ	多	32	37	※	☆
-e	ㄜ	鹅	46	68	※	☆
-ê	ㄝ	欸	1	1	※	
-ei	ㄟ	㗒/欸		1		
-en	ㄣ	恩	4	3	※	☆
-eng	ㄥ	鞥	1	1	※	☆
-er	ㄦ	儿	25	25	※	☆
-fa	ㄈㄚ	发	12	14	※	☆
-fan	ㄈㄢ	帆	32	44	※	☆
-fang	ㄈㄤ	方	20	22	※	☆
-fei	ㄈㄟ	非	34	43	※	☆
-fen	ㄈㄣ	分	28	40	※	☆
-feng	ㄈㄥ	风	26	27	※	☆
-fiao	ㄈㄧㄠ	覅			‽	
-fo	ㄈㄛ	佛	1	1	※	☆
-fou	ㄈㄡ	否	2	11	※	☆
-fu	ㄈㄨ	夫	115	134	※	☆
-ga	ㄍㄚ	嘎	15	8	※	☆
-gai	ㄍㄞ	该	16	12	※	☆
-gan	ㄍㄢ	干	33	36	※	☆
-gang	ㄍㄤ	钢	22	20	※	☆
-gao	ㄍㄠ	高	22	25	※	☆
-ge	ㄍㄜ	哥	43	47	※	☆
-gei	ㄍㄟ	给	1	1	※	☆
-gen	ㄍㄣ	根	6	6	※	☆
-geng	ㄍㄥ	耕	19	20	※	☆
-gong	ㄍㄨㄥ	工	26	27	※	☆
-gou	ㄍㄡ	沟	27	31	※	☆
-gu	ㄍㄨ	姑	58	59	※	☆
-gua	ㄍㄨㄚ	瓜	18	25	※	☆
-guai	ㄍㄨㄞ	乖	5	9	※	☆
-guan	ㄍㄨㄢ	关	32	35	※	☆
-guang	ㄍㄨㄤ	光	11	12	※	☆
-gue	ㄍㄨㄜ				‽	
-gui	ㄍㄨㄟ	归	40	51	※	☆
-gun	ㄍㄨㄣ	棍	7	10	※	☆
-guo	ㄍㄨㄛ	锅	24	23	※	☆
-ha	ㄏㄚ	哈	5	5	※	☆
-hai	ㄏㄞ	孩	16	14	※	☆
-han	ㄏㄢ	含	45	53	※	☆
-hang	ㄏㄤ	杭	12	11	※	☆
-hao	ㄏㄠ	蒿	26	31	※	☆
-he	ㄏㄜ	喝	46	49	※	☆
-hei	ㄏㄟ	黑	4	2	※	☆
-hen	ㄏㄣ	痕	5	7	※	☆
-heng	ㄏㄥ	恒	14	12	※	☆
-hm	ㄏㄇ	噷	1			
-hng	ㄏㄫ	哼	1			
-hong	ㄏㄨㄥ	烘	30	36	※	☆
-hou	ㄏㄡ	喉	21	21	※	☆
-hu	ㄏㄨ	呼	62	70	※	☆
-hua	ㄏㄨㄚ	花	19	23	※	☆
-huai	ㄏㄨㄞ	怀	7	13	※	☆
-huan	ㄏㄨㄢ	欢	44	47	※	☆
-huang	ㄏㄨㄤ	荒	37	34	※	☆
-hui	ㄏㄨㄟ	灰	63	63	※	☆
-hun	ㄏㄨㄣ	昏	16	17	※	☆
-huo	ㄏㄨㄛ	活	32	37	※	☆
-ji	ㄐㄧ	机	142	175	※	☆
-jia	ㄐㄧㄚ	加	47	54	※	☆
-jian	ㄐㄧㄢ	尖	84	97	※	☆
-jiang	ㄐㄧㄤ	江	28	28	※	☆
-jiao	ㄐㄧㄠ	交	64	66	※	☆
-jie	ㄐㄧㄝ	阶	67	82	※	☆
-jin	ㄐㄧㄣ	今	46	46	※	☆
-jing	ㄐㄧㄥ	京	51	50	※	☆
-jiong	ㄐㄩㄥ	迥	12	14	※	☆
-jiu	ㄐㄧㄡ	究	31	33	※	☆
-ju	ㄐㄩ	居	81	97	※	☆
-juan	ㄐㄩㄢ	捐	21	24	※	☆
-jue	ㄐㄩㄝ	决	42	56	※	☆
-jun	ㄐㄩㄣ	军	28	33	※	☆
-ka	ㄎㄚ	咖	8	9	※	☆
-kai	ㄎㄞ	开	17	17	※	☆
-kan	ㄎㄢ	刊	22	23	※	☆
-kang	ㄎㄤ	康	14	15	※	☆
-kao	ㄎㄠ	考	12	12	※	☆
-ke	ㄎㄜ	科	43	45	※	☆
-kei	ㄎㄟ	剋	1			
-ken	ㄎㄣ	肯	7	7	※	☆
-keng	ㄎㄥ	坑	4	10	※	☆
-kong	ㄎㄨㄥ	空	11	10	※	☆
-kou	ㄎㄡ	抠	11	13	※	☆
-ku	ㄎㄨ	枯	15	13	※	☆
-kua	ㄎㄨㄚ	夸	7	9	※	☆
-kuai	ㄎㄨㄞ	快	14	20	※	☆
-kuan	ㄎㄨㄢ	宽	4	6	※	☆
-kuang	ㄎㄨㄤ	筐	23	20	※	☆
-kui	ㄎㄨㄟ	亏	36	38	※	☆
-kun	ㄎㄨㄣ	昆	17	22	※	☆
-kuo	ㄎㄨㄛ	阔	10	9	※	☆
-la	ㄌㄚ	拉	22	13	※	☆
-lai	ㄌㄞ	来	16	22	※	☆
-lan	ㄌㄢ	兰	26	30	※	☆
-lang	ㄌㄤ	狼	26	22	※	☆
-lao	ㄌㄠ	捞	27	26	※	☆
-le	ㄌㄜ	勒	13	12	※	☆
-lei	ㄌㄟ	类	31	32	※	☆
-leng	ㄌㄥ	冷	10	8	※	☆
-li	ㄌㄧ	里	100	110	※	☆
-lia	ㄌㄧㄚ	俩	1	1	※	
-lian	ㄌㄧㄢ	连	32	37	※	☆
-liang	ㄌㄧㄤ	良	29	23	※	☆
-liao	ㄌㄧㄠ	疗	31	30	※	☆
-lie	ㄌㄧㄝ	列	17	16	※	☆
-lin	ㄌㄧㄣ	林	33	30	※	☆
-ling	ㄌㄧㄥ	玲	39	38	※	☆
-liu	ㄌㄧㄡ	留	33	29	※	☆
-lo	ㄌㄛ	咯	1	1	※	
-long	ㄌㄨㄥ	龙	26	21	※	☆
-lou	ㄌㄡ	搂	21	24	※	☆
-lu	ㄌㄨ	卢	61	66	※	☆
-lü	ㄌㄩ	吕	28	30	※	☆
-luan	ㄌㄨㄢ	乱	12	12	※	☆
-lüan	ㄌㄩㄢ	孌		4		
-lüe	ㄌㄩㄝ	略	5	3	※	☆
-lun	ㄌㄨㄣ	抡	10	10	※	☆
-luo	ㄌㄨㄛ	罗	35	41	※	☆
-m	ㄇ	呣	3			
-ma	ㄇㄚ	妈	18	18	※	☆
-mai	ㄇㄞ	埋	12	10	※	☆
-man	ㄇㄢ	蛮	22	29	※	☆
-mang	ㄇㄤ	忙	16	27	※	☆
-mao	ㄇㄠ	猫	38	37	※	☆
-me	ㄇㄜ	么	3	2	※	☆
-mei	ㄇㄟ	眉	37	42	※	☆
-men	ㄇㄣ	门	10	12	※	☆
-meng	ㄇㄥ	蒙	28	41	※	☆
-mi	ㄇㄧ	迷	37	52	※	☆
-mian	ㄇㄧㄢ	面	22	26	※	☆
-miao	ㄇㄧㄠ	苗	17	15	※	☆
-mie	ㄇㄧㄝ	灭	6	10	※	☆
-min	ㄇㄧㄣ	民	23	25	※	☆
-ming	ㄇㄧㄥ	明	15	18	※	☆
-miu	ㄇㄧㄡ	谬	2	2	※	☆
-mo	ㄇㄛ	摸	46	54	※	☆
-mou	ㄇㄡ	谋	10	20	※	☆
-mu	ㄇㄨ	木	29	29	※	☆
-n	ㄋ	嗯	2			
-na	ㄋㄚ	那	15	15	※	☆
-nai	ㄋㄞ	乃	16	13	※	☆
-nan	ㄋㄢ	男	11	12	※	☆
-nang	ㄋㄤ	囊	6	5	※	☆
-nao	ㄋㄠ	闹	19	18	※	☆
-ne	ㄋㄜ	讷	5	3	※	☆
-nei	ㄋㄟ	内	4	4	※	☆
-nen	ㄋㄣ	嫩	3	1	※	☆
-neng	ㄋㄥ	能	1	2	※	☆
-ng	ㄫ	嗯	2			
-ni	ㄋㄧ	泥	33	35	※	☆
-nian	ㄋㄧㄢ	年	16	19	※	☆
-niang	ㄋㄧㄤ	娘	2	3	※	☆
-niao	ㄋㄧㄠ	鸟	7	9	※	☆
-nie	ㄋㄧㄝ	捏	22	28	※	☆
-nin	ㄋㄧㄣ	您	2	2	※	☆
-ning	ㄋㄧㄥ	宁	12	12	※	☆
-niu	ㄋㄧㄡ	牛	9	9	※	☆
-nong	ㄋㄨㄥ	农	8	10	※	☆
-nou	ㄋㄡ	耨	1	4	※	
-nu	ㄋㄨ	奴	11	10	※	☆
-nü	ㄋㄩ	女	6	6	※	☆
-nuan	ㄋㄨㄢ	暖	1	3	※	☆
-nüe	ㄋㄩㄝ	虐	2	3	※	☆
-nui	ㄋㄨㄟ				‽	
-nun	ㄋㄨㄣ	黁	1	1	※	
-nuo	ㄋㄨㄛ	挪	10	14	※	☆
-o	ㄛ	哦	4	5	※	☆
-ou	ㄡ	欧	15	17	※	☆
-pa	ㄆㄚ	怕	18	16	※	☆
-pai	ㄆㄞ	拍	13	10	※	☆
-pan	ㄆㄢ	潘	23	30	※	☆
-pang	ㄆㄤ	旁	16	18	※	☆
-pao	ㄆㄠ	抛	13	22	※	☆
-pei	ㄆㄟ	胚	18	26	※	☆
-pen	ㄆㄣ	喷	3	5	※	☆
-peng	ㄆㄥ	烹	26	36	※	☆
-pi	ㄆㄧ	批	62	66	※	☆
-pia	ㄆㄧㄚ	㕷		2		
-pian	ㄆㄧㄢ	偏	17	22	※	☆
-piao	ㄆㄧㄠ	飘	18	24	※	☆
-pie	ㄆㄧㄝ	撇	6	7	※	☆
-pin	ㄆㄧㄣ	拼	13	15	※	☆
-ping	ㄆㄧㄥ	乒	22	28	※	☆
-po	ㄆㄛ	坡	23	34	※	☆
-pou	ㄆㄡ	剖	4	8	※	☆
-pu	ㄆㄨ	扑	33	39	※	☆
-q	ㄑ	啐		1		
-qi	ㄑㄧ	七	105	113	※	☆
-qia	ㄑㄧㄚ	恰	18	7	※	☆
-qian	ㄑㄧㄢ	千	48	64	※	☆
-qiang	ㄑㄧㄤ	枪	26	33	※	☆
-qiao	ㄑㄧㄠ	敲	39	46	※	☆
-qie	ㄑㄧㄝ	切	16	19	※	☆
-qin	ㄑㄧㄣ	亲	30	30	※	☆
-qing	ㄑㄧㄥ	青	31	27	※	☆
-qiong	ㄑㄩㄥ	穷	11	16	※	☆
-qiu	ㄑㄧㄡ	秋	32	39	※	☆
-qu	ㄑㄩ	区	53	47	※	☆
-quan	ㄑㄩㄢ	圈	29	31	※	☆
-que	ㄑㄩㄝ	缺	15	20	※	☆
-qun	ㄑㄩㄣ	群	6	5	※	☆
-ran	ㄖㄢ	然	8	11	※	☆
-rang	ㄖㄤ	嚷	12	15	※	☆
-rao	ㄖㄠ	饶	6	8	※	☆
-re	ㄖㄜ	热	4	5	※	☆
-ren	ㄖㄣ	人	20	27	※	☆
-reng	ㄖㄥ	扔	3	4	※	☆
-ri	ㄖ	日	2	3	※	☆
-rong	ㄖㄨㄥ	容	18	24	※	☆
-rou	ㄖㄡ	柔	9	10	※	☆
-ru	ㄖㄨ	如	23	36	※	☆
-rua	ㄖㄨㄚ	挼	1			
-ruan	ㄖㄨㄢ	软	7	8	※	☆
-rui	ㄖㄨㄟ	锐	13	15	※	☆
-run	ㄖㄨㄣ	润	3	3	※	☆
-ruo	ㄖㄨㄛ	弱	9	10	※	☆
-sa	ㄙㄚ	撒	11	15	※	☆
-sai	ㄙㄞ	赛	8	9	※	☆
-san	ㄙㄢ	三	8	12	※	☆
-sang	ㄙㄤ	桑	6	6	※	☆
-sao	ㄙㄠ	搔	13	12	※	☆
-se	ㄙㄜ	涩	8	13	※	☆
-sei	ㄙㄟ	塞		1		
-sen	ㄙㄣ	森	1	2	※	☆
-seng	ㄙㄥ	僧	2	2	※	☆
-sha	ㄕㄚ	杀	22	32	※	☆
-shai	ㄕㄞ	筛	4	6	※	☆
-shan	ㄕㄢ	山	47	54	※	☆
-shang	ㄕㄤ	商	15	14	※	☆
-shao	ㄕㄠ	烧	24	28	※	☆
-she	ㄕㄜ	奢	25	33	※	☆
-shei	ㄕㄟ	谁	1	1	※	☆
-shen	ㄕㄣ	深	42	44	※	☆
-sheng	ㄕㄥ	升	22	23	※	☆
-shi	ㄕ	诗	89	94	※	☆
-shou	ㄕㄡ	收	14	15	※	☆
-shu	ㄕㄨ	书	53	63	※	☆
-shua	ㄕㄨㄚ	刷	3	2	※	☆
-shuai	ㄕㄨㄞ	衰	6	6	※	☆
-shuan	ㄕㄨㄢ	闩	5	6	※	☆
-shuang	ㄕㄨㄤ	双	12	11	※	☆
-shui	ㄕㄨㄟ	水	6	8	※	☆
-shun	ㄕㄨㄣ	顺	6	10	※	☆
-shuo	ㄕㄨㄛ	说	11	20	※	☆
-si	ㄙ	思	46	46	※	☆
-song	ㄙㄨㄥ	松	20	24	※	☆
-sou	ㄙㄡ	搜	16	19	※	☆
-su	ㄙㄨ	苏	31	41	※	☆
-suan	ㄙㄨㄢ	酸	5	8	※	☆
-sui	ㄙㄨㄟ	虽	26	28	※	☆
-sun	ㄙㄨㄣ	孙	9	14	※	☆
-suo	ㄙㄨㄛ	梭	22	22	※	☆
-ta	ㄊㄚ	他	31	38	※	☆
-tai	ㄊㄞ	胎	20	25	※	☆
-tan	ㄊㄢ	贪	39	50	※	☆
-tang	ㄊㄤ	汤	34	33	※	☆
-tao	ㄊㄠ	涛	28	29	※	☆
-te	ㄊㄜ	特	8	8	※	☆
-tei	ㄊㄟ	忒	1			
-teng	ㄊㄥ	疼	10	9	※	☆
-ti	ㄊㄧ	梯	39	44	※	☆
-tian	ㄊㄧㄢ	天	30	27	※	☆
-tiao	ㄊㄧㄠ	挑	21	25	※	☆
-tie	ㄊㄧㄝ	贴	6	7	※	☆
-ting	ㄊㄧㄥ	听	29	30	※	☆
-tong	ㄊㄨㄥ	通	37	35	※	☆
-tou	ㄊㄡ	偷	7	10	※	☆
-tu	ㄊㄨ	突	23	32	※	☆
-tuan	ㄊㄨㄢ	团	8	13	※	☆
-tui	ㄊㄨㄟ	推	13	14	※	☆
-tun	ㄊㄨㄣ	吞	13	17	※	☆
-tuo	ㄊㄨㄛ	拖	37	41	※	☆
-wa	ㄨㄚ	挖	16	19	※	☆
-wai	ㄨㄞ	歪	6	2	※	☆
-wan	ㄨㄢ	弯	38	47	※	☆
-wang	ㄨㄤ	汪	17	20	※	☆
-wei	ㄨㄟ	危	88	85	※	☆
-wen	ㄨㄣ	温	25	23	※	☆
-weng	ㄨㄥ	翁	12	10	※	☆
-wo	ㄨㄛ	窝	21	23	※	☆
-wu	ㄨ	污	71	81	※	☆
-xi	ㄒㄧ	西	130	147	※	☆
-xia	ㄒㄧㄚ	虾	26	37	※	☆
-xian	ㄒㄧㄢ	先	74	85	※	☆
-xiang	ㄒㄧㄤ	香	35	43	※	☆
-xiao	ㄒㄧㄠ	消	44	52	※	☆
-xie	ㄒㄧㄝ	些	59	62	※	☆
-xin	ㄒㄧㄣ	心	23	25	※	☆
-xing	ㄒㄧㄥ	星	33	32	※	☆
-xiong	ㄒㄩㄥ	兄	12	14	※	☆
-xiu	ㄒㄧㄡ	休	25	24	※	☆
-xu	ㄒㄩ	需	56	71	※	☆
-xuan	ㄒㄩㄢ	宣	44	45	※	☆
-xue	ㄒㄩㄝ	靴	14	18	※	☆
-xun	ㄒㄩㄣ	勋	42	49	※	☆
-ya	ㄧㄚ	呀	34	37	※	☆
-yai	ㄧㄞ	厓		4		
-yan	ㄧㄢ	烟	91	115	※	☆
-yang	ㄧㄤ	央	32	37	※	☆
-yao	ㄧㄠ	腰	48	73	※	☆
-ye	ㄧㄝ	爷	28	43	※	☆
-yi	ㄧ	一	165	205	※	☆
-yin	ㄧㄣ	音	59	65	※	☆
-ying	ㄧㄥ	英	48	48	※	☆
-yo	ㄧㄛ	唷	3	1	※	☆
-yong	ㄩㄥ	拥	35	39	※	☆
-you	ㄧㄡ	优	56	68	※	☆
-yu	ㄩ	于	128	164	※	☆
-yuan	ㄩㄢ	渊	46	49	※	☆
-yue	ㄩㄝ	约	31	33	※	☆
-yun	ㄩㄣ	云	36	44	※	☆
-za	ㄗㄚ	匝	9	14	※	☆
-zai	ㄗㄞ	栽	11	12	※	☆
-zan	ㄗㄢ	赞	16	24	※	☆
-zang	ㄗㄤ	脏	8	11	※	☆
-zao	ㄗㄠ	遭	20	25	※	☆
-ze	ㄗㄜ	则	17	28	※	☆
-zei	ㄗㄟ	贼	2	1	※	☆
-zen	ㄗㄣ	怎	2	3	※	☆
-zeng	ㄗㄥ	增	12	9	※	☆
-zha	ㄓㄚ	扎	41	44	※	☆
-zhai	ㄓㄞ	摘	15	14	※	☆
-zhan	ㄓㄢ	沾	31	43	※	☆
-zhang	ㄓㄤ	章	27	28	※	☆
-zhao	ㄓㄠ	招	23	26	※	☆
-zhe	ㄓㄜ	遮	28	35	※	☆
-zhei	ㄓㄟ	这	1	1	※	
-zhen	ㄓㄣ	针	46	58	※	☆
-zheng	ㄓㄥ	征	24	29	※	☆
-zhi	ㄓ	之	109	134	※	☆
-zhong	ㄓㄨㄥ	忠	21	24	※	☆
-zhou	ㄓㄡ	州	39	37	※	☆
-zhu	ㄓㄨ	朱	57	80	※	☆
-zhua	ㄓㄨㄚ	抓	5	5	※	☆
-zhuai	ㄓㄨㄞ	拽	3	2	※	☆
-zhuan	ㄓㄨㄢ	专	14	22	※	☆
-zhuang	ㄓㄨㄤ	庄	11	12	※	☆
-zhui	ㄓㄨㄟ	追	13	14	※	☆
-zhun	ㄓㄨㄣ	准	9	12	※	☆
-zhuo	ㄓㄨㄛ	捉	31	42	※	☆
-zi	ㄗ	资	51	57	※	☆
-zong	ㄗㄨㄥ	宗	17	21	※	☆
-zou	ㄗㄡ	邹	10	19	※	☆
-zu	ㄗㄨ	租	13	17	※	☆
-zuan	ㄗㄨㄢ	钻	6	8	※	☆
-zui	ㄗㄨㄟ	最	10	14	※	☆
-zun	ㄗㄨㄣ	尊	10	12	※	☆
-zuo	ㄗㄨㄛ	作	20	21	※	☆
+a	ㄚ	啊		a	7	5	※	☆
+ai	ㄞ	哀		ai	29	36	※	☆
+an	ㄢ	安		an	28	31	※	☆
+ang	ㄤ	肮		ang	5	6	※	☆
+ao	ㄠ	熬		ao	36	34	※	☆
+ba	ㄅㄚ	八	b	a	39	35	※	☆
+bai	ㄅㄞ	白	b	ai	17	15	※	☆
+ban	ㄅㄢ	班	b	an	30	28	※	☆
+bang	ㄅㄤ	帮	b	ang	22	19	※	☆
+bao	ㄅㄠ	包	b	ao	31	37	※	☆
+bei	ㄅㄟ	杯	b	ei	37	53	※	☆
+ben	ㄅㄣ	奔	b	en	13	9	※	☆
+beng	ㄅㄥ	崩	b	eng	16	15	※	☆
+bi	ㄅㄧ	逼	b	i	88	105	※	☆
+bian	ㄅㄧㄢ	边	b	ian	35	37	※	☆
+biang	ㄅㄧㄤ	𰻝	b	iang			‽	
+biao	ㄅㄧㄠ	标	b	iao	27	30	※	☆
+bie	ㄅㄧㄝ	别	b	ie	6	11	※	☆
+bin	ㄅㄧㄣ	宾	b	in	17	21	※	☆
+bing	ㄅㄧㄥ	兵	b	ing	18	26	※	☆
+bo	ㄅㄛ	玻	b	o	57	87	※	☆
+bu	ㄅㄨ	不	b	u	28	22	※	☆
+ca	ㄘㄚ	擦	c	a	4	4	※	☆
+cai	ㄘㄞ	猜	c	ai	14	18	※	☆
+can	ㄘㄢ	餐	c	an	17	15	※	☆
+cang	ㄘㄤ	仓	c	ang	7	8	※	☆
+cao	ㄘㄠ	操	c	ao	12	15	※	☆
+ce	ㄘㄜ	策	c	e	7	9	※	☆
+cei	ㄘㄟ	𤭢	c	ei	1			
+cen	ㄘㄣ	岑	c	en	3	5	※	☆
+ceng	ㄘㄥ	层	c	eng	5	6	※	☆
+cha	ㄔㄚ	插	ch	a	34	28	※	☆
+chai	ㄔㄞ	拆	ch	ai	10	13	※	☆
+chan	ㄔㄢ	搀	ch	an	43	55	※	☆
+chang	ㄔㄤ	昌	ch	ang	32	35	※	☆
+chao	ㄔㄠ	超	ch	ao	17	22	※	☆
+che	ㄔㄜ	车	ch	e	12	17	※	☆
+chen	ㄔㄣ	尘	ch	en	35	36	※	☆
+cheng	ㄔㄥ	称	ch	eng	42	47	※	☆
+chi	ㄔ	吃	ch	i	54	67	※	☆
+chong	ㄔㄨㄥ	充	ch	ong	22	19	※	☆
+chou	ㄔㄡ	抽	ch	ou	26	35	※	☆
+chu	ㄔㄨ	初	ch	u	43	48	※	☆
+chua	ㄔㄨㄚ	欻	ch	ua	1	3	※	
+chuai	ㄔㄨㄞ	揣	ch	uai	8	6	※	☆
+chuan	ㄔㄨㄢ	川	ch	uan	16	17	※	☆
+chuang	ㄔㄨㄤ	窗	ch	uang	10	16	※	☆
+chui	ㄔㄨㄟ	吹	ch	uei	11	16	※	☆
+chun	ㄔㄨㄣ	春	ch	uen	16	16	※	☆
+chuo	ㄔㄨㄛ	戳	ch	uo	13	13	※	☆
+ci	ㄘ	词	c	i	29	32	※	☆
+cong	ㄘㄨㄥ	聪	c	ong	18	19	※	☆
+cou	ㄘㄡ	凑	c	ou	3	4	※	☆
+cu	ㄘㄨ	粗	c	u	16	25	※	☆
+cuan	ㄘㄨㄢ	撺	c	uan	9	10	※	☆
+cui	ㄘㄨㄟ	崔	c	uei	22	30	※	☆
+cun	ㄘㄨㄣ	村	c	uen	10	9	※	☆
+cuo	ㄘㄨㄛ	搓	c	uo	20	26	※	☆
+da	ㄉㄚ	搭	d	a	29	18	※	☆
+dai	ㄉㄞ	呆	d	ai	28	28	※	☆
+dan	ㄉㄢ	丹	d	an	41	48	※	☆
+dang	ㄉㄤ	当	d	ang	20	19	※	☆
+dao	ㄉㄠ	刀	d	ao	22	23	※	☆
+de	ㄉㄜ	德	d	e	8	6	※	☆
+dei	ㄉㄟ	得	d	ei	2	1	※	
+den	ㄉㄣ	扽	d	en	1	1	※	
+deng	ㄉㄥ	登	d	eng	15	18	※	☆
+di	ㄉㄧ	低	d	i	57	63	※	☆
+dia	ㄉㄧㄚ	嗲	d	ia	1			
+dian	ㄉㄧㄢ	颠	d	ian	30	35	※	☆
+diao	ㄉㄧㄠ	刁	d	iao	19	24	※	☆
+die	ㄉㄧㄝ	爹	d	ie	24	34	※	☆
+ding	ㄉㄧㄥ	丁	d	ing	22	19	※	☆
+diu	ㄉㄧㄡ	丢	d	iou	2	4	※	☆
+dong	ㄉㄨㄥ	东	d	ong	20	19	※	☆
+dou	ㄉㄡ	兜	d	ou	21	17	※	☆
+du	ㄉㄨ	都	d	u	31	35	※	☆
+duan	ㄉㄨㄢ	端	d	uan	13	11	※	☆
+dui	ㄉㄨㄟ	堆	d	uei	12	11	※	☆
+dun	ㄉㄨㄣ	吨	d	uen	22	17	※	☆
+duo	ㄉㄨㄛ	多	d	uo	32	37	※	☆
+e	ㄜ	鹅		e	46	68	※	☆
+ê	ㄝ	欸		ê	1	1	※	
+ei	ㄟ	㗒/欸		ei		1		
+en	ㄣ	恩		en	4	3	※	☆
+eng	ㄥ	鞥		eng	1	1	※	☆
+er	ㄦ	儿		er	25	25	※	☆
+fa	ㄈㄚ	发	f	a	12	14	※	☆
+fan	ㄈㄢ	帆	f	an	32	44	※	☆
+fang	ㄈㄤ	方	f	ang	20	22	※	☆
+fei	ㄈㄟ	非	f	ei	34	43	※	☆
+fen	ㄈㄣ	分	f	en	28	40	※	☆
+feng	ㄈㄥ	风	f	eng	26	27	※	☆
+fiao	ㄈㄧㄠ	覅	f	iao			‽	
+fo	ㄈㄛ	佛	f	o	1	1	※	☆
+fou	ㄈㄡ	否	f	ou	2	11	※	☆
+fu	ㄈㄨ	夫	f	u	115	134	※	☆
+ga	ㄍㄚ	嘎	g	a	15	8	※	☆
+gai	ㄍㄞ	该	g	ai	16	12	※	☆
+gan	ㄍㄢ	干	g	an	33	36	※	☆
+gang	ㄍㄤ	钢	g	ang	22	20	※	☆
+gao	ㄍㄠ	高	g	ao	22	25	※	☆
+ge	ㄍㄜ	哥	g	e	43	47	※	☆
+gei	ㄍㄟ	给	g	ei	1	1	※	☆
+gen	ㄍㄣ	根	g	en	6	6	※	☆
+geng	ㄍㄥ	耕	g	eng	19	20	※	☆
+gong	ㄍㄨㄥ	工	g	ong	26	27	※	☆
+gou	ㄍㄡ	沟	g	ou	27	31	※	☆
+gu	ㄍㄨ	姑	g	u	58	59	※	☆
+gua	ㄍㄨㄚ	瓜	g	ua	18	25	※	☆
+guai	ㄍㄨㄞ	乖	g	uai	5	9	※	☆
+guan	ㄍㄨㄢ	关	g	uan	32	35	※	☆
+guang	ㄍㄨㄤ	光	g	uang	11	12	※	☆
+gue	ㄍㄨㄜ		g	ue			‽	
+gui	ㄍㄨㄟ	归	g	uei	40	51	※	☆
+gun	ㄍㄨㄣ	棍	g	uen	7	10	※	☆
+guo	ㄍㄨㄛ	锅	g	uo	24	23	※	☆
+ha	ㄏㄚ	哈	h	a	5	5	※	☆
+hai	ㄏㄞ	孩	h	ai	16	14	※	☆
+han	ㄏㄢ	含	h	an	45	53	※	☆
+hang	ㄏㄤ	杭	h	ang	12	11	※	☆
+hao	ㄏㄠ	蒿	h	ao	26	31	※	☆
+he	ㄏㄜ	喝	h	e	46	49	※	☆
+hei	ㄏㄟ	黑	h	ei	4	2	※	☆
+hen	ㄏㄣ	痕	h	en	5	7	※	☆
+heng	ㄏㄥ	恒	h	eng	14	12	※	☆
+hm	ㄏㄇ	噷	-	-	1			
+hng	ㄏㄫ	哼	-	-	1			
+hong	ㄏㄨㄥ	烘	h	ong	30	36	※	☆
+hou	ㄏㄡ	喉	h	ou	21	21	※	☆
+hu	ㄏㄨ	呼	h	u	62	70	※	☆
+hua	ㄏㄨㄚ	花	h	ua	19	23	※	☆
+huai	ㄏㄨㄞ	怀	h	uai	7	13	※	☆
+huan	ㄏㄨㄢ	欢	h	uan	44	47	※	☆
+huang	ㄏㄨㄤ	荒	h	uang	37	34	※	☆
+hui	ㄏㄨㄟ	灰	h	uei	63	63	※	☆
+hun	ㄏㄨㄣ	昏	h	uen	16	17	※	☆
+huo	ㄏㄨㄛ	活	h	uo	32	37	※	☆
+ji	ㄐㄧ	机	j	i	142	175	※	☆
+jia	ㄐㄧㄚ	加	j	ia	47	54	※	☆
+jian	ㄐㄧㄢ	尖	j	ian	84	97	※	☆
+jiang	ㄐㄧㄤ	江	j	iang	28	28	※	☆
+jiao	ㄐㄧㄠ	交	j	iao	64	66	※	☆
+jie	ㄐㄧㄝ	阶	j	ie	67	82	※	☆
+jin	ㄐㄧㄣ	今	j	in	46	46	※	☆
+jing	ㄐㄧㄥ	京	j	ing	51	50	※	☆
+jiong	ㄐㄩㄥ	迥	j	iong	12	14	※	☆
+jiu	ㄐㄧㄡ	究	j	iou	31	33	※	☆
+ju	ㄐㄩ	居	j	ü	81	97	※	☆
+juan	ㄐㄩㄢ	捐	j	üan	21	24	※	☆
+jue	ㄐㄩㄝ	决	j	üe	42	56	※	☆
+jun	ㄐㄩㄣ	军	j	ün	28	33	※	☆
+ka	ㄎㄚ	咖	k	a	8	9	※	☆
+kai	ㄎㄞ	开	k	ai	17	17	※	☆
+kan	ㄎㄢ	刊	k	an	22	23	※	☆
+kang	ㄎㄤ	康	k	ang	14	15	※	☆
+kao	ㄎㄠ	考	k	ao	12	12	※	☆
+ke	ㄎㄜ	科	k	e	43	45	※	☆
+kei	ㄎㄟ	剋	k	ei	1			
+ken	ㄎㄣ	肯	k	en	7	7	※	☆
+keng	ㄎㄥ	坑	k	eng	4	10	※	☆
+kong	ㄎㄨㄥ	空	k	ong	11	10	※	☆
+kou	ㄎㄡ	抠	k	ou	11	13	※	☆
+ku	ㄎㄨ	枯	k	u	15	13	※	☆
+kua	ㄎㄨㄚ	夸	k	ua	7	9	※	☆
+kuai	ㄎㄨㄞ	快	k	uai	14	20	※	☆
+kuan	ㄎㄨㄢ	宽	k	uan	4	6	※	☆
+kuang	ㄎㄨㄤ	筐	k	uang	23	20	※	☆
+kui	ㄎㄨㄟ	亏	k	uei	36	38	※	☆
+kun	ㄎㄨㄣ	昆	k	uen	17	22	※	☆
+kuo	ㄎㄨㄛ	阔	k	uo	10	9	※	☆
+la	ㄌㄚ	拉	l	a	22	13	※	☆
+lai	ㄌㄞ	来	l	ai	16	22	※	☆
+lan	ㄌㄢ	兰	l	an	26	30	※	☆
+lang	ㄌㄤ	狼	l	ang	26	22	※	☆
+lao	ㄌㄠ	捞	l	ao	27	26	※	☆
+le	ㄌㄜ	勒	l	e	13	12	※	☆
+lei	ㄌㄟ	类	l	ei	31	32	※	☆
+leng	ㄌㄥ	冷	l	eng	10	8	※	☆
+li	ㄌㄧ	里	l	i	100	110	※	☆
+lia	ㄌㄧㄚ	俩	l	ia	1	1	※	
+lian	ㄌㄧㄢ	连	l	ian	32	37	※	☆
+liang	ㄌㄧㄤ	良	l	iang	29	23	※	☆
+liao	ㄌㄧㄠ	疗	l	iao	31	30	※	☆
+lie	ㄌㄧㄝ	列	l	ie	17	16	※	☆
+lin	ㄌㄧㄣ	林	l	in	33	30	※	☆
+ling	ㄌㄧㄥ	玲	l	ing	39	38	※	☆
+liu	ㄌㄧㄡ	留	l	iou	33	29	※	☆
+lo	ㄌㄛ	咯	l	o	1	1	※	
+long	ㄌㄨㄥ	龙	l	ong	26	21	※	☆
+lou	ㄌㄡ	搂	l	ou	21	24	※	☆
+lu	ㄌㄨ	卢	l	u	61	66	※	☆
+lü	ㄌㄩ	吕	l	ü	28	30	※	☆
+luan	ㄌㄨㄢ	乱	l	uan	12	12	※	☆
+lüan	ㄌㄩㄢ	孌	l	üan		4		
+lüe	ㄌㄩㄝ	略	l	üe	5	3	※	☆
+lun	ㄌㄨㄣ	抡	l	uen	10	10	※	☆
+luo	ㄌㄨㄛ	罗	l	uo	35	41	※	☆
+m	ㄇ	呣	-	-	3			
+ma	ㄇㄚ	妈	m	a	18	18	※	☆
+mai	ㄇㄞ	埋	m	ai	12	10	※	☆
+man	ㄇㄢ	蛮	m	an	22	29	※	☆
+mang	ㄇㄤ	忙	m	ang	16	27	※	☆
+mao	ㄇㄠ	猫	m	ao	38	37	※	☆
+me	ㄇㄜ	么	m	e	3	2	※	☆
+mei	ㄇㄟ	眉	m	ei	37	42	※	☆
+men	ㄇㄣ	门	m	en	10	12	※	☆
+meng	ㄇㄥ	蒙	m	eng	28	41	※	☆
+mi	ㄇㄧ	迷	m	i	37	52	※	☆
+mian	ㄇㄧㄢ	面	m	ian	22	26	※	☆
+miao	ㄇㄧㄠ	苗	m	iao	17	15	※	☆
+mie	ㄇㄧㄝ	灭	m	ie	6	10	※	☆
+min	ㄇㄧㄣ	民	m	in	23	25	※	☆
+ming	ㄇㄧㄥ	明	m	ing	15	18	※	☆
+miu	ㄇㄧㄡ	谬	m	iou	2	2	※	☆
+mo	ㄇㄛ	摸	m	o	46	54	※	☆
+mou	ㄇㄡ	谋	m	ou	10	20	※	☆
+mu	ㄇㄨ	木	m	u	29	29	※	☆
+n	ㄋ	嗯	-	-	2			
+na	ㄋㄚ	那	n	a	15	15	※	☆
+nai	ㄋㄞ	乃	n	ai	16	13	※	☆
+nan	ㄋㄢ	男	n	an	11	12	※	☆
+nang	ㄋㄤ	囊	n	ang	6	5	※	☆
+nao	ㄋㄠ	闹	n	ao	19	18	※	☆
+ne	ㄋㄜ	讷	n	e	5	3	※	☆
+nei	ㄋㄟ	内	n	ei	4	4	※	☆
+nen	ㄋㄣ	嫩	n	en	3	1	※	☆
+neng	ㄋㄥ	能	n	eng	1	2	※	☆
+ng	ㄫ	嗯	-	-	2			
+ni	ㄋㄧ	泥	n	i	33	35	※	☆
+nian	ㄋㄧㄢ	年	n	ian	16	19	※	☆
+niang	ㄋㄧㄤ	娘	n	iang	2	3	※	☆
+niao	ㄋㄧㄠ	鸟	n	iao	7	9	※	☆
+nie	ㄋㄧㄝ	捏	n	ie	22	28	※	☆
+nin	ㄋㄧㄣ	您	n	in	2	2	※	☆
+ning	ㄋㄧㄥ	宁	n	ing	12	12	※	☆
+niu	ㄋㄧㄡ	牛	n	iou	9	9	※	☆
+nong	ㄋㄨㄥ	农	n	ong	8	10	※	☆
+nou	ㄋㄡ	耨	n	ou	1	4	※	
+nu	ㄋㄨ	奴	n	u	11	10	※	☆
+nü	ㄋㄩ	女	n	ü	6	6	※	☆
+nuan	ㄋㄨㄢ	暖	n	uan	1	3	※	☆
+nüe	ㄋㄩㄝ	虐	n	üe	2	3	※	☆
+nui	ㄋㄨㄟ		n	uei			‽	
+nun	ㄋㄨㄣ	黁	n	uen	1	1	※	
+nuo	ㄋㄨㄛ	挪	n	uo	10	14	※	☆
+o	ㄛ	哦		o	4	5	※	☆
+ou	ㄡ	欧		ou	15	17	※	☆
+pa	ㄆㄚ	怕	p	a	18	16	※	☆
+pai	ㄆㄞ	拍	p	ai	13	10	※	☆
+pan	ㄆㄢ	潘	p	an	23	30	※	☆
+pang	ㄆㄤ	旁	p	ang	16	18	※	☆
+pao	ㄆㄠ	抛	p	ao	13	22	※	☆
+pei	ㄆㄟ	胚	p	ei	18	26	※	☆
+pen	ㄆㄣ	喷	p	en	3	5	※	☆
+peng	ㄆㄥ	烹	p	eng	26	36	※	☆
+pi	ㄆㄧ	批	p	i	62	66	※	☆
+pia	ㄆㄧㄚ	㕷	p	ia		2		
+pian	ㄆㄧㄢ	偏	p	ian	17	22	※	☆
+piao	ㄆㄧㄠ	飘	p	iao	18	24	※	☆
+pie	ㄆㄧㄝ	撇	p	ie	6	7	※	☆
+pin	ㄆㄧㄣ	拼	p	in	13	15	※	☆
+ping	ㄆㄧㄥ	乒	p	ing	22	28	※	☆
+po	ㄆㄛ	坡	p	o	23	34	※	☆
+pou	ㄆㄡ	剖	p	ou	4	8	※	☆
+pu	ㄆㄨ	扑	p	u	33	39	※	☆
+q	ㄑ	啐	-	-		1		
+qi	ㄑㄧ	七	q	i	105	113	※	☆
+qia	ㄑㄧㄚ	恰	q	ia	18	7	※	☆
+qian	ㄑㄧㄢ	千	q	ian	48	64	※	☆
+qiang	ㄑㄧㄤ	枪	q	iang	26	33	※	☆
+qiao	ㄑㄧㄠ	敲	q	iao	39	46	※	☆
+qie	ㄑㄧㄝ	切	q	ie	16	19	※	☆
+qin	ㄑㄧㄣ	亲	q	in	30	30	※	☆
+qing	ㄑㄧㄥ	青	q	ing	31	27	※	☆
+qiong	ㄑㄩㄥ	穷	q	iong	11	16	※	☆
+qiu	ㄑㄧㄡ	秋	q	iou	32	39	※	☆
+qu	ㄑㄩ	区	q	ü	53	47	※	☆
+quan	ㄑㄩㄢ	圈	q	üan	29	31	※	☆
+que	ㄑㄩㄝ	缺	q	üe	15	20	※	☆
+qun	ㄑㄩㄣ	群	q	ün	6	5	※	☆
+ran	ㄖㄢ	然	r	an	8	11	※	☆
+rang	ㄖㄤ	嚷	r	ang	12	15	※	☆
+rao	ㄖㄠ	饶	r	ao	6	8	※	☆
+re	ㄖㄜ	热	r	e	4	5	※	☆
+ren	ㄖㄣ	人	r	en	20	27	※	☆
+reng	ㄖㄥ	扔	r	eng	3	4	※	☆
+ri	ㄖ	日	r	i	2	3	※	☆
+rong	ㄖㄨㄥ	容	r	ong	18	24	※	☆
+rou	ㄖㄡ	柔	r	ou	9	10	※	☆
+ru	ㄖㄨ	如	r	u	23	36	※	☆
+rua	ㄖㄨㄚ	挼	r	ua	1			
+ruan	ㄖㄨㄢ	软	r	uan	7	8	※	☆
+rui	ㄖㄨㄟ	锐	r	uei	13	15	※	☆
+run	ㄖㄨㄣ	润	r	uen	3	3	※	☆
+ruo	ㄖㄨㄛ	弱	r	uo	9	10	※	☆
+sa	ㄙㄚ	撒	s	a	11	15	※	☆
+sai	ㄙㄞ	赛	s	ai	8	9	※	☆
+san	ㄙㄢ	三	s	an	8	12	※	☆
+sang	ㄙㄤ	桑	s	ang	6	6	※	☆
+sao	ㄙㄠ	搔	s	ao	13	12	※	☆
+se	ㄙㄜ	涩	s	e	8	13	※	☆
+sei	ㄙㄟ	塞	s	ei		1		
+sen	ㄙㄣ	森	s	en	1	2	※	☆
+seng	ㄙㄥ	僧	s	eng	2	2	※	☆
+sha	ㄕㄚ	杀	sh	a	22	32	※	☆
+shai	ㄕㄞ	筛	sh	ai	4	6	※	☆
+shan	ㄕㄢ	山	sh	an	47	54	※	☆
+shang	ㄕㄤ	商	sh	ang	15	14	※	☆
+shao	ㄕㄠ	烧	sh	ao	24	28	※	☆
+she	ㄕㄜ	奢	sh	e	25	33	※	☆
+shei	ㄕㄟ	谁	sh	ei	1	1	※	☆
+shen	ㄕㄣ	深	sh	en	42	44	※	☆
+sheng	ㄕㄥ	升	sh	eng	22	23	※	☆
+shi	ㄕ	诗	sh	i	89	94	※	☆
+shou	ㄕㄡ	收	sh	ou	14	15	※	☆
+shu	ㄕㄨ	书	sh	u	53	63	※	☆
+shua	ㄕㄨㄚ	刷	sh	ua	3	2	※	☆
+shuai	ㄕㄨㄞ	衰	sh	uai	6	6	※	☆
+shuan	ㄕㄨㄢ	闩	sh	uan	5	6	※	☆
+shuang	ㄕㄨㄤ	双	sh	uang	12	11	※	☆
+shui	ㄕㄨㄟ	水	sh	uei	6	8	※	☆
+shun	ㄕㄨㄣ	顺	sh	uen	6	10	※	☆
+shuo	ㄕㄨㄛ	说	sh	uo	11	20	※	☆
+si	ㄙ	思	s	i	46	46	※	☆
+song	ㄙㄨㄥ	松	s	ong	20	24	※	☆
+sou	ㄙㄡ	搜	s	ou	16	19	※	☆
+su	ㄙㄨ	苏	s	u	31	41	※	☆
+suan	ㄙㄨㄢ	酸	s	uan	5	8	※	☆
+sui	ㄙㄨㄟ	虽	s	uei	26	28	※	☆
+sun	ㄙㄨㄣ	孙	s	uen	9	14	※	☆
+suo	ㄙㄨㄛ	梭	s	uo	22	22	※	☆
+ta	ㄊㄚ	他	t	a	31	38	※	☆
+tai	ㄊㄞ	胎	t	ai	20	25	※	☆
+tan	ㄊㄢ	贪	t	an	39	50	※	☆
+tang	ㄊㄤ	汤	t	ang	34	33	※	☆
+tao	ㄊㄠ	涛	t	ao	28	29	※	☆
+te	ㄊㄜ	特	t	e	8	8	※	☆
+tei	ㄊㄟ	忒	t	ei	1			
+teng	ㄊㄥ	疼	t	eng	10	9	※	☆
+ti	ㄊㄧ	梯	t	i	39	44	※	☆
+tian	ㄊㄧㄢ	天	t	ian	30	27	※	☆
+tiao	ㄊㄧㄠ	挑	t	iao	21	25	※	☆
+tie	ㄊㄧㄝ	贴	t	ie	6	7	※	☆
+ting	ㄊㄧㄥ	听	t	ing	29	30	※	☆
+tong	ㄊㄨㄥ	通	t	ong	37	35	※	☆
+tou	ㄊㄡ	偷	t	ou	7	10	※	☆
+tu	ㄊㄨ	突	t	u	23	32	※	☆
+tuan	ㄊㄨㄢ	团	t	uan	8	13	※	☆
+tui	ㄊㄨㄟ	推	t	uei	13	14	※	☆
+tun	ㄊㄨㄣ	吞	t	uen	13	17	※	☆
+tuo	ㄊㄨㄛ	拖	t	uo	37	41	※	☆
+wa	ㄨㄚ	挖		ua	16	19	※	☆
+wai	ㄨㄞ	歪		uai	6	2	※	☆
+wan	ㄨㄢ	弯		uan	38	47	※	☆
+wang	ㄨㄤ	汪		uang	17	20	※	☆
+wei	ㄨㄟ	危		uei	88	85	※	☆
+wen	ㄨㄣ	温		uen	25	23	※	☆
+weng	ㄨㄥ	翁		ueng	12	10	※	☆
+wo	ㄨㄛ	窝		uo	21	23	※	☆
+wu	ㄨ	污		u	71	81	※	☆
+xi	ㄒㄧ	西	x	i	130	147	※	☆
+xia	ㄒㄧㄚ	虾	x	ia	26	37	※	☆
+xian	ㄒㄧㄢ	先	x	ian	74	85	※	☆
+xiang	ㄒㄧㄤ	香	x	iang	35	43	※	☆
+xiao	ㄒㄧㄠ	消	x	iao	44	52	※	☆
+xie	ㄒㄧㄝ	些	x	ie	59	62	※	☆
+xin	ㄒㄧㄣ	心	x	in	23	25	※	☆
+xing	ㄒㄧㄥ	星	x	ing	33	32	※	☆
+xiong	ㄒㄩㄥ	兄	x	iong	12	14	※	☆
+xiu	ㄒㄧㄡ	休	x	iou	25	24	※	☆
+xu	ㄒㄩ	需	x	ü	56	71	※	☆
+xuan	ㄒㄩㄢ	宣	x	üan	44	45	※	☆
+xue	ㄒㄩㄝ	靴	x	üe	14	18	※	☆
+xun	ㄒㄩㄣ	勋	x	ün	42	49	※	☆
+ya	ㄧㄚ	呀		ia	34	37	※	☆
+yai	ㄧㄞ	厓	-	-		4		
+yan	ㄧㄢ	烟		ian	91	115	※	☆
+yang	ㄧㄤ	央		iang	32	37	※	☆
+yao	ㄧㄠ	腰		iao	48	73	※	☆
+ye	ㄧㄝ	爷		ie	28	43	※	☆
+yi	ㄧ	一		i	165	205	※	☆
+yin	ㄧㄣ	音		in	59	65	※	☆
+ying	ㄧㄥ	英		ing	48	48	※	☆
+yo	ㄧㄛ	唷	-	-	3	1	※	☆
+yong	ㄩㄥ	拥		iong	35	39	※	☆
+you	ㄧㄡ	优		iou	56	68	※	☆
+yu	ㄩ	于		ü	128	164	※	☆
+yuan	ㄩㄢ	渊		üan	46	49	※	☆
+yue	ㄩㄝ	约		üe	31	33	※	☆
+yun	ㄩㄣ	云		ün	36	44	※	☆
+za	ㄗㄚ	匝	z	a	9	14	※	☆
+zai	ㄗㄞ	栽	z	ai	11	12	※	☆
+zan	ㄗㄢ	赞	z	an	16	24	※	☆
+zang	ㄗㄤ	脏	z	ang	8	11	※	☆
+zao	ㄗㄠ	遭	z	ao	20	25	※	☆
+ze	ㄗㄜ	则	z	e	17	28	※	☆
+zei	ㄗㄟ	贼	z	ei	2	1	※	☆
+zen	ㄗㄣ	怎	z	en	2	3	※	☆
+zeng	ㄗㄥ	增	z	eng	12	9	※	☆
+zha	ㄓㄚ	扎	zh	a	41	44	※	☆
+zhai	ㄓㄞ	摘	zh	ai	15	14	※	☆
+zhan	ㄓㄢ	沾	zh	an	31	43	※	☆
+zhang	ㄓㄤ	章	zh	ang	27	28	※	☆
+zhao	ㄓㄠ	招	zh	ao	23	26	※	☆
+zhe	ㄓㄜ	遮	zh	e	28	35	※	☆
+zhei	ㄓㄟ	这	zh	ei	1	1	※	
+zhen	ㄓㄣ	针	zh	en	46	58	※	☆
+zheng	ㄓㄥ	征	zh	eng	24	29	※	☆
+zhi	ㄓ	之	zh	i	109	134	※	☆
+zhong	ㄓㄨㄥ	忠	zh	ong	21	24	※	☆
+zhou	ㄓㄡ	州	zh	ou	39	37	※	☆
+zhu	ㄓㄨ	朱	zh	u	57	80	※	☆
+zhua	ㄓㄨㄚ	抓	zh	ua	5	5	※	☆
+zhuai	ㄓㄨㄞ	拽	zh	uai	3	2	※	☆
+zhuan	ㄓㄨㄢ	专	zh	uan	14	22	※	☆
+zhuang	ㄓㄨㄤ	庄	zh	uang	11	12	※	☆
+zhui	ㄓㄨㄟ	追	zh	uei	13	14	※	☆
+zhun	ㄓㄨㄣ	准	zh	uen	9	12	※	☆
+zhuo	ㄓㄨㄛ	捉	zh	uo	31	42	※	☆
+zi	ㄗ	资	z	i	51	57	※	☆
+zong	ㄗㄨㄥ	宗	z	ong	17	21	※	☆
+zou	ㄗㄡ	邹	z	ou	10	19	※	☆
+zu	ㄗㄨ	租	z	u	13	17	※	☆
+zuan	ㄗㄨㄢ	钻	z	uan	6	8	※	☆
+zui	ㄗㄨㄟ	最	z	uei	10	14	※	☆
+zun	ㄗㄨㄣ	尊	z	uen	10	12	※	☆
+zuo	ㄗㄨㄛ	作	z	uo	20	21	※	☆
