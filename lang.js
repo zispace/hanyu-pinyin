@@ -1,0 +1,45 @@
+// 语言字典
+const translations = {
+    zh: {
+        mainTitle: '汉语拼音音节表',
+        subtitle: '',
+        instruction: '点击单元格查看详细音节信息',
+        loadingText: '正在加载拼音数据...',
+        headerLabel: '声母/韵母',
+        zeroInitial: '零声母',
+        syllableInfo: '音节信息',
+        pinyin: '拼音',
+        bopomofo: '注音',
+        initial: '声母',
+        final: '韵母',
+        nonBasicSyllable: '非基本音节',
+        tones: '声调',
+        tone: '声调',
+        character: '汉字',
+        frequency: '频率',
+        invalid: '无效',
+        rare: '罕见',
+        playAudio: '播放音频'
+    },
+    en: {
+        mainTitle: 'Chinese Pinyin Syllable Table',
+        subtitle: '',
+        instruction: 'Click cells to view detailed syllable information',
+        loadingText: 'Loading pinyin data...',
+        headerLabel: 'Initial/Final',
+        zeroInitial: 'Zero Initial',
+        syllableInfo: 'Syllable Information',
+        pinyin: 'Pinyin',
+        bopomofo: 'Bopomofo',
+        initial: 'Initial',
+        final: 'Final',
+        nonBasicSyllable: 'Non-basic syllable',
+        tones: 'Tones',
+        tone: 'Tone',
+        character: 'Character',
+        frequency: 'Frequency',
+        invalid: 'Invalid',
+        rare: 'Rare',
+        playAudio: 'Play Audio'
+    }
+};

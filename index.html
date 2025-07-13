@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>汉语拼音音节表 - Chinese Pinyin Syllable Table</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen p-4 md:p-8">
+    <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="text-center mb-8 fade-in">
+            <div class="flex justify-between items-center mb-4">
+                <!-- Language Dropdown -->
+                <div class="language-dropdown relative">
+                    <button id="languageToggle"
+                        class="flex items-center space-x-2 px-4 py-2 rounded-lg bg-white/20 backdrop-blur-sm border border-white/20 hover:bg-white/30 transition-all duration-300">
+                        <i class="fas fa-globe text-gray-700 dark:text-gray-300"></i>
+                        <span id="currentLang" class="font-medium text-gray-700 dark:text-gray-300">中文</span>
+                        <i class="fas fa-chevron-down text-xs text-gray-500 transition-transform duration-200"></i>
+                    </button>
+
+                    <div id="languageMenu"
+                        class="absolute top-full left-0 mt-2 w-32 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 opacity-0 invisible transition-all duration-200 z-50">
+                        <div class="py-1">
+                            <button
+                                class="lang-option w-full text-left px-4 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors flex items-center space-x-2"
+                                data-lang="zh">
+                                <span class="w-4 h-4 rounded-full bg-red-500"></span>
+                                <span>中文</span>
+                                <i class="fas fa-check text-blue-500 ml-auto opacity-0"></i>
+                            </button>
+                            <button
+                                class="lang-option w-full text-left px-4 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors flex items-center space-x-2"
+                                data-lang="en">
+                                <span class="w-4 h-4 rounded-full bg-blue-500"></span>
+                                <span>English</span>
+                                <i class="fas fa-check text-blue-500 ml-auto opacity-0"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Theme Toggle -->
+                <button id="themeToggle"
+                    class="p-3 rounded-full bg-white/20 backdrop-blur-sm border border-white/20 hover:bg-white/30 transition-all duration-300"
+                    title="切换主题">
+                    <i class="fas fa-sun text-lg text-gray-700 dark:text-gray-300"></i>
+                </button>
+            </div>
+            <h1 id="mainTitle" class="text-4xl md:text-6xl font-bold header-gradient mb-4">汉语拼音音节表</h1>
+            <p id="subtitle" class="text-xl text-gray-600 mb-2"></p>
+            <p id="instruction" class="text-gray-500">点击单元格查看详细音节信息</p>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="glass-card p-8 text-center">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600 mb-4"></div>
+            <p id="loadingText" class="text-gray-600">正在加载拼音数据...</p>
+        </div>
+
+        <!-- Table Container -->
+        <div id="tableContainer" class="table-container hidden">
+            <div class="overflow-x-auto">
+                <table id="pinyinTable" class="w-full">
+                    <thead>
+                        <tr id="headerRow" class="bg-gradient-to-r from-purple-600 to-blue-600 text-white">
+                            <th class="p-4 text-left font-semibold text-lg" id="headerLabel">声母/韵母</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for detailed information -->
+    <div id="modal" class="modal fixed inset-0 z-50 hidden flex items-center justify-center p-4">
+        <div class="modal-content w-full max-w-2xl max-h-[90vh] overflow-y-auto">
+            <div class="p-6">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 id="modalTitle" class="text-2xl font-bold text-gray-800 dark:text-gray-200"></h2>
+                    <button id="closeModal"
+                        class="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
+                        <i class="fas fa-times text-xl"></i>
+                    </button>
+                </div>
+
+                <div id="modalContent" class="space-y-6">
+                    <!-- Syllable info will be inserted here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="lang.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
