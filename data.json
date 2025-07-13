@@ -30,6 +30,7 @@
     "ang",
     "ao",
     "e",
+    "ê",
     "ei",
     "en",
     "eng",
@@ -18465,56 +18466,6 @@
       ]
     },
     {
-      "pinyin": "yai",
-      "initial": "-",
-      "final": "-",
-      "abbr": "",
-      "bopomofo": "ㄧㄞ",
-      "basic": false,
-      "syllables": [
-        {
-          "full": "yāi",
-          "num": "yai1",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yái",
-          "num": "yai2",
-          "char": "崖",
-          "freq": "",
-          "valid": true,
-          "rare": true
-        },
-        {
-          "full": "yǎi",
-          "num": "yai3",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yài",
-          "num": "yai4",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yai",
-          "num": "yai5",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        }
-      ]
-    },
-    {
       "pinyin": "yan",
       "initial": "",
       "final": "ian",
@@ -18860,56 +18811,6 @@
           "char": "",
           "freq": "",
           "valid": false,
-          "rare": true
-        }
-      ]
-    },
-    {
-      "pinyin": "yo",
-      "initial": "-",
-      "final": "-",
-      "abbr": "",
-      "bopomofo": "ㄧㄛ",
-      "basic": true,
-      "syllables": [
-        {
-          "full": "yō",
-          "num": "yo1",
-          "char": "唷",
-          "freq": "3",
-          "valid": true,
-          "rare": false
-        },
-        {
-          "full": "yó",
-          "num": "yo2",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yǒ",
-          "num": "yo3",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yò",
-          "num": "yo4",
-          "char": "",
-          "freq": "",
-          "valid": false,
-          "rare": true
-        },
-        {
-          "full": "yo",
-          "num": "yo5",
-          "char": "哟",
-          "freq": "1",
-          "valid": true,
           "rare": true
         }
       ]
@@ -21198,6 +21099,106 @@
           "full": "ǹg",
           "num": "ng4",
           "char": "嗯",
+          "freq": "1",
+          "valid": true,
+          "rare": true
+        }
+      ]
+    },
+    {
+      "pinyin": "yai",
+      "initial": "-",
+      "final": "-",
+      "abbr": "",
+      "bopomofo": "ㄧㄞ",
+      "basic": false,
+      "syllables": [
+        {
+          "full": "yāi",
+          "num": "yai1",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yái",
+          "num": "yai2",
+          "char": "崖",
+          "freq": "",
+          "valid": true,
+          "rare": true
+        },
+        {
+          "full": "yǎi",
+          "num": "yai3",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yài",
+          "num": "yai4",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yai",
+          "num": "yai5",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        }
+      ]
+    },
+    {
+      "pinyin": "yo",
+      "initial": "-",
+      "final": "-",
+      "abbr": "",
+      "bopomofo": "ㄧㄛ",
+      "basic": true,
+      "syllables": [
+        {
+          "full": "yō",
+          "num": "yo1",
+          "char": "唷",
+          "freq": "3",
+          "valid": true,
+          "rare": false
+        },
+        {
+          "full": "yó",
+          "num": "yo2",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yǒ",
+          "num": "yo3",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yò",
+          "num": "yo4",
+          "char": "",
+          "freq": "",
+          "valid": false,
+          "rare": true
+        },
+        {
+          "full": "yo",
+          "num": "yo5",
+          "char": "哟",
           "freq": "1",
           "valid": true,
           "rare": true

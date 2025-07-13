@@ -101,7 +101,7 @@ class PinyinTable {
                 const syllable = this.findSyllable(initial, final);
                 if (!syllable) {
                     missingCombinations++;
-                    console.log(`Missing syllable for initial: "${initial}", final: "${final}"`);
+                    // console.log(`Missing syllable for initial: "${initial}", final: "${final}"`);
                 }
             });
         });
@@ -171,7 +171,7 @@ class PinyinTable {
         });
         
         // Log table dimensions for debugging
-        console.log(`Table dimensions: ${initials.length} rows (initials) × ${finals.length} columns (finals)`);
+        // console.log(`Table dimensions: ${initials.length} rows (initials) × ${finals.length} columns (finals)`);
     }
 
     findSyllable(initial, final) {
